@@ -1,0 +1,581 @@
+institution,region,countryabbrv
+AIT Austrian Institute of Technology GmbH,,at
+Academia Sinica,,tw
+Airbnb,,us
+Aix Marseille Université,,fr
+Ajou University,,kr
+Albert-Ludwigs-Universität Freiburg,,de
+Alexandria University,,eg
+Allama Iqbal Open University,,pk
+Alzahra University,,ir
+Amazon Inc.,,us
+Amirkabir University of Technology (Polytechnic of Tehran),,ir
+Amity University,,in
+Anhui Normal University,,cn
+Anhui University,,cn
+Argonne National Laboratory,,us
+Athens University of Applied Sciences,,gr
+Autonomous University of Barcelona,,es
+Avignon University,,fr
+Azarbaijan Shahid Madani University,,ir
+Bar Ilan University,,il
+Barry University,,us
+Beijing Institute of Technology,,cn
+Beijing Jiaotong University,,cn
+Beijing University of Chemical Technology,,cn
+Beijing University of Civil Engineering and Architecture,,cn
+Beijing University of Posts and Telecommunications,,cn
+Beijing University of Technology,,cn
+Belarusian State University of Informatics and Radioelectronics,,by
+Ben Gurion University of the Negev,,il
+Bennett University,,in
+Bentley University,,us
+Bergische University Wuppertal,,de
+Boise State University,,us
+Brandon University,,ca
+Budapest University of Technology and Economics,,hu
+Burnet Institute,,au
+CERN,,ch
+CNRS,,fr
+CSIRO,,au
+Ca' Foscari University of Venice,,it
+Cairo University,,eg
+California State University Channel Islands,,us
+California State University at Los Angeles,,us
+Campus Universitário de Santiago,,pt
+Care and Public Health Research Institute (CAPHRI),,nl
+Case Western Reserve University,,us
+Catholic University,,it
+Catholic University and Complexity Lab in Economics,,it
+Catholic University of Rome,,it
+Central European University,,hu
+Central South University,,cn
+Central University of Finance and Economics,,cn
+Changsha University of Science and Technology,,cn
+Changshu Institute of Technology,,cn
+Chaoyang University of Technology,,tw
+China University of Petroleum (Huadong),,cn
+Chinese Academic of Sciences,,cn
+Chinese Academy of Science,,cn
+Chongqing University,,cn
+Chongqing University of Posts and Telecommunications,,cn
+Chongqing University of Technology,,cn
+Christ University,,in
+Christian-Albrechts-University,,de
+Chung Yuan Christian University,,tw
+Chuo University,,jp
+City University London,,uk
+City University of New York,,us
+Claremont Graduate University,,us
+Clausthal University of Technology,,de
+Copenhagen Business School,,dk
+Corvinus University of Budapest,,hu
+Coventry University,,uk
+Cranfield University,,uk
+Creighton University,,us
+Curtin University,,au
+Daffodil International University (DIU),,bd
+Dakota State University,,us
+Dalian Maritime University,,cn
+Dalian Minzu University,,cn
+Dalian University of Technology,,cn
+Deakin University,,au
+Delft University of Technology,,se
+Denison University,,us
+Department of Sociology & Inter-University Center for Social Science Theory and Methodology,,nl
+Dongbei University of Finance & Economics,,cn
+Donghua University,,cn
+Duquesne University,,us
+ETH Zürich,,ch
+East Carolina University,,us
+Edinboro University,,us
+Edinburgh Napier University,,uk
+Eindhoven University of Technology,,nl
+Eotvos Lorand University Faculty of Social Sciences,,hu
+Epidemiological Research and Adolescence Health Center Unit; Mexican Institute of Social Security,,mx
+Erasmus University Rotterdam,,nl
+Escuela Universitaria de Estadística,,es
+Eötvös Loránd University,,hu
+Federal University of Amazonas,,br
+Federal University of Bahia,,br
+Federal University of Minas Gerais,,br
+Federal University of Rio de Janeiro,,br
+Federation University Australia,,au
+Ferdowsi University of Mashhad,,ir
+Flinders University,,au
+Florida International University,,us
+Fontys University of Applied Sciences,,nl
+Free University,,nl
+Free University Berlin,,de
+Fujian Normal University,,cn
+Fujian University of Technology,,cn
+Fukuoka Institute of Technology,,jp
+Future Operations Investigation Laboratory Air Force Institute of Technology Wright-Patterson Air Force Base,,us
+Fuzhou University,,cn
+GESIS - Leibniz Institute for the Social Sciences,,de
+GLA University,,in
+Gazi University,,tr
+Georg-August-Universitaet,,de
+Georgia State University,,us
+Georgia State University Atlanta,,us
+Ghent University,,be
+Google,,us
+Graz University of Technology 8 Know-Center,,at
+Griffith University,,au
+Guangdong University of Foreign Studies,,cn
+Guangdong University of Technology,,cn
+Guangzhou University,,cn
+Guilin University of Electronic Technology,,cn
+Gwangju Institute of Science and Technology (GIST),,kr
+HP Labs,,us
+Hangzhou Dianzi University,,cn
+Hangzhou Normal University,,cn
+Hanoi University of Science and Technology,,vn
+Hawassa University,,et
+Hebei Normal University,,cn
+Hefei University of Technology,,cn
+Helsinki University of Technology,,fi
+Henan Polytechnic University,,cn
+Henan University of Economics and Law,,cn
+Hiroshima University,,jp
+Hofstra University,,us
+Hokkaido University,,jp
+Hosei University,,jp
+Huazhong University of Science and Technology,,cn
+Humboldt-Universität zu Berlin,,de
+Hungarian Academy of Sciences,,hu
+Hungary and Eötvös Loránd University of Sciences,,hu
+IBM,,us
+ICREA-Universitat Pompeu Fabra,,es
+IMT School for Advanced Studies,,it
+ISPA- Instituto Universitário de Ciências Psicológicas,,pt
+IT University Copenhagen,,dk
+Idiap Research Institute,,ch
+Illinois Institute of Technology,,us
+Indian Institute of Engineering Science and Technology,,in
+Indian Institute of Information Technology,,in
+Indian Institute of Management,,in
+Indian Institute of Science,,in
+Indian Institute of Space Science and Technology,,in
+Indian Institute of Technology Patna,,in
+Indian Statistical Institute,,in
+Indraprastha Institute of Information Technology Delhi,,in
+Inner Mongolia University,,cn
+Institut für Statistik Ludwigs-Maximilians-Universität München,,de
+Institute for Service Marketing and Tourism,,at
+Institute for Statistics and Mathematics,,at
+Institute of Automation,,cn
+Institute of High Performance Computing,,sg
+Institute of Informatics and Telematics of CNR,,it
+Institute of Information Science,,tw
+Institute of Scientific and Technological Communication & Information in Health,,br
+Institute of Smart Healthcare Systems,,cn
+Institute of Sociology,,tw
+Institute of Statistical Science,,tw
+Instituto de Telecomunicações,,pt
+International Institute of Information Technology,,in
+International University of Japan,,jp
+Ionian University,,gr
+Iowa State University,,us
+Islamic Azad University,,ir
+Islamic University of Technology (IUT),,bd
+Istanbul Bilgi University,,tr
+Jacobs University,,de
+Jadavpur University,,in
+Jagiellonian University,,pl
+Japan Women’s University,,jp
+Jiangsu University,,cn
+Jiangsu University of Science and Technology,,cn
+Jining Medical University,,cn
+Johannes Kepler University,,at
+Julius-Maximilians-University Würzburg,,de
+K. N. Toosi University of Technology,,ir
+Kafrelsheikh University,,eg
+Kennesaw State University,,us
+Khalifa University,,ae
+King Abdul Aziz University,,sa
+King Abdullah University of Science and Technology,,sa
+King Faisal University,,sa
+King Mongkut’s University of Technology Thonburi,,th
+King Saud University,,sa
+Kozminski University,,pl
+Kyushu University,,jp
+Károli Gáspár University of the Reformed Church,,hu
+La Trobe University,,au
+Lahore University of Management and Sciences,,pk
+Lakehead University,,ca
+Lanzhou University,,cn
+Leibniz University Hannover,,de
+Liaoning Normal University,,cn
+Linköping University,,se
+Linnaeus University,,se
+Lipscomb University,,us
+Liverpool John Moores University,,uk
+London School of Economics and Political Science,,uk
+London South Bank University,,uk
+Los Alamos National Laboratory,,us
+Los Andes University,,co
+Louisiana State University,,us
+Louisiana Tech University,,us
+Lovely Professional University,,at
+Ludong University,,cn
+L’Università della Svizzera Italiana,,ch
+Macau University of Science and Technology,,cn
+Macquarie Univeristy,,au
+Mahidol University,,th
+Majmaah University,,sa
+Manchester Metropolitan University,,uk
+Manonmaniam Sundaranar University,,in
+Massachusetts Institute of Technology,,us
+Max-Planck Institute for Informatics,,de
+Mediterranea University of Reggio Calabria,,it
+Mercer University,,us
+Michigan Technological University,,us
+Microsoft,,us
+Middle Tennessee State University,,us
+Ming Chi University of Technology,,tw
+Mississippi State University,,us
+Muroran Institute of Technology,,jp
+NIVEL: Netherlands Institute for Health Services Research,,nl
+Nagaoka University of Technology,,jp
+Nanjing Agricultural University,,cn
+National Chengchi University,,tw
+National Chi Nan University,,tw
+National Chin-Yi University of Technology,,tw
+National Development and Research Institute,,us
+National Dong Hwa University,,tw
+National Human Genome Research Institute,,us
+National Institute of Technology,,in
+National Institute of Technology (NIT),,in
+National Institute of Technology Jamshedpur,,in
+National Institute of Technology at Durgapur,,in
+National Institute of Technology at Patna,,in
+National Institutes of Health,,us
+National Taipei University,,tw
+National Taiwan Normal University,,tw
+National University of Computer and Emerging Sciences,,pk
+National University of Defense Technology,,cn
+National University of Ireland,,ie
+National University of Ireland Galway,,ie
+National University of Modern Languages,,pk
+Naxys – University of Namur,,be
+Netherlands Defense Academy,,nl
+Netherlands Institute for the Study of Crime and Law enforcement (NSCR),,nl
+New England Complex Systems Institute,,us
+New Jersey Institute of Technology,,us
+New York Institute of Technology,,US
+Ningxia University,,cn
+Nipissing University,,ca
+Nokia Bell Labs,,us
+North China Electric Power University,,cn
+North Dakota State University,,us
+Northeast Normal University,,cn
+Northumbria University,,uk
+Northwest Normal University,,cn
+Norwegian University of Science and Technology,,no
+Nottingham Trent University,,uk
+Oakland University,,us
+Ocean University of China,,cn
+Old Dominion University,,us
+Open University,,uk
+Open University of Catalonia,,es
+Open University of Israel,,il
+Oregon Research Institute,,us
+Oxford University,,uk
+PLA Strategic Support Force Information Engineering University,,cn
+Pace University,,us
+Pacific Northwest National Laboratory,,us
+Penn State University,,us
+Polytechnic School University of Alcalá,,es
+Poznan University of Technology,,pl
+Pázmány Péter Catholic University,,hu
+Qilu University of Technology,,cn
+Qingdao Academy of Intelligent Industries,,cn
+Queensland University of Technology,,au
+Qufu Normal University,,cn
+RCC Institute of Information Technology,,in
+RWTH Aachen University,,de
+Radboud Universiteit Nijmegen,,nl
+Rennselaer Polytechnic Institute,,us
+Rio de Janeiro State University,,br
+Rowan University,,us
+Ruhr-Universität Bochum,,de
+San José State University,,us
+Santa Clara University,,us
+Santa Fe Institute,,us
+Sapienza Universitá di Roma,,it
+Sejong University,,cn
+Semmelweis University,,hu
+Shaanxi Normal University,,cn
+Shahrekord University,,ir
+Shanghai Normal University,,cn
+Shanghai Polytechnic University,,cn
+Shanghai University,,cn
+Shanghai University of Electric Power,,cn
+Shanghai University of International Business and Economics,,cn
+Shenyang Ligong University,,cn
+Shiga University,,jp
+Shih Hsin University,,tw
+Shihezi University,,cn
+Shiraz University,,ir
+Shiraz University of Technology,,ir
+Sichuan University,,cn
+Singapore University of Technology and Design,,sg
+Sohar University,,om
+Soochow University,,cn
+South China Normal University,,cn
+South China University of Technology,,cn
+Southeast University,,cn
+Southern Illinois University,,us
+Southern Methodist University,,us
+Southern University of Science and Technology,,cn
+Southwest Jiaotong University,,cn
+Southwestern University of Finance and Economics,,cn
+St. Francis Xavier University,,ca
+St. Petersburg State University,,ru
+State University of New York at Buffalo,,us
+State University of New York at Stony Brook,,us
+State University of Southwestern of Bahia,,us
+Stockholm University,,se
+Stockholm University and Research Institute of Industrial Economics (IFN),,se
+Stockholm University/Karolinska Institutet,,se
+Sun Yat-Sen University,,cn
+Supreme Knowledge Foundation Group of Institutions,,in
+Swansea University,,uk
+Swinburne University of Technology,,au
+Syracuse University,,us
+Taif University,,sa
+Tampere University,,fi
+Technical University of Munich,,de
+Technische Universiteit Eindhoven,,nl
+Technological University Dublin,,ie
+Tel-Aviv University,,il
+Telecom ParisTech,,fr
+Telefónica Research,,es
+Temple University,,us
+Tennessee State University,,us
+Texas Tech University,,us
+Texas Woman’s University,,us
+The British University in Egypt,,eg
+The Hebrew University,,il
+The State University of New Jersey,,us
+Tianjin University,,cn
+Tianjin University of Finance and Economics,,cn
+Tohoku University,,jp
+Tokushima University,,jp
+Tokyo International University,,jp
+Tulane University,,us
+Tunghai University,,tw
+U.S. Army Engineer Research and Development Center,,us
+U.S. Army Research Laboratory,,us
+UMR151 IRD/Aix-Marseille Université,,fr
+US Army Research Institute for the Behavioral and Social Sciences,,us
+Umeå University,,se
+United States Military Academy,,us
+Univeristy College Dublin,,ie
+Universidad Autónoma de Madrid,,es
+Universidad Carlos III de Madrid,,es
+Universidad Católica,,py
+Universidad Nacional Autónoma de México,,mx
+Universidad Nacional del Sur (UNS),,ar
+Universidad Politécnica de Madrid,,es
+Universidad de Ibagué,,co
+Universidad de Los Andes,,ve
+Universidad de Sevilla,,es
+Universidade Estadual Paulista,,br
+Universidade Federal Rural de Pernambuco,,br
+Universidade Federal do Rio Grande (FURG),,br
+Universidade Federal do Rio de Janeiro,,br
+Universidade Técnica de Lisboa (TULisbon),,pt
+Universidade da Coruña,,es
+Universidade de São Paulo,,br
+Universitat Autònoma de Barcelona,,es
+Universitat Autònoma de Barcelona (UAB),,es
+Universitat Politècnica de Catalunya,,es
+Universitat Pompeu Fabra,,es
+Universitat de Barcelona,,es
+Universite de Montreal,,ca
+Universite de Toulouse le Mirail,,fr
+Universiteit van Amsterdam,,nl
+University College Dublin,,ie
+University Minnesota,,us
+University Osnabrück,,de
+University at Albany,,us
+University of Aizu,,jp
+University of Alabama,,us
+University of Alcalá,,es
+University of Alzahra,,ir
+University of Applied Labour Studies,,de
+University of Arkansas,,us
+University of Aveiro,,pt
+University of Avignon,,fr
+University of Barcelona,,es
+University of Bielefeld,,de
+University of Bologna,,it
+University of Brescia,,it
+University of Calabria,,it
+University of Calcutta,,in
+University of Carthage,,tn
+University of Central Lancashire,,uk
+University of Chester,,uk
+University of Cincinnati,,us
+University of Cologne,,de
+University of Colorado,,us
+University of Colorado Denver,,us
+University of Debrecen,,hu
+University of Denver,,us
+University of Derby,,uk
+University of Eastern Finland,,fi
+University of Economics in Katowice,,pl
+University of Edinburgh,,uk
+University of Electro-Communications,,jp
+University of Engineering and Management,,in
+University of Erlangen-Nuremberg,,de
+University of Foggia,,it
+University of Fribourg,,ch
+University of Geneva,,ch
+University of Gent,,be
+University of Girona,,es
+University of Gothenburg,,se
+University of Greenwich,,uk
+University of Guanajuato,,mx
+University of Gujrat,,pk
+University of Hawaii at Manoa,,us
+University of Houston,,us
+University of Hyogo,,jp
+University of Idaho,,us
+University of Illinois at Urbana–Champaign,,us
+University of Indiana Bloomington,,us
+University of Isfahan,,ir
+University of Italian Switzerland,,ch
+University of Joensuu,,fi
+University of Jyväskylä,,fi
+University of Kalyani,,in
+University of Karlsruhe (TH),,de
+University of Kerala,,in
+University of Klagenfurt,,at
+University of Lausanne,,ch
+University of Leicester,,uk
+University of Leuven,,be
+University of Ljubljana,,si
+University of London,,uk
+University of Los Andes,,co
+University of Louisville,,us
+University of Lugano,,ch
+University of Lugano and School of Management,,co
+University of Macau,,cn
+University of Macedonia,,gr
+University of Maribor,,si
+University of Maryand,,us
+University of Massachusetts,,us
+University of Massachusetts Medical School,,us
+University of Massachusetts at Amherst,,us
+University of Massachusetts at Boston,,us
+University of Massachusetts at Dartmouth,,us
+University of Mississippi,,us
+University of Missouri,,us
+University of Missouri—St. Louis,,us
+University of Munich,,de
+University of Naples,,it
+University of Naples Federico II,,it
+University of Navarra,,es
+University of Nebraska Omaha,,us
+University of Neuchâtel,,ch
+University of New South Wales,,au
+University of Nijmegen,,nl
+University of North Texas,,us
+University of Oulu,,fi
+University of Oviedo,,es
+University of Paris-Dauphine,,fr
+University of Porto,,pt
+University of Salento,,it
+University of San Francisco,,us
+University of Sargodha,,pk
+University of Science and Technology Beijing,,cn
+University of Science and Technology of China,,cn
+University of Silesia,,pl
+University of Social Sciences and Humanities,,pl
+University of South Australia,,au
+University of South Carolina,,us
+University of South Wales,,uk
+University of Southern Queensland,,au
+University of St. Gallen,,ch
+University of Stavanger,,no
+University of São Paulo,,br
+University of Tehran,,ir
+University of Thessaly,,gr
+University of Torino,,it
+University of Trieste,,it
+University of Turin,,it
+University of Turku,,fi
+University of Udine,,it
+University of Utrecht,,nl
+University of Versailles,,fr
+University of Western Ontario,,ca
+University of Westminster,,uk
+University of Wisconsin-Madison,,us
+University of Wisconsin-Milwaukee,,us
+University of Zadar,,hr
+University of Zaragoza,,es
+University of the West of England,,uk
+University of the Witwatersrand,,za
+University of Örebro,,se
+Università Cattolica del Sacro Cuore,,it
+Università Cattolica del Sacro Cuore and Transcrime,,it
+Università degli Studi di Brescia,,it
+Università degli Studi di Palermo,,it
+Università degli Studi di Torino,,it
+Università degli Studi di Trento,,ru
+Università di Bologna,,it
+Università di Milano-Bicocca,,it
+Università di Pavia,,it
+Università di Pisa,,it
+Universität Bern,,ch
+Universität Dortmund,,de
+Universität Leipzig,,de
+Universität Münster,,de
+Universität Passau,,de
+Universität Siegen,,de
+Université Catholique de Louvain,,be
+Université Internationale de Rabat,,ma
+Université Paris 2,,fr
+Université Paris Descartes,,fr
+Université Paris-Dauphine,,fr
+Université Toulouse Capitole,,fr
+Université catholique de Louvain,,be
+Université de Caen,,fr
+Université de Montréal,,ca
+Université de la Méditerranée,,fr
+Université du Québec à Montréal,,ca
+Utah State University,,us
+VU University Medical Center,,nl
+Villanova University,,us
+Virginia Polytechnic Institute and State University,,us
+Visva-Bharati University,,in
+Vrije Universiteit,,nl
+Wageningen University,,nl
+Wake Forest School of Medicine,,us
+Wake Forest University,,us
+Waterford Institute of Technology,,IE
+Wayne State University,,us
+West Virginia University,,us
+Western Paraná State University (UNIOESTE),,br
+Wrocław University of Science and Technology,,pl
+Xiamen University,,cn
+Xidian University,,cn
+Xi’an Jiaotong University,,cn
+Xi’an University of Technology,,cn
+Yale Institute for Network Science and Université Laval,,us
+Yanshan University,,cn
+Yantai University,,cn
+Yarmouk University,,jo
+Yokohama National University,,jp
+Yonsei university,,kr
+Yuan Ze University,,tw
+Zagazig University,,eg
+Zayed University,,ae
+Zhejiang Normal University,,cn
+Zhejiang Sci-Tech University,,cn
+Zhengzhou University,,cn
+Zhongnan University of Economics and Law,,cn
+University of Electronic Science and Technology of China,,cn
