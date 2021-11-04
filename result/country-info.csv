@@ -1,78 +1,236 @@
 institution,region,countryabbrv
+AIT Austrian Institute of Technology GmbH,europe,at
 AUEB,europe,gr
 Aalborg University,europe,dk
 Aalto University,europe,fi
 Aarhus University,europe,dk
 Aberystwyth University,europe,uk
+Academia Sinica,asia,tw
+Airbnb,northamerica,us
+Aix Marseille University,europe,fr
+Ajou University,asia,kr
+Albert Ludwig's University of Freiburg,europe,de
+Alexandria University,africa,eg
+Alibaba Group,asia,cn
+Allama Iqbal Open University,asia,pk
+Alzahra University,asia,ir
+Amazon Inc.,northamerica,us
 American University in Cairo,africa,eg
 American University of Beirut,asia,lb
+Amirkabir University of Technology (Polytechnic of Tehran),asia,ir
+Amity University,asia,in
+Anhui Normal University,asia,cn
+Anhui University,asia,cn
+Argonne National Laboratory,northamerica,us
 Ariel University,asia,il
+Athens University of Applied Sciences,europe,gr
 Australian National University,australasia,au
+Autonomous University of Barcelona,europe,es
+Autonomous University of Madrid,europe,es
+Avignon University,europe,fr
+Azarbaijan Shahid Madani University,asia,ir
 BITS Pilani,asia,in
 BUET,asia,bd
 Babeş Bolyai University,europe,ro
+Banasthali Vidyapith,asia,in
+Bar Ilan University,asia,il
 Bar-Ilan University,asia,il
+Barcelona University,europe,es
+Barry University,northamerica,us
 Bauhaus University Weimar,europe,de
 Beihang University,asia,cn
+Beijing Institute of Technology,asia,cn
+Beijing Jiaotong University,asia,cn
+Beijing University of Chemical Technology,asia,cn
+Beijing University of Civil Engineering and Architecture,asia,cn
+Beijing University of Posts and Telecommunications,asia,cn
+Beijing University of Technology,asia,cn
+Belarusian State University of Informatics and Radioelectronics,europe,by
+Ben Gurion University of the Negev,asia,il
 Ben-Gurion University of the Negev,asia,il
+Bennett University,asia,in
+Bentley University,northamerica,us
+Bergische University Wuppertal,europe,de
+Berlin Institute of Technology,europe,de
 Bielefeld University,europe,de
 Bilkent University,asia,tr
 Birkbeck University of London,europe,uk
 Bocconi University,europe,it
+Boise State University,northamerica,us
 Bosphorus University,asia,tr
 Brandenburg University of Technology,europe,de
+Brandon University,canada,ca
 Brno University of Technology,europe,cz
 Brunel University London,europe,uk
+Budapest University of Technology and Economics,europe,hu
 Bundeswehr University Munich,europe,de
+Burnet Institute,australasia,au
+CERN,europe,ch
 CISPA Helmholtz Center,europe,de
 CMI,asia,in
+CNRS,europe,fr
 CRIStAL,europe,fr
+CSIRO,australasia,au
 CWI,europe,nl
+Ca' Foscari University of Venice,europe,it
+Cairo University,africa,eg
+California State University Channel Islands,northamerica,us
+California State University at Long Beach,northamerica,us
+California State University at Los Angeles,northamerica,us
 Cardiff University,europe,uk
-Carleton University,northamerica,ca
+Care and Public Health Research Institute (CAPHRI),europe,nl
+Carleton University,canada,ca
+Case Western Reserve University,northamerica,us
+Catholic University,southamerica,py
+Catholic University and Complexity Lab in Economics,europe,it
+Catholic University of Louvain,europe,be
+Catholic University of Rome,europe,it
+Catholic University of Sacred Heart,europe,it
+Catholic University of the Sacred Heart and Transcrime,europe,it
+Central China Normal University,asia,cn
+Central European University,europe,hu
+Central South University,asia,cn
+Central University of Finance and Economics,asia,cn
 Chalmers/GU,europe,se
+Changsha University of Science and Technology,asia,cn
+Changshu Institute of Technology,asia,cn
+Chaoyang University of Technology,asia,tw
 Charles University,europe,cz
+China Academy of Electronics and Information Technology,asia,cn
+China University of Petroleum,asia,cn
 Chinese Academy of Sciences,asia,cn
 Chinese University of Hong Kong,asia,hk
+Chongqing University,asia,cn
+Chongqing University of Posts and Telecommunications,asia,cn
+Chongqing University of Technology,asia,cn
+Christ University,asia,in
+Christian-Albrechts-University,europe,de
 Chulalongkorn University,asia,th
+Chung Yuan Christian University,asia,tw
+Chuo University,asia,jp
+City University London,europe,uk
 City University of Hong Kong,asia,hk
 City University of London,europe,uk
-Concordia University,northamerica,ca
+City University of New York,northamerica,us
+Claremont Graduate University,northamerica,us
+Clausthal University of Technology,europe,de
+Coach University,asia,tr
+Concordia University,canada,ca
+Copenhagen Business School,europe,dk
+Corvinus University of Budapest,europe,hu
+Coventry University,europe,uk
+Cranfield University,europe,uk
+Creighton University,northamerica,us
+Curtin University,australasia,au
 Cyprus University of Technology,europe,cy
 Czech Technical University,europe,cz
 DAIICT,asia,in
 DTU,europe,dk
-Dalhousie University,northamerica,ca
+Daffodil International University (DIU),asia,bd
+Dakota State University,northamerica,us
+Dalhousie University,canada,ca
+Dalian Maritime University,asia,cn
+Dalian Minzu University,asia,cn
+Dalian University of Technology,asia,cn
 De La Salle University,asia,ph
+Deakin University,australasia,au
+Delft University of Technology,europe,se
+Denison University,northamerica,us
+Digital Research Institute,asia,cn
+Dongbei University of Finance & Economics,asia,cn
+Donghua University,asia,cn
+Dublin Institute of Technology,europe,ie
+Duquesne University,northamerica,us
 Durham University,europe,uk
+Dutch Institute for Social Science Research (SCP),europe,nl
 EPFL,europe,ch
 ETH Zurich,europe,ch
-ETS Montreal,northamerica,ca
+ETS Montreal,canada,ca
 EURECOM,europe,fr
+East Carolina University,northamerica,us
 Ecole Normale Superieure,europe,fr
-Normal School of Cachan Superior,europe,fr
-Normal School of Lyon,europe,fr
-Normal School of Rennes,europe,fr
+Edinboro University,northamerica,us
+Edinburgh Napier University,europe,uk
+Eindhoven University of Technology,europe,nl
+Eotvos Lorand University Faculty of Social Sciences,europe,hu
+Epidemiological Research and Adolescence Health Center Unit; Mexican Institute of Social Security,northamerica,mx
+Erasmus University Rotterdam,europe,nl
+Eötvös Loránd University,europe,hu
+FU Berlin,europe,de
+Federal University of Amazonas,southamerica,br
+Federal University of Bahia,southamerica,br
+Federal University of Minas Gerais,southamerica,br
 Federal University of Rio Grande,southamerica,br
+Federal University of Rio de Janeiro,southamerica,br
+Federal University of Viçosa,southamerica,br
+Federation University Australia,australasia,au
+Ferdowsi University of Mashhad,asia,ir
+Flinders University,australasia,au
+Florida International University,northamerica,us
+Fontys University of Applied Sciences,europe,nl
+Free University,europe,nl
+Free University Berlin,europe,de
+Free University of Brussels,europe,be
 Freie Universitaet Berlin,europe,de
 Friedrich Schiller University Jena,europe,de
 Fudan University,asia,cn
+Fujian Normal University,asia,cn
+Fujian University of Technology,asia,cn
+Fukuoka Institute of Technology,asia,jp
+Future Operations Investigation Laboratory Air Force Institute of Technology Wright-Patterson Air Force Base,northamerica,us
+Fuzhou University,asia,cn
+GESIS - Leibniz Institute for the Social Sciences,europe,de
+GLA University,asia,in
+Galgotias University,asia,in
+Gazi University,asia,tr
+Georg-August-Universitaet,europe,de
+Georgia State University,northamerica,us
+Georgia State University Atlanta,northamerica,us
+German Institute for Economic Research (DIW) Berlin,europe,de
+Ghent University,europe,be
 Goethe University Frankfurt,europe,de
 Goldsmiths University of London,europe,uk
+Google,northamerica,us
+Graduate Institute Geneva,europe,ch
 Graz University of Technology,europe,at
-HEC Montreal,northamerica,ca
+Graz University of Technology 8 Know-Center,europe,at
+Griffith University,australasia,au
+Guangdong University of Foreign Studies,asia,cn
+Guangdong University of Technology,asia,cn
+Guangzhou University,asia,cn
+Guilin University of Electronic Technology,asia,cn
+Gwangju Institute of Science and Technology (GIST),asia,kr
+HEC Montreal,canada,ca
 HKUST,asia,hk
+HP Labs,northamerica,us
 Hacettepe University,asia,tr
 Hamburg University of Technology,europe,de
+Hangzhou Dianzi University,asia,cn
+Hangzhou Normal University,asia,cn
+Hanoi University of Science and Technology,asia,vn
 Hanyang University,asia,kr
 Harbin Institute of Technology,asia,cn
 Hasso Plattner Institute,europe,de
+Hawassa University,africa,et
+Hebei Normal University,asia,cn
 Hebrew University of Jerusalem,asia,il
+Hefei University of Technology,asia,cn
 Heidelberg University,europe,de
+Helsinki University of Technology,europe,fi
+Henan Polytechnic University,asia,cn
+Henan University of Economics and Law,asia,cn
 Heriot-Watt University,europe,uk
+Hiroshima University,asia,jp
+Hofstra University,northamerica,us
+Hokkaido University,asia,jp
 Hong Kong Baptist University,asia,hk
+Hosei University,asia,jp
+Huazhong University of Science and Technology,asia,cn
 Humboldt University of Berlin,europe,de
 Hunan University,asia,cn
+Hungarian Academy of Sciences,europe,hu
+Hungary and Eötvös Loránd University of Sciences,europe,hu
+IBM,northamerica,us
 IIIT Bangalore,asia,in
 IIIT Delhi,asia,in
 IIIT Hyderabad,asia,in
@@ -96,103 +254,348 @@ IIT Ropar,asia,in
 IMDEA Networks Institute,europe,es
 IMDEA Software Institute,europe,es
 IMSc,asia,in
+IMT School for Advanced Studies,europe,it
 IPI PAN,europe,pl
 IPM,asia,ir
+ISC-PIF,europe,fr
+ISPA University Institute of Psychological Sciences,europe,pt
 IST Austria,europe,at
+IT University Copenhagen,europe,dk
 IT University of Copenhagen,europe,dk
 IUST,asia,ir
+Idiap Research Institute,europe,ch
+Illinois Institute of Technology,northamerica,us
 Imperial College London,europe,uk
+Indian Institute of Engineering Science and Technology,asia,in
+Indian Institute of Information Technology,asia,in
+Indian Institute of Management,asia,in
+Indian Institute of Science,asia,in
+Indian Institute of Space Science and Technology,asia,in
+Indian Institute of Technology Patna,asia,in
+Indian Statistical Institute,asia,in
+Indraprastha Institute of Information Technology Delhi,asia,in
+Inner Mongolia University,asia,cn
+Institut Barcelona d'Estudis Internacionals (IBEI),europe,es
+Institut Mines-Tlcom,europe,fr
+Institute for Advanced Studies in Basic Sciences,asia,ir
+Institute for Futures Studies,europe,se
+Institute for Infocomm Research (I2R),asia,sg
+Institute for Scientific Interchange (ISI) Foundation,europe,it
+Institute for Service Marketing and Tourism,europe,at
+Institute for Statistics and Mathematics,europe,at
+Institute of Automation,asia,cn
+Institute of Econometrics,europe,pl
+Institute of Economic Analysis and Barcelona GSE,europe,es
+Institute of Forensic Science,asia,cn
+Institute of Health Policy and Management,europe,nl
+Institute of High Performance Computing,asia,sg
+Institute of Informatics and Telematics of CNR,europe,it
+Institute of Information Science,asia,tw
+Institute of Management Sciences,asia,pk
+Institute of Mathematics,europe,si
+Institute of Political Studies in Paris,europe,fr
+Institute of Scientific and Technological Communication & Information in Health,southamerica,br
+Institute of Smart Healthcare Systems,asia,cn
+Institute of Sociology,asia,tw
+Institute of Statistical Science,asia,tw
+International Institute of Information Technology,asia,in
+International University of Japan,asia,jp
+International University of Rabat,africa,ma
+International University of Rabat,africa,ma
+Interuniversity Center for Social Science Theory and Methodology,europe,nl
+Ionian University,europe,gr
+Iowa State University,northamerica,us
+Islamic Azad University,asia,ir
+Islamic University of Technology (IUT),asia,bd
+Istanbul Bilgi University,asia,tr
 Istanbul Technical University,asia,tr
 Izmir Institute of Technology,asia,tr
 JKU Linz,europe,at
 JUST,asia,jo
+Jacobs University,europe,de
 Jacobs University Bremen,europe,de
+Jadavpur University,asia,in
+Jagiellonian University,europe,pl
+Japan Advanced Institute of Science and Technology,asia,jp
+Japan Women's University,asia,jp
+Jean Monnet University,europe,fr
+Jiangsu University,asia,cn
+Jiangsu University of Science and Technology,asia,cn
+Jining Medical University,asia,cn
+Johannes Kepler University,europe,at
+Julius Maximilians University Würzburg,europe,de
+K. N. Toosi University of Technology,asia,ir
 KAIST,asia,kr
 KAUST,asia,sa
 KMUTNB,asia,th
+KTH - Royal Institute of Technology,europe,se
 KTH Royal Institute of Technology,europe,se
 KU Leuven,europe,be
+Kafrelsheikh University,africa,eg
+Kanagawa Institute of Technology,asia,jp
 Karlsruhe Institute of Technology,europe,de
 Keio University,asia,jp
+Kennesaw State University,northamerica,us
+Khalifa University,asia,ae
+King Abdul Aziz University,asia,sa
 King Abdulaziz University,asia,sa
+King Abdullah University of Science and Technology,asia,sa
+King Faisal University,asia,sa
+King Juan Carlos University,europe,es
+King Mongkut's University of Technology Thonburi,asia,th
+King Saud University,asia,sa
 King's College London,europe,uk
 Korea University,asia,kr
-Coach University,asia,tr
+Kozminski University,europe,pl
 Kyoto University,asia,jp
 Kyung Hee University,asia,kr
 Kyungpook National University,asia,kr
+Kyushu University,asia,jp
+Károli Gáspár University of the Reformed Church,europe,hu
 LMU Munich,europe,de
 LUMS,asia,pk
+La Trobe University,australasia,au
+Lahore University of Management and Sciences,asia,pk
+Lakehead University,canada,ca
 Lancaster University,europe,uk
+Lanzhou University,asia,cn
 Lebanese American University,asia,lb
+Leibniz University Hannover,europe,de
 Leiden University,europe,nl
+Lev Academic Center,asia,il
+Liaoning Normal University,asia,cn
+Linköping University,europe,se
+Linnaeus University,europe,se
+Lipscomb University,northamerica,us
+Lisbon University,europe,pt
+Liverpool John Moores University,europe,uk
+London School of Economics and Political Science,europe,uk
+London South Bank University,europe,uk
+Los Alamos National Laboratory,northamerica,us
 Loughborough University,europe,uk
+Louisiana State University,northamerica,us
+Louisiana Tech University,northamerica,us
+Lovely Professional University,europe,at
+Ludong University,asia,cn
+Ludwigs Maximilians University Munich,europe,de
 Lund University,europe,se
+Luxembourg Institute of Science and Technology,europe,lu
+MIT Media Lab,northamerica,us
 Maastricht University,europe,nl
+Macau University of Science and Technology,asia,cn
+Macquarie Univeristy,australasia,au
 Macquarie University,australasia,au
+Mahidol University,asia,th
+Majmaah University,asia,sa
+Manchester Metropolitan University,europe,uk
+Manonmaniam Sundaranar University,asia,in
 Masaryk University,europe,cz
 Masdar Institute,asia,ae
+Massachusetts Institute of Technology,northamerica,us
 Massey University,australasia,nz
 Max Planck Institute,europe,de
-McGill University,northamerica,ca
-McMaster University,northamerica,ca
-Memorial University of Newfoundland,northamerica,ca
+Max-Planck Institute for Informatics,europe,de
+McGill University,canada,ca
+McMaster University,canada,ca
+Mediterranea University of Reggio Calabria,europe,it
+Memorial University of Newfoundland,canada,ca
+Mercer University,northamerica,us
+Michigan Technological University,northamerica,us
+Microsoft,northamerica,us
 Middle East Technical University,asia,tr
+Middle Tennessee State University,northamerica,us
 Middlesex University,europe,uk
+Ming Chi University of Technology,asia,tw
+Mississippi State University,northamerica,us
 Monash University,australasia,au
+Montreal university,canada,ca
+Muroran Institute of Technology,asia,jp
+NIVEL: Netherlands Institute for Health Services Research,europe,nl
 NTNU,europe,no
 NTUA,europe,gr
 NWPU,asia,cn
 NYU Shanghai,asia,cn
+Nagaoka University of Technology,asia,jp
+Nanjing Agricultural University,asia,cn
 Nanjing University,asia,cn
 Nanyang Technological University,asia,sg
+National Autonomous University of Mexico,northamerica,mx
 National Cheng Kung University,asia,tw
+National Chengchi University,asia,tw
+National Chi Nan University,asia,tw
 National Chiao Tung University,asia,tw
+National Chin-Yi University of Technology,asia,tw
+National Development and Research Institute,northamerica,us
+National Dong Hwa University,asia,tw
+National Human Genome Research Institute,northamerica,us
+National Institute for Environmental Studies,asia,jp
+National Institute of Demographic Studies,europe,fr
+National Institute of Infectious Diseases Evandro Chagas,southamerica,br
+National Institute of Technology,asia,in
+National Institute of Technology (NIT),asia,in
+National Institute of Technology Jamshedpur,asia,in
+National Institute of Technology at Durgapur,asia,in
+National Institute of Technology at Patna,asia,in
+National Institutes of Health,northamerica,us
+National Public Health Institute,europe,fi
+National Taipei University,asia,tw
+National Taiwan Normal University,asia,tw
 National Taiwan University,asia,tw
 National Tsing Hua University,asia,tw
+National University of Computer and Emerging Sciences,asia,pk
+National University of Cordoba,southamerica,ar
+National University of Defense Technology,asia,cn
+National University of Ireland,europe,ie
+National University of Ireland Galway,europe,ie
+National University of Modern Languages,asia,pk
 National University of Singapore,asia,sg
+Naxys – University of Namur,europe,be
+Netherlands Defense Academy,europe,nl
+Netherlands Institute for the Study of Crime and Law enforcement (NSCR),europe,nl
+New England Complex Systems Institute,northamerica,us
+New Jersey Institute of Technology,northamerica,us
+New University of Lisbon,europe,pt
+New York Institute of Technology,northamerica,US
 Newcastle University,europe,uk
-Ontario Tech University,northamerica,ca
+Ningxia University,asia,cn
+Nipissing University,canada,ca
+Nokia Bell Labs,northamerica,us
+Normal School of Cachan Superior,europe,fr
+Normal School of Lyon,europe,fr
+Normal School of Rennes,europe,fr
+North China Electric Power University,asia,cn
+North Dakota State University,northamerica,us
+Northeast Normal University,asia,cn
+Northumbria University,europe,uk
+Northwest Normal University,asia,cn
+Norwegian University of Science and Technology,europe,no
+Nottingham Trent University,europe,uk
+Oakland University,northamerica,us
+Ocean University of China,asia,cn
+Old Dominion University,northamerica,us
+Ontario Tech University,canada,ca
+Open University,europe,uk
 Open University UK,europe,uk
+Open University of Catalonia,europe,es
+Open University of Israel,asia,il
+Oregon Research Institute,northamerica,us
 Osaka University,asia,jp
+Oxford University,europe,uk
+PLA Strategic Support Force Information Engineering University,asia,cn
 POSTECH,asia,kr
 PUC-RIO,southamerica,br
 PUC-RS,southamerica,br
+Pace University,northamerica,us
+Pacific Northwest National Laboratory,northamerica,us
 Paderborn University,europe,de
+Paris Dauphine University,europe,fr
+Paris Descartes University,europe,fr
+Paulista State University,southamerica,br
 Peking University,asia,cn
+Penn State University,northamerica,us
 Politecnico di Milano,europe,it
+Polytechnic School University of Alcalá,europe,es
 Polytechnic University of Catalonia,europe,es
-Polytechnique Montreal,northamerica,ca
+Polytechnic University of Madrid,europe,es
+Polytechnique Montreal,canada,ca
+Pompeu Fabra University,europe,es
+Postal Scientific Research and Planning Academy,asia,cn
+Potosino Institute of Scientific and Technology Research,northamerica,mx
+Poznan University of Technology,europe,pl
+Pázmány Péter Catholic University,europe,hu
 Qatar Computing Research Institute,asia,qa
 Qatar University,asia,qa
+Qilu University of Technology,asia,cn
+Qingdao Academy of Intelligent Industries,asia,cn
 Queen Mary University of London,europe,uk
+Queen's University,canada,ca
 Queen's University Belfast,europe,uk
-Queen's University,northamerica,ca
+Queensland University of Technology,australasia,au
+Qufu Normal University,asia,cn
+RCC Institute of Information Technology,asia,in
+RIKEN Advanced Institute for Computational Science,asia,jp
+RIKEN Brain Science Institute,asia,jp
 RMIT University,australasia,au
 RWTH Aachen,europe,de
+RWTH Aachen University,europe,de
 Radboud University,europe,nl
+Radboud University Nijmegen,europe,nl
 Renmin University of China,asia,cn
+Rennselaer Polytechnic Institute,northamerica,us
+Research Institute of Economy,asia,jp
+Rio de Janeiro State University,southamerica,br
+Rowan University,northamerica,us
 Royal Holloway University of London,europe,uk
-Royal Military College of Canada,northamerica,ca
+Royal Military College of Canada,canada,ca
 Ruhr-University Bochum,europe,de
-Ryerson University,northamerica,ca
+Rural Federal University of Pernambuco,southamerica,br
+Ryerson University,canada,ca
 SUFE,asia,cn
 SUTD,asia,sg
 Saarland University,europe,de
 Sabancı University,asia,tr
+San José State University,northamerica,us
+Santa Clara University,northamerica,us
+Santa Fe Institute,northamerica,us
 Sapienza University of Rome,europe,it
 Scuola Superiore Sant'Anna,europe,it
+Sejong University,asia,cn
+Semmelweis University,europe,hu
 Seoul National University,asia,kr
+Sevilla University,europe,es
+Shaanxi Normal University,asia,cn
+Shahrekord University,asia,ir
 Shandong University,asia,cn
+Shanghai Academy of Social Sciences,asia,cn
 Shanghai Jiao Tong University,asia,cn
+Shanghai Normal University,asia,cn
+Shanghai Polytechnic University,asia,cn
+Shanghai University,asia,cn
+Shanghai University of Electric Power,asia,cn
+Shanghai University of International Business and Economics,asia,cn
 ShanghaiTech University,asia,cn
 Sharif University of Technology,asia,ir
+Shenyang Ligong University,asia,cn
 Shenzhen University,asia,cn
-Simon Fraser University,northamerica,ca
+Sherbrooke University,canada,ca
+Shiga University,asia,jp
+Shih Hsin University,asia,tw
+Shihezi University,asia,cn
+Shiraz University,asia,ir
+Shiraz University of Technology,asia,ir
+Sichuan University,asia,cn
+Simon Fraser University,canada,ca
 Simula UiB,europe,no
 Singapore Management University,asia,sg
+Singapore University of Technology and Design,asia,sg
+Sohar University,asia,om
+Soochow University,asia,cn
+South China Normal University,asia,cn
+South China University of Technology,asia,cn
+South National University,southamerica,ar
+Southeast University,asia,cn
+Southern Illinois University,northamerica,us
+Southern Methodist University,northamerica,us
+Southern University of Science and Technology,asia,cn
+Southwest Jiaotong University,asia,cn
+Southwestern University of Finance and Economics,asia,cn
+St. Francis Xavier University,canada,ca
+St. Petersburg State University,europe,ru
+Star Technical University,asia,tr
+State University of New York at Buffalo,northamerica,us
+State University of New York at Stony Brook,northamerica,us
+State University of Southwestern of Bahia,northamerica,us
 Stellenbosch University,africa,za
+Stockholm University,europe,se
+Stockholm University and Research Institute of Industrial Economics (IFN),europe,se
+Stockholm University/Karolinska Institutet,europe,se
+Sun Yat-Sen University,asia,cn
 Sun Yat-sen University,asia,cn
+Supreme Knowledge Foundation Group of Institutions,asia,in
+Swansea University,europe,uk
+Swinburne University of Technology,australasia,au
+Swiss Federal Institute for Aquatic Research,europe,ch
+Syracuse University,northamerica,us
 TU Berlin,europe,de
 TU Braunschweig,europe,de
 TU Chemnitz,europe,de
@@ -208,800 +611,394 @@ TU Ilmenau,europe,de
 TU Kaiserslautern,europe,de
 TU Munich,europe,de
 TU Wien,europe,at
+Taif University,asia,sa
+Tampere University,europe,fi
 Tata Inst. of Fundamental Research,asia,in
+Technical University of Lisbon,europe,pt
+Technical University of Munich,europe,de
+Technical University of Sofia,europe,bg
 Technion,asia,il
+Technological University Dublin,europe,ie
 Tel Aviv University,asia,il
+Tel-Aviv University,asia,il
+Telecom ParisTech,europe,fr
+Telecommunications institute,europe,pt
+Telefónica Research,europe,es
+Temple University,northamerica,us
+Tennessee State University,northamerica,us
 Texas A&M at Qatar,asia,qa
+Texas Tech University,northamerica,us
+Texas Woman's University,northamerica,us
+The Aspen Institute,northamerica,us
+The British University in Egypt,africa,eg
+The Hebrew University,asia,il
 The Hong Kong Polytechnic University,asia,hk
+The Netherlands Institute for Social Research,europe,nl
+The Northwestern Institute on Complex Systems (NICO),northamerica,us
+The Research Institute for Development,africa,sn
+The State University of New Jersey,northamerica,us
+The University of Italian Switzerland,europe,ch
+The University of Texas Health Science Center at Houston,northamerica,us
+Tianjin University,asia,cn
+Tianjin University of Finance and Economics,asia,cn
 Tilburg University,europe,nl
+Tinbergen Institute,europe,nl
+Tohoku University,asia,jp
+Tokushima University,asia,jp
 Tokyo Institute of Technology,asia,jp
+Tokyo International University,asia,jp
 Tongji University,asia,cn
+Toulouse Capitole University,europe,fr
+Trinity College Dublin,europe,ie
 Tsinghua University,asia,cn
+Tulane University,northamerica,us
+Tunghai University,asia,tw
+U.S. Army Engineer Research and Development Center,northamerica,us
+U.S. Army Research Laboratory,northamerica,us
 UESTC,asia,cn
 UFF,southamerica,br
 UFMG,southamerica,br
 UFMS,southamerica,br
 UFPE,southamerica,br
-UFRPE,southamerica,br
 UFRGS,southamerica,br
 UFRJ,southamerica,br
+UFRPE,southamerica,br
 UFU,southamerica,br
+UMR151 IRD / AIX Marseille University,europe,fr
 UNICAMP,southamerica,br
 UNIST,asia,kr
 UNSW,australasia,au
+US Army Research Institute for the Behavioral and Social Sciences,northamerica,us
+USC Information Sciences Institute,northamerica,us
 USP,southamerica,br
 USP-ICMC,southamerica,br
 USTC,asia,cn
-National University of Cordoba,southamerica,ar
-King Juan Carlos University,europe,es
-University of Chile,southamerica,cl
-Zaragoza's University,europe,es
-University of the Andes,southamerica,co
-Federal University of Viçosa,southamerica,br
-New University of Lisbon,europe,pt
-University of Brasilia,southamerica,br
-Lisbon University,europe,pt
+Ukrainian Academy of Public Service,europe,ua
+Ukrainian Institute of Public Health,europe,ua
+Umeå University,europe,se
+United States Military Academy,northamerica,us
+Univeristy College Dublin,europe,ie
+Universidad Complutense de Madrid,europe,es
+Universidade Estadual Paulista,southamerica,br
+Universitat Pompeu Fabra,europe,es
+University Carlos III of Madrid,europe,es
+University College Dublin,europe,ie
 University College London,europe,uk
+University Minnesota,northamerica,us
+University Osnabrück,europe,de
+University Paris 2,europe,fr
+University Paris Dauphine,europe,fr
+University Paris Descartes,europe,fr
+University Paris-Dauphine,europe,fr
+University Statistics School,europe,es
+University at Albany,northamerica,us
+University campus of Santiago,europe,pt
 University of A Coruña,europe,es
 University of Aberdeen,europe,uk
 University of Adelaide,australasia,au
-University of Alberta,northamerica,ca
+University of Aizu,asia,jp
+University of Alabama,northamerica,us
+University of Alberta,canada,ca
+University of Alcalá,europe,es
+University of Alzahra,asia,ir
 University of Amsterdam,europe,nl
+University of Applied Labour Studies,europe,de
+University of Arkansas,northamerica,us
 University of Athens,europe,gr
 University of Auckland,australasia,nz
 University of Augsburg,europe,de
+University of Aveiro,europe,pt
+University of Avignon,europe,fr
 University of Bamberg,europe,de
+University of Barcelona,europe,es
 University of Bath,europe,uk
 University of Bayreuth,europe,de
 University of Bergen,europe,no
 University of Bern,europe,ch
+University of Bielefeld,europe,de
 University of Birmingham,europe,uk
+University of Bologna,europe,it
 University of Bonn,europe,de
+University of Brasilia,southamerica,br
 University of Bremen,europe,de
+University of Brescia,europe,it
 University of Bristol,europe,uk
-University of British Columbia,northamerica,ca
+University of British Columbia,canada,ca
 University of Buenos Aires,southamerica,ar
-University of Calgary,northamerica,ca
+University of Caen,europe,fr
+University of Calabria,europe,it
+University of Calcutta,asia,in
+University of Calgary,canada,ca
 University of Cambridge,europe,uk
 University of Canterbury,australasia,nz
 University of Cape Town,africa,za
+University of Carthage,africa,tn
+University of Central Lancashire,europe,uk
+University of Chester,europe,uk
+University of Chile,southamerica,cl
 University of Chinese Academy of Sciences,asia,cn
+University of Cincinnati,northamerica,us
+University of Cologne,europe,de
+University of Colorado,northamerica,us
+University of Colorado Denver,northamerica,us
 University of Copenhagen,europe,dk
 University of Crete,europe,gr
+University of Debrecen,europe,hu
+University of Denver,northamerica,us
+University of Derby,europe,uk
+University of Dortmund,europe,de
 University of Duisburg-Essen,europe,de
 University of Dundee,europe,uk
 University of Düsseldorf,europe,de
+University of Eastern Finland,europe,fi
+University of Economics in Katowice,europe,pl
 University of Edinburgh,europe,uk
+University of Electro-Communications,asia,jp
+University of Electronic Science and Technology of China,asia,cn
+University of Engineering and Management,asia,in
+University of Erlangen-Nuremberg,europe,de
 University of Erlangen–Nuremberg,europe,de
 University of Essex,europe,uk
 University of Exeter,europe,uk
+University of Foggia,europe,it
 University of Freiburg,europe,de
+University of Fribourg,europe,ch
+University of Geneva,europe,ch
+University of Gent,europe,be
+University of Girona,europe,es
 University of Glasgow,europe,uk
+University of Gothenburg,europe,se
+University of Greenwich,europe,uk
 University of Groningen,europe,nl
-University of Guelph,northamerica,ca
+University of Guanajuato,northamerica,mx
+University of Guelph,canada,ca
+University of Gujrat,asia,pk
 University of Göttingen,europe,de
 University of Haifa,asia,il
 University of Halle-Wittenberg,europe,de
 University of Hamburg,europe,de
 University of Hannover,europe,de
+University of Hawaii at Manoa,northamerica,us
 University of Helsinki,europe,fi
 University of Hildesheim,europe,de
 University of Hong Kong,asia,hk
-University of Ioannina,europe,gr
-University of Jordan,asia,jo
-University of Kassel,europe,de
-University of Kent,europe,uk
-University of Kiel,europe,de
-University of Koblenz-Landau,europe,de
-University of Konstanz,europe,de
-University of L'Aquila,europe,it
-University of Leeds,europe,uk
-University of Leipzig,europe,de
-University of Liverpool,europe,uk
-University of Luxembourg,europe,lu
-University of Lübeck,europe,de
-University of Magdeburg,europe,de
-University of Mainz,europe,de
-University of Malaya,asia,my
-University of Malta,europe,mt
-University of Manchester,europe,uk
-University of Manitoba,northamerica,ca
-University of Mannheim,europe,de
-University of Marburg,europe,de
-University of Melbourne,australasia,au
-University of Molise,europe,it
-University of Montreal,northamerica,ca
-University of Murcia,europe,es
-University of Münster,europe,de
-University of New Brunswick,northamerica,ca
-University of Newcastle,australasia,au
-University of Nicosia,europe,cy
-University of Nottingham,europe,uk
-University of Oldenburg,europe,de
-University of Osnabrück,europe,de
-University of Otago,australasia,nz
-University of Ottawa,northamerica,ca
-University of Oxford,europe,uk
-University of Passau,europe,de
-University of Piraeus,europe,gr
-University of Pisa,europe,it
-University of Potsdam,europe,de
-University of Queensland,australasia,au
-University of Regina,northamerica,ca
-University of Rostock,europe,de
-University of Salerno,europe,it
-University of Salzburg,europe,at
-University of Sannio,europe,it
-University of Saskatchewan,northamerica,ca
-University of Sheffield,europe,uk
-University of Siegen,europe,de
-University of Southampton,europe,uk
-University of St Andrews,europe,uk
-University of Stuttgart,europe,de
-University of Surrey,europe,uk
-University of Sussex,europe,uk
-University of Sydney,australasia,au
-University of Szeged,europe,hu
-University of Tartu,europe,ee
-University of Technology Sydney,australasia,au
-University of Tokyo,asia,jp
-University of Toronto,northamerica,ca
-University of Trento,europe,it
-University of Trier,europe,de
-University of Tsukuba,asia,jp
-University of Twente,europe,nl
-University of Tübingen,europe,de
-University of Ulm,europe,de
-University of Victoria,northamerica,ca
-University of Vienna,europe,at
-University of Waikato,australasia,nz
-University of Warsaw,europe,pl
-University of Warwick,europe,uk
-University of Waterloo,northamerica,ca
-University of Western Australia,australasia,au
-University of Windsor,northamerica,ca
-University of Wroclaw,europe,pl
-University of Wuppertal,europe,de
-University of Würzburg,europe,de
-University of York,europe,uk
-University of Zurich,europe,ch
-University of Italian Switzerland,europe,ch
-Jean Monnet University,europe,fr
-Sherbrooke University,northamerica,ca
-Free University of Brussels,europe,be
-Uppsala University,europe,se
-Utrecht University,europe,nl
-VU Amsterdam,europe,nl
-Victoria University of Wellington,australasia,nz
-Waseda University,asia,jp
-Weizmann Institute of Science,asia,il
-Western University,northamerica,ca
-Westlake University,asia,cn
-Wuhan University,asia,cn
-Yonsei University,asia,kr
-York University,northamerica,ca
-Star Technical University,asia,tr
-Zhejiang University,asia,cn
-AIT Austrian Institute of Technology GmbH,europe,at
-Academia Sinica,asia,tw
-Airbnb,northamerica,us
-Aix Marseille University,europe,fr
-Ajou University,asia,kr
-Albert Ludwig's University of Freiburg,europe,de
-Alexandria University,africa,eg
-Allama Iqbal Open University,asia,pk
-Alzahra University,asia,ir
-Amazon Inc.,northamerica,us
-Amirkabir University of Technology (Polytechnic of Tehran),asia,ir
-Amity University,asia,in
-Anhui Normal University,asia,cn
-Anhui University,asia,cn
-Argonne National Laboratory,northamerica,us
-Athens University of Applied Sciences,europe,gr
-Autonomous University of Barcelona,europe,es
-Avignon University,europe,fr
-Azarbaijan Shahid Madani University,asia,ir
-Bar Ilan University,asia,il
-Barry University,northamerica,us
-Beijing Institute of Technology,asia,cn
-Beijing Jiaotong University,asia,cn
-Beijing University of Chemical Technology,asia,cn
-Beijing University of Civil Engineering and Architecture,asia,cn
-Beijing University of Posts and Telecommunications,asia,cn
-Beijing University of Technology,asia,cn
-Belarusian State University of Informatics and Radioelectronics,europe,by
-Ben Gurion University of the Negev,asia,il
-Bennett University,asia,in
-Bentley University,northamerica,us
-Bergische University Wuppertal,europe,de
-Boise State University,northamerica,us
-Brandon University,northamerica,ca
-Budapest University of Technology and Economics,europe,hu
-Burnet Institute,australasia,au
-CERN,europe,ch
-CNRS,europe,fr
-CSIRO,australasia,au
-Ca' Foscari University of Venice,europe,it
-Cairo University,africa,eg
-California State University Channel Islands,northamerica,us
-California State University at Los Angeles,northamerica,us
-University campus of Santiago,europe,pt
-Care and Public Health Research Institute (CAPHRI),europe,nl
-Case Western Reserve University,northamerica,us
-Catholic University,europe,it
-Catholic University and Complexity Lab in Economics,europe,it
-Catholic University of Rome,europe,it
-Central European University,europe,hu
-Central South University,asia,cn
-Central University of Finance and Economics,asia,cn
-Changsha University of Science and Technology,asia,cn
-Changshu Institute of Technology,asia,cn
-Chaoyang University of Technology,asia,tw
-China University of Petroleum,asia,cn
-Chongqing University,asia,cn
-Chongqing University of Posts and Telecommunications,asia,cn
-Chongqing University of Technology,asia,cn
-Christ University,asia,in
-Christian-Albrechts-University,europe,de
-Chung Yuan Christian University,asia,tw
-Chuo University,asia,jp
-City University London,europe,uk
-City University of New York,northamerica,us
-Claremont Graduate University,northamerica,us
-Clausthal University of Technology,europe,de
-Copenhagen Business School,europe,dk
-Corvinus University of Budapest,europe,hu
-Coventry University,europe,uk
-Cranfield University,europe,uk
-Creighton University,northamerica,us
-Curtin University,australasia,au
-Daffodil International University (DIU),asia,bd
-Dakota State University,northamerica,us
-Dalian Maritime University,asia,cn
-Dalian Minzu University,asia,cn
-Dalian University of Technology,asia,cn
-Deakin University,australasia,au
-Delft University of Technology,europe,se
-Denison University,northamerica,us
-Dongbei University of Finance & Economics,asia,cn
-Donghua University,asia,cn
-Duquesne University,northamerica,us
-East Carolina University,northamerica,us
-Edinboro University,northamerica,us
-Edinburgh Napier University,europe,uk
-Eindhoven University of Technology,europe,nl
-Eotvos Lorand University Faculty of Social Sciences,europe,hu
-Epidemiological Research and Adolescence Health Center Unit; Mexican Institute of Social Security,northamerica,mx
-Erasmus University Rotterdam,europe,nl
-University Statistics School,europe,es
-Eötvös Loránd University,europe,hu
-Federal University of Amazonas,southamerica,br
-Federal University of Bahia,southamerica,br
-Federal University of Minas Gerais,southamerica,br
-Federal University of Rio de Janeiro,southamerica,br
-Federation University Australia,australasia,au
-Ferdowsi University of Mashhad,asia,ir
-Flinders University,australasia,au
-Florida International University,northamerica,us
-Fontys University of Applied Sciences,europe,nl
-Free University,europe,nl
-Free University Berlin,europe,de
-Fujian Normal University,asia,cn
-Fujian University of Technology,asia,cn
-Fukuoka Institute of Technology,asia,jp
-Future Operations Investigation Laboratory Air Force Institute of Technology Wright-Patterson Air Force Base,northamerica,us
-Fuzhou University,asia,cn
-GESIS - Leibniz Institute for the Social Sciences,europe,de
-GLA University,asia,in
-Gazi University,asia,tr
-Georg-August-Universitaet,europe,de
-Georgia State University,northamerica,us
-Georgia State University Atlanta,northamerica,us
-Ghent University,europe,be
-Google,northamerica,us
-Graz University of Technology 8 Know-Center,europe,at
-Griffith University,australasia,au
-Guangdong University of Foreign Studies,asia,cn
-Guangdong University of Technology,asia,cn
-Guangzhou University,asia,cn
-Guilin University of Electronic Technology,asia,cn
-Gwangju Institute of Science and Technology (GIST),asia,kr
-HP Labs,northamerica,us
-Hangzhou Dianzi University,asia,cn
-Hangzhou Normal University,asia,cn
-Hanoi University of Science and Technology,asia,vn
-Hawassa University,africa,et
-Hebei Normal University,asia,cn
-Hefei University of Technology,asia,cn
-Helsinki University of Technology,europe,fi
-Henan Polytechnic University,asia,cn
-Henan University of Economics and Law,asia,cn
-Hiroshima University,asia,jp
-Hofstra University,northamerica,us
-Hokkaido University,asia,jp
-Hosei University,asia,jp
-Huazhong University of Science and Technology,asia,cn
-Hungarian Academy of Sciences,europe,hu
-Hungary and Eötvös Loránd University of Sciences,europe,hu
-IBM,northamerica,us
-Universitat Pompeu Fabra,europe,es
-IMT School for Advanced Studies,europe,it
-ISPA University Institute of Psychological Sciences,europe,pt
-IT University Copenhagen,europe,dk
-Idiap Research Institute,europe,ch
-Illinois Institute of Technology,northamerica,us
-Indian Institute of Engineering Science and Technology,asia,in
-Indian Institute of Information Technology,asia,in
-Indian Institute of Management,asia,in
-Indian Institute of Science,asia,in
-Indian Institute of Space Science and Technology,asia,in
-Indian Institute of Technology Patna,asia,in
-Indian Statistical Institute,asia,in
-Indraprastha Institute of Information Technology Delhi,asia,in
-Inner Mongolia University,asia,cn
-Ludwigs Maximilians University Munich,europe,de
-Institute for Service Marketing and Tourism,europe,at
-Institute for Statistics and Mathematics,europe,at
-Institute of Automation,asia,cn
-Institute of High Performance Computing,asia,sg
-Institute of Informatics and Telematics of CNR,europe,it
-Institute of Information Science,asia,tw
-Institute of Scientific and Technological Communication & Information in Health,southamerica,br
-Institute of Smart Healthcare Systems,asia,cn
-Institute of Sociology,asia,tw
-Institute of Statistical Science,asia,tw
-Telecommunications institute,europe,pt
-International Institute of Information Technology,asia,in
-International University of Japan,asia,jp
-Ionian University,europe,gr
-Iowa State University,northamerica,us
-Islamic Azad University,asia,ir
-Islamic University of Technology (IUT),asia,bd
-Istanbul Bilgi University,asia,tr
-Jacobs University,europe,de
-Jadavpur University,asia,in
-Jagiellonian University,europe,pl
-Japan Women's University,asia,jp
-Jiangsu University,asia,cn
-Jiangsu University of Science and Technology,asia,cn
-Jining Medical University,asia,cn
-Johannes Kepler University,europe,at
-Julius Maximilians University Würzburg,europe,de
-K. N. Toosi University of Technology,asia,ir
-Kafrelsheikh University,africa,eg
-Kennesaw State University,northamerica,us
-Khalifa University,asia,ae
-King Abdul Aziz University,asia,sa
-King Abdullah University of Science and Technology,asia,sa
-King Faisal University,asia,sa
-King Mongkut's University of Technology Thonburi,asia,th
-King Saud University,asia,sa
-Kozminski University,europe,pl
-Kyushu University,asia,jp
-Károli Gáspár University of the Reformed Church,europe,hu
-La Trobe University,australasia,au
-Lahore University of Management and Sciences,asia,pk
-Lakehead University,northamerica,ca
-Lanzhou University,asia,cn
-Leibniz University Hannover,europe,de
-Liaoning Normal University,asia,cn
-Linköping University,europe,se
-Linnaeus University,europe,se
-Lipscomb University,northamerica,us
-Liverpool John Moores University,europe,uk
-London School of Economics and Political Science,europe,uk
-London South Bank University,europe,uk
-Los Alamos National Laboratory,northamerica,us
-Louisiana State University,northamerica,us
-Louisiana Tech University,northamerica,us
-Lovely Professional University,europe,at
-Ludong University,asia,cn
-The University of Italian Switzerland,europe,ch
-Macau University of Science and Technology,asia,cn
-Macquarie Univeristy,australasia,au
-Mahidol University,asia,th
-Majmaah University,asia,sa
-Manchester Metropolitan University,europe,uk
-Manonmaniam Sundaranar University,asia,in
-Massachusetts Institute of Technology,northamerica,us
-Max-Planck Institute for Informatics,europe,de
-Mediterranea University of Reggio Calabria,europe,it
-Mercer University,northamerica,us
-Michigan Technological University,northamerica,us
-Microsoft,northamerica,us
-Middle Tennessee State University,northamerica,us
-Ming Chi University of Technology,asia,tw
-Mississippi State University,northamerica,us
-Muroran Institute of Technology,asia,jp
-NIVEL: Netherlands Institute for Health Services Research,europe,nl
-Nagaoka University of Technology,asia,jp
-Nanjing Agricultural University,asia,cn
-National Chengchi University,asia,tw
-National Chi Nan University,asia,tw
-National Chin-Yi University of Technology,asia,tw
-National Development and Research Institute,northamerica,us
-National Dong Hwa University,asia,tw
-National Human Genome Research Institute,northamerica,us
-National Institute of Technology,asia,in
-National Institute of Technology (NIT),asia,in
-National Institute of Technology Jamshedpur,asia,in
-National Institute of Technology at Durgapur,asia,in
-National Institute of Technology at Patna,asia,in
-National Institutes of Health,northamerica,us
-National Taipei University,asia,tw
-National Taiwan Normal University,asia,tw
-National University of Computer and Emerging Sciences,asia,pk
-National University of Defense Technology,asia,cn
-National University of Ireland,europe,ie
-National University of Ireland Galway,europe,ie
-National University of Modern Languages,asia,pk
-Naxys – University of Namur,europe,be
-Netherlands Defense Academy,europe,nl
-Netherlands Institute for the Study of Crime and Law enforcement (NSCR),europe,nl
-New England Complex Systems Institute,northamerica,us
-New Jersey Institute of Technology,northamerica,us
-New York Institute of Technology,northamerica,US
-Ningxia University,asia,cn
-Nipissing University,northamerica,ca
-Nokia Bell Labs,northamerica,us
-North China Electric Power University,asia,cn
-North Dakota State University,northamerica,us
-Northeast Normal University,asia,cn
-Northumbria University,europe,uk
-Northwest Normal University,asia,cn
-Norwegian University of Science and Technology,europe,no
-Nottingham Trent University,europe,uk
-Oakland University,northamerica,us
-Ocean University of China,asia,cn
-Old Dominion University,northamerica,us
-Open University,europe,uk
-Open University of Catalonia,europe,es
-Open University of Israel,asia,il
-Oregon Research Institute,northamerica,us
-Oxford University,europe,uk
-PLA Strategic Support Force Information Engineering University,asia,cn
-Pace University,northamerica,us
-Pacific Northwest National Laboratory,northamerica,us
-Penn State University,northamerica,us
-Polytechnic School University of Alcalá,europe,es
-Poznan University of Technology,europe,pl
-Pázmány Péter Catholic University,europe,hu
-Qilu University of Technology,asia,cn
-Qingdao Academy of Intelligent Industries,asia,cn
-Queensland University of Technology,australasia,au
-Qufu Normal University,asia,cn
-RCC Institute of Information Technology,asia,in
-RWTH Aachen University,europe,de
-Radboud University Nijmegen,europe,nl
-Rennselaer Polytechnic Institute,northamerica,us
-Rio de Janeiro State University,southamerica,br
-Rowan University,northamerica,us
-San José State University,northamerica,us
-Santa Clara University,northamerica,us
-Santa Fe Institute,northamerica,us
-Sejong University,asia,cn
-Semmelweis University,europe,hu
-Shaanxi Normal University,asia,cn
-Shahrekord University,asia,ir
-Shanghai Normal University,asia,cn
-Shanghai Polytechnic University,asia,cn
-Shanghai University,asia,cn
-Shanghai University of Electric Power,asia,cn
-Shanghai University of International Business and Economics,asia,cn
-Shenyang Ligong University,asia,cn
-Shiga University,asia,jp
-Shih Hsin University,asia,tw
-Shihezi University,asia,cn
-Shiraz University,asia,ir
-Shiraz University of Technology,asia,ir
-Sichuan University,asia,cn
-Singapore University of Technology and Design,asia,sg
-Sohar University,asia,om
-Soochow University,asia,cn
-South China Normal University,asia,cn
-South China University of Technology,asia,cn
-Southeast University,asia,cn
-Southern Illinois University,northamerica,us
-Southern Methodist University,northamerica,us
-Southern University of Science and Technology,asia,cn
-Southwest Jiaotong University,asia,cn
-Southwestern University of Finance and Economics,asia,cn
-St. Francis Xavier University,northamerica,ca
-St. Petersburg State University,europe,ru
-State University of New York at Buffalo,northamerica,us
-State University of New York at Stony Brook,northamerica,us
-State University of Southwestern of Bahia,northamerica,us
-Stockholm University,europe,se
-Stockholm University and Research Institute of Industrial Economics (IFN),europe,se
-Stockholm University/Karolinska Institutet,europe,se
-Sun Yat-Sen University,asia,cn
-Supreme Knowledge Foundation Group of Institutions,asia,in
-Swansea University,europe,uk
-Swinburne University of Technology,australasia,au
-Syracuse University,northamerica,us
-Taif University,asia,sa
-Tampere University,europe,fi
-Technical University of Munich,europe,de
-Technological University Dublin,europe,ie
-Tel-Aviv University,asia,il
-Telecom ParisTech,europe,fr
-Telefónica Research,europe,es
-Temple University,northamerica,us
-Tennessee State University,northamerica,us
-Texas Tech University,northamerica,us
-Texas Woman's University,northamerica,us
-The British University in Egypt,africa,eg
-The Hebrew University,asia,il
-The State University of New Jersey,northamerica,us
-Tianjin University,asia,cn
-Tianjin University of Finance and Economics,asia,cn
-Tohoku University,asia,jp
-Tokushima University,asia,jp
-Tokyo International University,asia,jp
-Tulane University,northamerica,us
-Tunghai University,asia,tw
-U.S. Army Engineer Research and Development Center,northamerica,us
-U.S. Army Research Laboratory,northamerica,us
-UMR151 IRD / AIX Marseille University,europe,fr
-US Army Research Institute for the Behavioral and Social Sciences,northamerica,us
-Umeå University,europe,se
-United States Military Academy,northamerica,us
-Univeristy College Dublin,europe,ie
-Autonomous University of Madrid,europe,es
-University Carlos III of Madrid,europe,es
-Catholic University,southamerica,py
-National Autonomous University of Mexico,northamerica,mx
-South National University,southamerica,ar
-Polytechnic University of Madrid,europe,es
-University of Ibagué,southamerica,co
-University of the Andes,southamerica,ve
-Sevilla University,europe,es
-Paulista State University,southamerica,br
-Rural Federal University of Pernambuco,southamerica,br
-Technical University of Lisbon,europe,pt
-University of Sao Paulo,southamerica,br
-Pompeu Fabra University,europe,es
-Barcelona University,europe,es
-Montreal university,northamerica,ca
-University of Toulouse Le Mirail,europe,fr
-University College Dublin,europe,ie
-University Minnesota,northamerica,us
-University Osnabrück,europe,de
-University at Albany,northamerica,us
-University of Aizu,asia,jp
-University of Alabama,northamerica,us
-University of Alcalá,europe,es
-University of Alzahra,asia,ir
-University of Applied Labour Studies,europe,de
-University of Arkansas,northamerica,us
-University of Aveiro,europe,pt
-University of Avignon,europe,fr
-University of Barcelona,europe,es
-University of Bielefeld,europe,de
-University of Bologna,europe,it
-University of Brescia,europe,it
-University of Calabria,europe,it
-University of Calcutta,asia,in
-University of Carthage,africa,tn
-University of Central Lancashire,europe,uk
-University of Chester,europe,uk
-University of Cincinnati,northamerica,us
-University of Cologne,europe,de
-University of Colorado,northamerica,us
-University of Colorado Denver,northamerica,us
-University of Debrecen,europe,hu
-University of Denver,northamerica,us
-University of Derby,europe,uk
-University of Eastern Finland,europe,fi
-University of Economics in Katowice,europe,pl
-University of Electro-Communications,asia,jp
-University of Engineering and Management,asia,in
-University of Erlangen-Nuremberg,europe,de
-University of Foggia,europe,it
-University of Fribourg,europe,ch
-University of Geneva,europe,ch
-University of Gent,europe,be
-University of Girona,europe,es
-University of Gothenburg,europe,se
-University of Greenwich,europe,uk
-University of Guanajuato,northamerica,mx
-University of Gujrat,asia,pk
-University of Hawaii at Manoa,northamerica,us
 University of Houston,northamerica,us
 University of Hyogo,asia,jp
+University of Ibagué,southamerica,co
 University of Idaho,northamerica,us
 University of Illinois at Urbana–Champaign,northamerica,us
 University of Indiana Bloomington,northamerica,us
+University of Ioannina,europe,gr
 University of Isfahan,asia,ir
+University of Italian Switzerland,europe,ch
 University of Joensuu,europe,fi
+University of Jordan,asia,jo
 University of Jyväskylä,europe,fi
 University of Kalyani,asia,in
 University of Karlsruhe (TH),europe,de
+University of Kassel,europe,de
+University of Kent,europe,uk
 University of Kerala,asia,in
+University of Kiel,europe,de
 University of Klagenfurt,europe,at
+University of Koblenz-Landau,europe,de
+University of Konstanz,europe,de
+University of L'Aquila,europe,it
 University of Lausanne,europe,ch
+University of Leeds,europe,uk
 University of Leicester,europe,uk
+University of Leipzig,europe,de
 University of Leuven,europe,be
+University of Lisbon,europe,pt
+University of Liverpool,europe,uk
 University of Ljubljana,europe,si
 University of London,europe,uk
 University of Los Andes,southamerica,co
 University of Louisville,northamerica,us
 University of Lugano,europe,ch
 University of Lugano and School of Management,southamerica,co
+University of Luxembourg,europe,lu
+University of Lübeck,europe,de
 University of Macau,asia,cn
 University of Macedonia,europe,gr
+University of Magdeburg,europe,de
+University of Mainz,europe,de
+University of Malaya,asia,my
+University of Malta,europe,mt
+University of Manchester,europe,uk
+University of Manitoba,canada,ca
+University of Mannheim,europe,de
+University of Marburg,europe,de
 University of Maribor,europe,si
 University of Massachusetts,northamerica,us
 University of Massachusetts Medical School,northamerica,us
 University of Massachusetts at Amherst,northamerica,us
 University of Massachusetts at Boston,northamerica,us
 University of Massachusetts at Dartmouth,northamerica,us
+University of Melbourne,australasia,au
+University of Milan,europe,it
+University of Milan Bicocca,europe,it
 University of Mississippi,northamerica,us
 University of Missouri,northamerica,us
 University of Missouri—St. Louis,northamerica,us
+University of Molise,europe,it
+University of Montreal,canada,ca
 University of Munich,europe,de
+University of Murcia,europe,es
+University of Münster,europe,de
+University of Namur,europe,be
 University of Naples,europe,it
 University of Naples Federico II,europe,it
 University of Navarra,europe,es
 University of Nebraska Omaha,northamerica,us
 University of Neuchâtel,europe,ch
+University of New Brunswick,canada,ca
 University of New South Wales,australasia,au
+University of Newcastle,australasia,au
+University of Nicosia,europe,cy
 University of Nijmegen,europe,nl
 University of North Texas,northamerica,us
+University of Nottingham,europe,uk
+University of Oldenburg,europe,de
+University of Osnabrück,europe,de
+University of Otago,australasia,nz
+University of Ottawa,canada,ca
 University of Oulu,europe,fi
 University of Oviedo,europe,es
-University Paris-Dauphine,europe,fr
+University of Oxford,europe,uk
+University of Palermo,europe,it
+University of Passau,europe,de
+University of Pavia,europe,it
+University of Piraeus,europe,gr
+University of Pisa,europe,it
 University of Porto,europe,pt
+University of Potsdam,europe,de
+University of Quebec in Montreal,canada,ca
+University of Queensland,australasia,au
+University of Regina,canada,ca
+University of Rostock,europe,de
 University of Salento,europe,it
+University of Salerno,europe,it
+University of Salzburg,europe,at
 University of San Francisco,northamerica,us
+University of Sannio,europe,it
+University of Sao Paulo,southamerica,br
 University of Sargodha,asia,pk
+University of Saskatchewan,canada,ca
 University of Science and Technology Beijing,asia,cn
 University of Science and Technology of China,asia,cn
+University of Sheffield,europe,uk
+University of Siegen,europe,de
 University of Silesia,europe,pl
 University of Social Sciences and Humanities,europe,pl
 University of South Australia,australasia,au
 University of South Carolina,northamerica,us
 University of South Wales,europe,uk
+University of Southampton,europe,uk
 University of Southern Queensland,australasia,au
+University of St Andrews,europe,uk
 University of St. Gallen,europe,ch
 University of Stavanger,europe,no
+University of Stuttgart,europe,de
+University of Surrey,europe,uk
+University of Sussex,europe,uk
+University of Sydney,australasia,au
+University of Szeged,europe,hu
 University of São Paulo,southamerica,br
+University of Tartu,europe,ee
+University of Technology Sydney,australasia,au
 University of Tehran,asia,ir
+University of Texas Medical Branch,northamerica,us
+University of Texas at San Antonio,northamerica,us
+University of Texas at Tyler,northamerica,us
 University of Thessaly,europe,gr
+University of Tokyo,asia,jp
 University of Torino,europe,it
+University of Toronto,canada,ca
+University of Toulouse Le Mirail,europe,fr
+University of Trento,europe,ru
+University of Trier,europe,de
 University of Trieste,europe,it
+University of Tsukuba,asia,jp
 University of Turin,europe,it
 University of Turku,europe,fi
+University of Twente,europe,nl
+University of Tübingen,europe,de
 University of Udine,europe,it
+University of Ulm,europe,de
 University of Utrecht,europe,nl
+University of Valparaíso,southamerica,cl
 University of Versailles,europe,fr
-University of Western Ontario,northamerica,ca
+University of Victoria,canada,ca
+University of Vienna,europe,at
+University of Waikato,australasia,nz
+University of Warsaw,europe,pl
+University of Warwick,europe,uk
+University of Waterloo,canada,ca
+University of Western Australia,australasia,au
+University of Western Ontario,canada,ca
 University of Westminster,europe,uk
+University of Windsor,canada,ca
 University of Wisconsin-Madison,northamerica,us
 University of Wisconsin-Milwaukee,northamerica,us
+University of Wroclaw,europe,pl
+University of Wuppertal,europe,de
+University of Würzburg,europe,de
+University of York,europe,uk
 University of Zadar,europe,hr
 University of Zaragoza,europe,es
+University of Zurich,europe,ch
+University of the Andes,southamerica,ve
+University of the Mediterranean,europe,fr
 University of the West of England,europe,uk
 University of the Witwatersrand,africa,za
 University of Örebro,europe,se
-Catholic University of Sacred Heart,europe,it
-Catholic University of the Sacred Heart and Transcrime,europe,it
-University of Palermo,europe,it
-University of Trento,europe,ru
-University of Milan Bicocca,europe,it
-University of Pavia,europe,it
-University of Dortmund,europe,de
-Catholic University of Louvain,europe,be
-International University of Rabat,africa,ma
-University Paris 2,europe,fr
-Paris Descartes University,europe,fr
-Paris Dauphine University,europe,fr
-Toulouse Capitole University,europe,fr
-University of Caen,europe,fr
-University of the Mediterranean,europe,fr
-University of Quebec in Montreal,northamerica,ca
+Università Cattolica del Sacro Cuore,europe,it
+Uppsala University,europe,se
 Utah State University,northamerica,us
+Utrecht University,europe,nl
+VU Amsterdam,europe,nl
 VU University,europe,nl
+Vel Tech,asia,in
+Vellore Institute of Technology,asia,in
+Victoria University of Wellington,australasia,nz
 Villanova University,northamerica,us
 Virginia Polytechnic Institute and State University,northamerica,us
 Visva-Bharati University,asia,in
+Vrije University Amsterdam,europe,nl
 Wageningen University,europe,nl
 Wake Forest School of Medicine,northamerica,us
 Wake Forest University,northamerica,us
+Waseda University,asia,jp
 Waterford Institute of Technology,europe,IE
 Wayne State University,northamerica,us
+Weizmann Institute of Science,asia,il
 West Virginia University,northamerica,us
 Western Paraná State University,southamerica,br
+Western University,canada,ca
+Westlake University,asia,cn
 Wrocław University of Science and Technology,europe,pl
-Xiamen University,asia,cn
-Xidian University,asia,cn
+Wuhan University,asia,cn
 Xi'an Jiaotong University,asia,cn
 Xi'an University of Technology,asia,cn
+Xiamen University,asia,cn
+Xidian University,asia,cn
+Xinjiang University,asia,cn
 Yale Institute for Network Science and Université Laval,northamerica,us
 Yanshan University,asia,cn
 Yantai University,asia,cn
 Yarmouk University,asia,jo
 Yokohama National University,asia,jp
+Yonsei University,asia,kr
 Yonsei university,asia,kr
+York University,canada,ca
 Yuan Ze University,asia,tw
+ZPID - Leibniz Institute for Psychology Information,europe,de
 Zagazig University,africa,eg
+Zaragoza's University,europe,es
 Zayed University,asia,ae
 Zhejiang Normal University,asia,cn
 Zhejiang Sci-Tech University,asia,cn
+Zhejiang University,asia,cn
 Zhengzhou University,asia,cn
 Zhongnan University of Economics and Law,asia,cn
-University of Electronic Science and Technology of China,asia,cn
-MIT Media Lab,northamerica,us
-Central China Normal University,asia,cn
-Technical University of Sofia,europe,bg
-University of Namur,europe,be
-University of Texas at Tyler,northamerica,us
-Xinjiang University,asia,cn
-University of Texas at San Antonio,northamerica,us
-Galgotias University,asia,in
-University of Milan,europe,it
-Banasthali Vidyapith,asia,in
-Vel Tech,asia,in
-International University of Rabat,africa,ma
-University of Lisbon,europe,pt
-Vrije University Amsterdam,europe,nl
-University of Texas Medical Branch,northamerica,us
-The University of Texas Health Science Center at Houston,northamerica,us
-California State University at Long Beach,northamerica,us
-University Paris Dauphine,europe,fr
-University Paris Descartes,europe,fr
-Universidad Complutense de Madrid,europe,es
-Università Cattolica del Sacro Cuore,europe,it
-Universidade Estadual Paulista,southamerica,br
-Trinity College Dublin,europe,ie
-FU Berlin,europe,de
-ZPID - Leibniz Institute for Psychology Information,europe,de
-Alibaba Group,asia,cn
-Berlin Institute of Technology,europe,de
-China Academy of Electronics and Information Technology,asia,cn
-Digital Research Institute,asia,cn
-Dublin Institute of Technology,europe,ie
-Dutch Institute for Social Science Research (SCP),europe,nl
-German Institute for Economic Research (DIW) Berlin,europe,de
-Graduate Institute Geneva,europe,ch
-ISC-PIF,europe,fr
-Institut Barcelona d'Estudis Internacionals (IBEI),europe,es
-Institut Mines-Tlcom,europe,fr
-National Institute of Demographic Studies,europe,fr
-Institute of Economic Analysis and Barcelona GSE,europe,es
-Institute of Political Studies in Paris,europe,fr
-Institute for Advanced Studies in Basic Sciences,asia,ir
-Institute for Futures Studies,europe,se
-Institute for Infocomm Research (I2R),asia,sg
-Institute for Scientific Interchange (ISI) Foundation,europe,it
-Institute of Econometrics,europe,pl
-Institute of Forensic Science,asia,cn
-Institute of Health Policy and Management,europe,nl
-Institute of Management Sciences,asia,pk
-Institute of Mathematics,europe,si
-Potosino Institute of Scientific and Technology Research,northamerica,mx
-Japan Advanced Institute of Science and Technology,asia,jp
-KTH - Royal Institute of Technology,europe,se
-Kanagawa Institute of Technology,asia,jp
-The Research Institute for Development,africa,sn
-Lev Academic Center,asia,il
-Luxembourg Institute of Science and Technology,europe,lu
-National Institute for Environmental Studies,asia,jp
-National Institute of Infectious Diseases Evandro Chagas,southamerica,br
-National Public Health Institute,europe,fi
-Postal Scientific Research and Planning Academy,asia,cn
-RIKEN Advanced Institute for Computational Science,asia,jp
-RIKEN Brain Science Institute,asia,jp
-Research Institute of Economy,asia,jp
-Shanghai Academy of Social Sciences,asia,cn
-Swiss Federal Institute for Aquatic Research,europe,ch
-The Aspen Institute,northamerica,us
-The Netherlands Institute for Social Research,europe,nl
-The Northwestern Institute on Complex Systems (NICO),northamerica,us
-Tinbergen Institute,europe,nl
-USC Information Sciences Institute,northamerica,us
-Ukrainian Academy of Public Service,europe,ua
-Ukrainian Institute of Public Health,europe,ua
-University of Valparaíso,southamerica,cl
-Vellore Institute of Technology,asia,in
-Interuniversity Center for Social Science Theory and Methodology,europe,nl
