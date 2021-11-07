@@ -1,0 +1,170 @@
+institution,region,countryabbrv
+Aarhus University,northamerica,us
+Arizona State University,northamerica,us
+Auburn University,northamerica,us
+Australian National University,northamerica,us
+Binghamton University,northamerica,us
+Boston College,northamerica,us
+Boston University,northamerica,us
+Brandeis University,northamerica,us
+Brigham Young University,northamerica,us
+Brown University,northamerica,us
+CUNY,northamerica,us
+California Institute of Technology,northamerica,us
+Carleton University,northamerica,us
+Carnegie Mellon University,northamerica,us
+Clemson University,northamerica,us
+College of William and Mary,northamerica,us
+Colorado State University,northamerica,us
+Columbia University,northamerica,us
+Concordia University,northamerica,us
+Cornell University,northamerica,us
+DIKU,northamerica,us
+Dartmouth College,northamerica,us
+Drexel University,northamerica,us
+Duke University,northamerica,us
+EPFL,northamerica,us
+ETH Zurich,northamerica,us
+Ecole Normale Superieure,northamerica,us
+Ecole Normale Superieure de Cachan,northamerica,us
+Ecole Normale Superieure de Lyon,northamerica,us
+Emory University,northamerica,us
+Florida State University,northamerica,us
+George Mason University,northamerica,us
+George Washington University,northamerica,us
+Georgetown University,northamerica,us
+Georgia Institute of Technology,northamerica,us
+Harvard University,northamerica,us
+Hebrew University of Jerusalem,northamerica,us
+IISc Bangalore,northamerica,us
+IMDEA Software Institute,northamerica,us
+IST Austria,northamerica,us
+Imperial College London,northamerica,us
+Indiana University,northamerica,us
+Johns Hopkins University,northamerica,us
+Kansas State University,northamerica,us
+Massey University,northamerica,us
+Max Planck Institute,europe,de
+McGill University,northamerica,us
+Michigan State University,northamerica,us
+Monash University,northamerica,us
+NJIT,northamerica,us
+National University of Singapore,northamerica,us
+Naval Postgraduate School,northamerica,us
+New Mexico State University,northamerica,us
+New York University,northamerica,us
+North Carolina State University,northamerica,us
+Northeastern University,northamerica,us
+Northwestern University,northamerica,us
+OHSU,northamerica,us
+Ohio State University,northamerica,us
+Oregon State University,northamerica,us
+Pennsylvania State University,northamerica,us
+Polytechnic University of Catalonia,northamerica,us
+Polytechnic University of Milan,northamerica,us
+Princeton University,northamerica,us
+Purdue University,northamerica,us
+RWTH Aachen,northamerica,us
+Rensselaer Polytechnic Institute,northamerica,us
+Rice University,northamerica,us
+Rochester Institute of Technology,northamerica,us
+Rutgers University,northamerica,us
+Simon Fraser University,northamerica,us
+Stanford University,northamerica,us
+Stevens Institute of Technology,northamerica,us
+Stony Brook University,northamerica,us
+TU Darmstadt,northamerica,us
+TU Dresden,northamerica,us
+TU Munich,northamerica,us
+Technion - Israel Institute of Technology,northamerica,us
+Tel Aviv University,northamerica,us
+Texas A&M University,northamerica,us
+Toyota Technological Institute at Chicago,northamerica,us
+Tufts University,northamerica,us
+UNSW,northamerica,us
+University College London,northamerica,us
+University at Buffalo,northamerica,us
+University of Adelaide,northamerica,us
+University of Alberta,northamerica,us
+University of Arizona,northamerica,us
+University of Athens,northamerica,us
+University of Auckland,northamerica,us
+University of Bath,northamerica,us
+University of Bristol,northamerica,us
+University of British Columbia,northamerica,us
+University of Calgary,northamerica,us
+University of California - Berkeley,northamerica,us
+University of California - Davis,northamerica,us
+University of California - Irvine,northamerica,us
+University of California - Los Angeles,northamerica,us
+University of California - Riverside,northamerica,us
+University of California - San Diego,northamerica,us
+University of California - Santa Barbara,northamerica,us
+University of California - Santa Cruz,northamerica,us
+University of Cambridge,northamerica,us
+University of Canterbury,northamerica,us
+University of Central Florida,northamerica,us
+University of Chicago,northamerica,us
+University of Colorado Boulder,northamerica,us
+University of Connecticut,northamerica,us
+University of Delaware,northamerica,us
+University of Edinburgh,northamerica,us
+University of Florida,northamerica,us
+University of Georgia,northamerica,us
+University of Illinois at Chicago,northamerica,us
+University of Illinois at Urbana-Champaign,northamerica,us
+University of Iowa,northamerica,us
+University of Kansas,northamerica,us
+University of Kent,northamerica,us
+University of Kentucky,northamerica,us
+University of Luxembourg,northamerica,us
+University of Maryland - College Park,northamerica,us
+University of Massachusetts Amherst,northamerica,us
+University of Massachusetts Lowell,northamerica,us
+University of Melbourne,northamerica,us
+University of Miami,northamerica,us
+University of Michigan,northamerica,us
+University of Minnesota,northamerica,us
+University of Montreal,northamerica,us
+University of Nebraska,northamerica,us
+University of Nevada,northamerica,us
+University of New Mexico,northamerica,us
+University of North Carolina,northamerica,us
+University of Notre Dame,northamerica,us
+University of Oregon,northamerica,us
+University of Otago,northamerica,us
+University of Oxford,northamerica,us
+University of Pennsylvania,northamerica,us
+University of Pittsburgh,northamerica,us
+University of Queensland,northamerica,us
+University of Rochester,northamerica,us
+University of Salerno,northamerica,us
+University of South Florida,northamerica,us
+University of Southern California,northamerica,us
+University of Sydney,northamerica,us
+University of Tartu,northamerica,us
+University of Tennessee,northamerica,us
+University of Texas at Arlington,northamerica,us
+University of Texas at Austin,northamerica,us
+University of Texas at Dallas,northamerica,us
+University of Texas at El Paso,northamerica,us
+University of Toronto,northamerica,us
+University of Utah,northamerica,us
+University of Virginia,northamerica,us
+University of Waikato,northamerica,us
+University of Warsaw,northamerica,us
+University of Washington,northamerica,us
+University of Waterloo,northamerica,us
+University of Western Australia,northamerica,us
+University of Wisconsin - Madison,northamerica,us
+University of Zurich,northamerica,us
+VU Amsterdam,northamerica,us
+Vanderbilt University,northamerica,us
+Victoria University of Wellington,northamerica,us
+Virginia Commonwealth University,northamerica,us
+Virginia Tech,northamerica,us
+Washington State University,northamerica,us
+Washington University in St. Louis,northamerica,us
+Worcester Polytechnic Institute,northamerica,us
+Yale University,northamerica,us
+MIT Media Lab,northamerica,us
