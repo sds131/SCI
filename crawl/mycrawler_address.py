@@ -4,7 +4,7 @@ import re
 import csv
 import os
 
-def fun(address, file_name):
+def get_paper_url(address, file_name):
     res = requests.get(address)
     res.encoding = 'utf-8'
     soup = BeautifulSoup(res.text, 'lxml')
@@ -48,5 +48,5 @@ if __name__ == '__main__':
                     if not row:
                         break
                     print(row)
-                    fun(row, path + file_name)
+                    get_paper_url(row, path + file_name)
 

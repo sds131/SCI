@@ -5,7 +5,7 @@ import csv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
-def fun(address):
+def get_author_info(address):
     chrome_options = Options()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--disable-gpu')
@@ -54,7 +54,7 @@ if __name__ == '__main__':
             address = re.sub('\n', '', address)
             address = re.sub('"', '', address)
             address = re.sub("'", '', address)
-            names1, schools1 = fun(address)
+            names1, schools1 = get_author_info(address)
             scholar_graph.append(names1)
             print(names1, schools1)
             cnt += 1
