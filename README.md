@@ -1,16 +1,16 @@
-# **Doc for Social Computing Index**
+# Doc for Social Computing Index
 
 Social Computing Index 代码说明
 
-# **项目介绍**
+# 项目介绍
 
 该项目以 CSRankings 为设计模板、代码框架，设计出了 Social Computing Index 网站。SCI网站是基于一些社交计算的期刊对世界各国的高校、科学机构的成就做出排序，同时也给出了每一个作者的发表文章数目、指标得分。
 
 
 
-# **代码说明**
+# 代码说明
 
-分为两部分，一部分是**网站源代码修改**，另一部分是**dblp数据处理。**下面分别说明：
+分为两部分，一部分是**网站源代码修改**，另一部分是**dblp数据处理**。下面分别说明：
 
 
 
@@ -31,7 +31,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 
 
-### **服务器部署**
+### 服务器部署
 
 在 **/ranking** 文件夹中打开一个终端，执行命令行:
 
@@ -46,7 +46,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 **github地址：** https://github.com/sds131/SCI （即本仓库）
 
 
-### **爬虫代码**
+### 爬虫代码
 
 #### TCSS、SocNet
 
@@ -87,11 +87,11 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 
 
-### **作者匹配&大学列表更新**
+### 作者匹配&大学列表更新
 
 代码在 **/update_database** 中。匹配：用新获取的作者和学校，去匹配已有学校，以获得标准化的 作者-机构。若不存在，则可能会将新的学校加入大学列表中。
 
-#### **更新方法**
+#### 更新方法
 
 1、首先请确保在 **/update_database** 下有以下文件：
 
@@ -121,7 +121,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 
 
-#### **make文件说明** 
+#### make文件说明 
 
 * make enged-country-info-full-new.csv
 
