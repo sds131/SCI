@@ -15,7 +15,7 @@ Social Computing Index 代码说明
 
 
 ## 网站源代码修改
-** 我们的网站源代码： https://github.com/sds131/csranking **
+** 我们的网站代码： https://github.com/sds131/csranking **
 
 前端显示基本上与 CSRankings 无异，除了前端的部分文字、图表显示。
 
