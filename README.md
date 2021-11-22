@@ -1,4 +1,4 @@
-# **Doc for Social Computing Index**
+# Doc for Social Computing Index
 
 Social Computing Index 代码说明
 
@@ -37,7 +37,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 ## dblp数据处理
 
-**github地址：**https://github.com/sds131/SCI （即本仓库）
+**github地址：** https://github.com/sds131/SCI （即本仓库）
 
 ### **爬虫代码**
 
