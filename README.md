@@ -2,20 +2,18 @@
 
 Social Computing Index 代码说明
 
-# **项目介绍**
+## **项目介绍**
 
 该项目以 CSRankings 为设计模板、代码框架，设计出了 Social Computing Index 网站。SCI网站是基于一些社交计算的期刊对世界各国的高校、科学机构的成就做出排序，同时也给出了每一个作者的发表文章数目、指标得分。
 
+**我们的网站代码**： https://github.com/sds131/csranking
 
+## 代码说明
 
-# **代码说明**
+分为两部分，一部分是**网站源代码修改**，另一部分是**dblp数据处理。**
 
-分为两部分，一部分是**网站源代码修改**，另一部分是**dblp数据处理。**下面分别说明：
+### 网站源代码修改
 
-
-
-## 网站源代码修改
-** 我们的网站代码： https://github.com/sds131/csranking **
 
 前端显示基本上与 CSRankings 无异，除了前端的部分文字、图表显示。
 
@@ -29,8 +27,6 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 - index.html：html 语言的前端代码，修改（增加、减少）期刊种类时，需要修改。
 - util/csrankings.py：处理 dblp 数据的代码，修改（增加、减少）期刊种类时，需要修改。
 
-
-
 ### **服务器部署**
 
 在 **/ranking** 文件夹中打开一个终端，执行命令行:
@@ -39,89 +35,100 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 然后访问即可。若在本机部署，可直接用浏览器访问 127.0.0.1:8111
 
-
-
-## **dblp数据处理**
+## dblp数据处理
 
 **github地址：**https://github.com/sds131/SCI （即本仓库）
 
-
 ### **爬虫代码**
 
-#### TCSS、SocNet
+位于 `/scranking` 文件夹中
 
-代码在 **/csranking/csranking.py** 中，代码说明如下：
+#### 文件说明
 
-- **get_urls(filepath)** : **filepath** 为 dblp 每个期刊初始地址（每一卷的网址）的集合——**journal****_xxx.txt** 的文件地址，通过读取 txt文件来爬虫。输出**urlxxx.csv，其中包含每一篇文章的源网址。**每次更新时，只需要写新的网址到文件 journal_xxx.txt 里即可，旧的可以删去。输出文件 **url_xxx.csv**。
-- **get_affiliations_xxx(filepath)** : **filepath为url_xxx.csv文件地址，其中包含每一篇文章的源网址。**对具体期刊网站的爬虫代码。需要根据论文原网站（ieee、acm等）前端设计写出特定的代码。运行**get_affiliations_xxx(filepath)**函数，遍历**url_xxx.csv**中 **paper_url**，得到每一篇文章的作者名字、作者单位信息。其中论文源网站的作者名字和dblp的作者名字不是完全一致，无法直接作为最后的“name”，需要后续处理。作者单位也是复杂的字符串，不适合作为最后的“affiliation”。输出文件 **raw_author.csv**。
-- **get_unique(filepath)** : **filepath** 为 dblp 每个期刊的初始地址（每一卷的网址）的集合——**journal_xxx.txt** 的文件地址。在DBLP中获取作者的特定名称，如：Fei-Yue Wang 0001，其中带000x表示有重名现象，需要加上数字加以区分。由于这一步已经使用了dblp中作者的特定名称，所以无需再往 dblp_aliases.csv 中添加作者别名信息。输出文件**author_unique.csv**。
-- **手动修改**：由于论文网址丢失、部分作者无单位等原因，raw_author.csv可能不完整，需要手动将 raw_author.csv 和 author_unique.csv 进行比对，补充并修改 raw_author.csv，使得 raw_author.csv 和 author_unique.csv 行数一致。同时由于 author_unique.csv 的 author 字段正是 dblp 的作者姓名标识符，补充修改 raw_author.csv 后，需要将 author_unique.csv 中的 author 字段代替 raw_author.csv 中的 name 字段，这步可以直接复制粘贴。得到文件 **author_modified1.csv**。
-- **disambiguation(filepath1,filepath2)** :  **filepath1** 为 dblp 每个期刊的初始地址（每一卷的网址）的集合——**journal_xxx.txt** 的文件地址。 **filepath2** 为**author_modified1.csv**。dblp的作者页面中存在需要消歧的作者页面，dblp无法分辨一些具有相同名字的作者，而这些作者也没有向dblp表明自己的准确身份，所以为了系统的准确，需要删除这些有争议和身份不明的作者信息。filepath1为**journal_xxx.txt** 的文件地址**，**filepath2 为 **author_modified1.csv** 的文件地址，通过 **journal_url** 遍历dblp的作者页面，**author_modified1.csv** 中将那些作者页面为 **disambiguation page** 的作者信息删除。输出文件 **author_modified2.csv**。
-- **手动修改：**手动修改author_affiliation字符串，比如"Chinese Academy of Sciences"，会有人写成"Chinese **Academic** of Sciences"或者"Chinese Academy of **Science**"，这种错误需要我们自行确认手动修正。这步可以反复使用接下来的normalize(filepath1,filepath2)，根据 unnormlize.csv 反馈的信息对 author_modified.csv、 country-info.csv 进行修改得到最后的 author_modified.csv。
-- **normalize(filepath1,filepath2) :** filepath1 为 **country-info.csv**，里面包含了各个大学机构的名称、大洲、国家信息，filepath2 为 **author_modified.csv**。将 country-info.csv 的大学机构名称字符串和 author_modified.csv 中的 affiliation 字符串进行字符串匹配，若 author_modified.csv 中的 affiliation 字符串中包含 country-info.csv 中的大学机构名称字符串，则将该作者的单位设为 country-info.csv 中的对应的大学机构名称。输出**normalize.csv、unnormalize.csv。**
-- **duplicate(filepath) :** filepath 为 **normalize.csv** 的文档地址，需要对 **normalize.csv** 的作者信息进行去重，同一个作者只保留他最近最新工作的单位。输出**author.csv**。
-- 将 author.csv 拷贝到 csrankings-*.csv。
-- 修改前端 csrankings.ts，index.html 代码、修改util/csrankings.py的代码
-- "make update-dblp", "make" 
+`get_urls.py`：从 `dblp` 的网站获取每篇文章的 url 链接。
 
+`crawler_xxx.py`：从每篇文章的 url 链接获取作者信息。`xxx` 代表期刊名称
 
+`Makefile`：将上述文件打包运行
 
-#### TSC
+#### 使用说明
 
-代码在 **/crawl** 中，说明如下：
+1. 将期刊每一卷的 url 放入 `/scranking/journals/ori_dblp_xxx.txt` 中。可以在 dblp 中搜索该期刊名称得到。
 
-先运行 `mycrawler_address.py`， 再运行 `mycrawler_author_tsc.py`
+2. 在 `/scranking` 中打开终端，执行 `make get_authors ` 即可。
 
-* `mycrawler_address.py`：通过存在 **/crawl/journals** 中的 **ori_dblp_tsc.csv** （dblp中的会议导引链接，每一条链接都是一期期刊/会议的所有文章列表）来爬取每篇文章的原始 url。输出文件 **/crawl/journals/urls_tsc.csv**
-* `mycrawler_author_tsc.py`：通过前面爬取的原网址，爬取该论文的作者信息。输出文件 **authors_tsc.csv**
+请确保电脑上已经安装了谷歌浏览器。
 
-* 随后可以用前面提到的 `手动修改`和 `normalize()` 函数来进行同样的操作.
+### **作者信息的规范化（normalization）**
 
-（后续会改成统一的接口）
+#### 文件说明
 
-### **作者学校、地点的统一化（Normalize）**
+`author_normalize.py`：将获取的作者信息规范化处理。其中有若干函数，说明如下：
 
-根据前面的爬虫代码说明，可以得到每个期刊的原始作者信息列表 `normalize_authors_xxx.csv` 和 `unnormalize_authors_xxx.csv`。请将这些文件移动到 **/update_database** 
+- `get_unique(filepath)` ： 
+  - `filepath` 为每个期刊的 dblp 网址所在文件，即 `ori_dblp_xxx.txt` 的文件路径。
+  - 函数功能：在 dblp 中获取作者的特定名称，如：Fei-Yue Wang 0001，其中带000x表示有重名现象，需要加上数字加以区分。由于这一步已经使用了dblp中作者的特定名称，所以无需再往 dblp_aliases.csv 中添加作者别名信息。
+  - 输出文件 `author_unique_xxx.csv`
+- `disambiguation(filepath1, filepath2)` :  
+  - `filepath1` 为每个期刊的 dblp 网址所在文件，即 `ori_dblp_xxx.txt` 的文件路径。
+  -  `filepath2` 为 `author_modified1.csv` 的文件路径（在使用说明中会讲到这个文件）。
+  - 函数功能：dblp的作者页面中存在需要消歧的作者页面，dblp无法分辨一些具有相同名字的作者，而这些作者也没有向dblp表明自己的准确身份，所以为了系统的准确，需要删除这些有争议和身份不明的作者信息。函数通过 `ori_dblp_xxx.txt` 遍历 dblp 的作者页面，将**author_modified1.csv** 中将那些作者页面为 **disambiguation page** 的作者信息删除。
+  - 输出文件 **author_modified2.csv**。
+- `normalize(filepath1,filepath2)`：
+  * `filepath1` 为 `country-info.csv` 的文件路径，里面包含了**已经规范化的**各个大学机构的名称、大洲、国家信息，以此为标准来规范化各个作者的机构名称。
+  * `filepath2` 为 `modified2_xxx.csv` / `modified3_xxx.csv` 的文件路径。
+  * 函数功能：将 `country-info.csv` 的大学机构名称字符串和 `modified2_xxx.csv` 中的 `affiliation` 字符串进行字符串匹配。若 `modified2_xxx.csv` 中的 `affiliation` 字符串中包含 `country-info.csv` 中的大学机构名称字符串，则将该作者的单位设为 `country-info.csv` 中的对应的大学机构名称。
+  * 输出文件 `normalize_author_xxx.csv`、`unnormalize_author_xxx.csv`
+- `duplicate(filepath)` ：
+  * `filepath` 为需要去重的文件的地址的文档地址，需要对作者信息进行去重，同一个作者只保留他最近最新工作的单位。
+  * 输出 `modified3_xxx.csv`。
 
-（后续会改成统一的接口）
+#### 使用说明
 
+**代码中已经写好了遍历循环，因此每次运行代码都是对所有期刊做同样的处理，因此在手动修改的部分需要对每个期刊都手动修改。**
 
+**以下说明中，未提到的参数无需修改**
+
+1. 调用 `get_unique()` 函数：
+
+   * 将 `author_normalize.py` 中的 `default` 变量值改为 `0`，对每个期刊执行 `get_unique()`。只需要将 `else` 以下的函数调用解注释后运行代码即可。
+
+   * 本代码输出文件 `author_unique_xxx.csv`
+
+2. 手动修改：
+
+   * 由于论文网址丢失、部分作者无单位等原因，`authors_xxx.csv` 可能不完整，需要手动将 `authors_xxx.csv` 和 `author_unique_xxx.csv` 进行比对，补充并修改 `authors_xxx.csv`，使得 `authors_xxx.csv`和 `author_unique_xxx.csv` 行数一致。
+
+   * 同时由于 `author_unique.csv` 的 `author` 字段正是 dblp 的作者姓名标识符，补充修改 `authors_xxx.csv` 后，需要将 `author_unique.csv` 中的 `author` 字段代替 `authors_xxx.csv `  中的 `name` 字段，这步可以直接整列复制粘贴。
+
+   * 将修改后的 `authors_xxx.csv` 重命名为 `modified1.csv`
+
+3. 调用 `disambiguationt()` 函数和 `normalize()` 函数：（）
+
+   * 将 `get_unique()` 函数注释后，将这两个函数解注释，运行代码。
+
+   * 本代码输出文件 `modified2_xxx.csv` 以及 `normalize_author_xxx.csv`、`unnormalize_author_xxx.csv`
+
+4. 手动修改： 
+
+   * 手动修改  `modified2_xxx.csv` 中的 `affiliation` 字段。比如 "Chinese Academy of Sciences"，可能会被写成 "Chinese **Academic** of Sciences" 或者 "Chinese Academy of **Science**"，这种错误需要我们自行确认手动修正。这一步进行的时候，可以根据观察 `unnormalize_author_xxx.csv` 中的 `affiliation ` 字段，来看哪些学校被误写，随后在 `modified2_xxx.csv` 中改成正确的。
+
+   * 这步可以反复使用 `normalize()`，即修改一次之后，再调用 `normalize()` 函数重新匹配大学，随后根据 `unnormlize_author_xxx.csv` 反馈的信息对 `modified2_xxx.csv` 进行修改。
+
+5. 去重、最终匹配：
+
+   * 完成以上步骤后，调用 `duplicate()` 和 `normalize()` 函数，同样是在 `else` 部分解注释，运行代码。
+   * 本代码输出文件 `modified2_xxx.csv` 以及 `normalize_author_xxx.csv`、`unnormalize_author_xxx.csv`，后两者将用于数据库更新。
 
 ### **作者匹配&大学列表更新**
 
-代码在 **/update_database** 中。匹配：用新获取的作者和学校，去匹配已有学校，以获得标准化的 作者-机构。若不存在，则可能会将新的学校加入大学列表中。
+代码在 **/update_database** 中。
 
-#### **更新方法**
+匹配：用新获取的作者和学校，去匹配已有学校，以获得规范化的作者信息；若不存在，则可能会将新的学校加入大学列表中。
 
-1、首先请确保在 **/update_database** 下有以下文件：
+#### **文件说明** 
 
-`normalize_author_xxx.csv`
-
-`unnormalize_author_xxx.csv`
-
-`enged-country-info-full.csv`
-
-`us-university-info.csv`
-
-`/json/country-full-info.json`
-
-`/json/country-abbr.json`
-
-`/json/continent-info.json`
-
-`/json/dict-enged-university-info.json`
-
-2、在这个文件夹中运行命令行 `make country_info.csv`。
-
-3、用生成的 `country-info.csv` 替换网站源代码中的同名文件。
-
-4、将生成的 `author-affiliations.csv` 中的所有姓名追加到网站源代码的 `csrankings-0.csv` 中（可以与原来的条目有重复）
-
-5、在网站源代码中执行 `make` 即可。随后可以部署服务器。
-
-
-
-#### **make文件说明** 
+由于更新是使用 `Makefile` 全自动更新的，故只讲解 `Makefile` 中的代码。
 
 * make enged-country-info-full-new.csv
 
@@ -140,6 +147,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
      * **not-university-name.csv**，内容是不考虑加入我们大学列表的机构名称
 
   4. 运行 **concatenate.py**。生成
+
      * **enged-country-info-full-new.csv**，是最新的完整的大学列表
      * **dict-enged-university-info.csv**，原大学名-翻译后的大学名 键值对。
 
@@ -150,10 +158,33 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
      * **not-matched-author.csv**，本次数据的不匹配结果。这里面的作者暂不加入我们的网站考虑范围（大多不是学校）
 
 * make country-info.csv
+
   1. 运行 **./filter_american_schools.py**，过滤掉一些美国大学姓名（不过滤则会在网站中出错。这部分学校的列表在 **us-university-info.csv** 中。生成文件：
      * **country-info.csv**，最新的大学列表。用法前面讲到了。
   2. **mv enged-country-info-full-new.csv enged-country-info-full.csv**。文件更名。
 
+#### **使用说明**
+
+1、首先请确保在 **/update_database** 下有以下文件：
+
+* `normalize_author_xxx.csv`	
+* `unnormalize_author_xxx.csv`
+* `enged-country-info-full.csv`
+* `us-university-info.csv`
+* `/json/country-full-info.json`
+* `/json/country-abbr.json`
+* `/json/continent-info.json`
+* `/json/dict-enged-university-info.json`
+
+2、在这个文件夹中运行命令行 `make country_info.csv`
+
+3、用生成的 `country-info.csv` 替换网站源代码中的同名文件。
+
+4、将生成的 `author-affiliations.csv` 中的所有姓名追加到网站源代码的 `csrankings-0.csv` 中（可以与原来的条目有重复）
+
+5、在网站源代码中执行 `make` 即可。随后即可部署服务器。
 
 
-#  
+
+
+
