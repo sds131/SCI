@@ -19,21 +19,23 @@ Social Computing Index 代码说明
 
 Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件：                 ![img](https://docimg2.docs.qq.com/image/T_7vsVrEMPgQmNTIToBjDw.png?w=1280&h=800)        
 
-其中 country-info.csv、csrankings-*.csv、csranking.ts、index.html、util/csrankings.py 是需要我们修改的，csranking.js、csranking.min.js 等文件可以通过“make”指令自动生成。
+其中 `country-info.csv`、`csrankings-*.csv`、`csranking.ts`、`index.html`、`util/csrankings.py` 是需要我们修改的，`csranking.js`、`csranking.min.js` 等文件可以通过 `make` 指令自动生成。
 
-- country-info.csv：存放我们在“dblp数据处理——作者匹配&大学列表更新”这一步得到的高校机构的“institution”、“region”、“countryabbrv”信息。注意：原来CSRankings中就存在的美国大学不能添加进去，否则会出现bug。
-- csrankings-*.csv：csrankings-0-9.csv 存放我们在“dblp数据处理——爬虫代码”这一步得到的作者“name”、“affiliation”信息。csrankings-a-z.csv 无需我们修改，存放的信息为“csrankings-0-9.csv 所有作者信息汇总后按字母表顺序进行切分”，可以通过“make”指令执行。
-- csranking.ts：typescript 语言的前端代码，修改（增加、减少）期刊种类时，需要修改。
-- index.html：html 语言的前端代码，修改（增加、减少）期刊种类时，需要修改。
-- util/csrankings.py：处理 dblp 数据的代码，修改（增加、减少）期刊种类时，需要修改。
+- `country-info.csv`：存放我们在“dblp数据处理——作者匹配&大学列表更新”这一步得到的高校机构的 `institution`、`region`、`countryabbrv` 信息。注意：原来CSRankings中就存在的美国大学不能添加进去，否则会出现bug。
+- `csrankings-*.csv`：`csrankings-0-9.csv` 存放我们在 “dblp数据处理——爬虫代码” 这一步得到的作者 `name`、`affiliation` 信息。`csrankings-a-z.csv` 无需我们修改，存放的信息为 `csrankings-0-9.csv` 所有作者信息汇总后按字母表顺序进行切分”，可以通过“make”指令执行。
+- `csranking.ts`：typescript 语言的前端代码，修改（增加、减少）期刊种类时，需要修改。
+- `index.html`：html 语言的前端代码，修改（增加、减少）期刊种类时，需要修改。
+- `util/csrankings.py`：处理 dblp 数据的代码，修改（增加、减少）期刊种类时，需要修改。
 
 ### **服务器部署**
 
 在 **/ranking** 文件夹中打开一个终端，执行命令行:
 
-**python -m http.server 端口号**（如8111）
+`python -m http.server 端口号`
 
-然后访问即可。若在本机部署，可直接用浏览器访问 127.0.0.1:8111
+如： `python -m http.server 8111`
+
+然后访问即可。若在本机部署，可直接用浏览器访问 `127.0.0.1:8111`
 
 ## dblp数据处理
 
@@ -72,8 +74,8 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 - `disambiguation(filepath1, filepath2)` :  
   - `filepath1` 为每个期刊的 dblp 网址所在文件，即 `ori_dblp_xxx.txt` 的文件路径。
   -  `filepath2` 为 `author_modified1.csv` 的文件路径（在使用说明中会讲到这个文件）。
-  - 函数功能：dblp的作者页面中存在需要消歧的作者页面，dblp无法分辨一些具有相同名字的作者，而这些作者也没有向dblp表明自己的准确身份，所以为了系统的准确，需要删除这些有争议和身份不明的作者信息。函数通过 `ori_dblp_xxx.txt` 遍历 dblp 的作者页面，将**author_modified1.csv** 中将那些作者页面为 **disambiguation page** 的作者信息删除。
-  - 输出文件 **author_modified2.csv**。
+  - 函数功能：dblp的作者页面中存在需要消歧的作者页面，dblp无法分辨一些具有相同名字的作者，而这些作者也没有向dblp表明自己的准确身份，所以为了系统的准确，需要删除这些有争议和身份不明的作者信息。函数通过 `ori_dblp_xxx.txt` 遍历 dblp 的作者页面，将`author_modified1.csv` 中将那些作者页面为 **disambiguation page** 的作者信息删除。
+  - 输出文件 `author_modified2.csv`。
 - `normalize(filepath1,filepath2)`：
   * `filepath1` 为 `country-info.csv` 的文件路径，里面包含了**已经规范化的**各个大学机构的名称、大洲、国家信息，以此为标准来规范化各个作者的机构名称。
   * `filepath2` 为 `modified2_xxx.csv` / `modified3_xxx.csv` 的文件路径。
@@ -122,7 +124,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 ### **作者匹配&大学列表更新**
 
-代码在 **/update_database** 中。
+代码位于在 `/update_database` 
 
 匹配：用新获取的作者和学校，去匹配已有学校，以获得规范化的作者信息；若不存在，则可能会将新的学校加入大学列表中。
 
@@ -132,40 +134,40 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 * make enged-country-info-full-new.csv
 
-  1. 运行 **author_match1.py**，做初步匹配
+  1. 运行 `author_match1.py`，做初步匹配
 
-  2. 运行 **author_match2.py** (这一步调用了谷歌（中国）翻译接口，将非英文的大学姓名翻译成英文。请确保科学上网处于**关闭状态**，否则会出现接口使用失败的情况）
+  2. 运行 `author_match2.py` (这一步调用了谷歌（中国）翻译接口，将非英文的大学姓名翻译成英文。请确保科学上网处于**关闭状态**，否则会出现接口使用失败的情况）
 
      1和2运行后生成文件 
 
-     * **not-matched-author.csv**，内容是本次运行后未匹配的作者信息。
+     * `not-matched-author.csv`，内容是本次运行后未匹配的作者信息。
 
-  3. 运行 **university_complement.py**，生成文件如下：
+  3. 运行 `university_complement.py`，生成文件如下：
 
-     * **complement-university-info1.csv**，内容是本次补充的大学+所在的大洲和国家
+     * `complement-university-info1.csv`，内容是本次补充的大学+所在的大洲和国家
 
-     * **not-university-name.csv**，内容是不考虑加入我们大学列表的机构名称
+     * `not-university-name.csv`，内容是不考虑加入我们大学列表的机构名称
 
-  4. 运行 **concatenate.py**。生成
+  4. 运行 `concatenate.py`。生成
 
-     * **enged-country-info-full-new.csv**，是最新的完整的大学列表
-     * **dict-enged-university-info.csv**，原大学名-翻译后的大学名 键值对。
+     * `enged-country-info-full-new.csv`，是最新的完整的大学列表
+     * `dict-enged-university-info.csv`，原大学名-翻译后的大学名 键值对。
 
   5. **重复1次**步骤1、2，生成如下文件：
 
-     * **author-affiliations.csv**，即本次数据补充后的新作者匹配结果
+     * `author-affiliations.csv`，即本次数据补充后的新作者匹配结果
 
-     * **not-matched-author.csv**，本次数据的不匹配结果。这里面的作者暂不加入我们的网站考虑范围（大多不是学校）
+     * `not-matched-author.csv`，本次数据的不匹配结果。这里面的作者暂不加入我们的网站考虑范围（大多不是学校）
 
 * make country-info.csv
 
-  1. 运行 **./filter_american_schools.py**，过滤掉一些美国大学姓名（不过滤则会在网站中出错。这部分学校的列表在 **us-university-info.csv** 中。生成文件：
-     * **country-info.csv**，最新的大学列表。用法前面讲到了。
-  2. **mv enged-country-info-full-new.csv enged-country-info-full.csv**。文件更名。
+  1. 运行 `./filter_american_schools.py`，过滤掉一些美国大学姓名（不过滤则会在网站中出错。这部分学校的列表在 `us-university-info.csv` 中。生成文件：
+     * `country-info.csv`，最新的大学列表。用法前面讲到了。
+  2. `mv enged-country-info-full-new.csv enged-country-info-full.csv`。文件更名。
 
 #### **使用说明**
 
-1、首先请确保在 **/update_database** 下有以下文件：
+1、首先请确保在 `/update_database` 下有以下文件：
 
 * `normalize_author_xxx.csv`	
 * `unnormalize_author_xxx.csv`
