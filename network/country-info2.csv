@@ -984,7 +984,7 @@ Xi'an University of Technology,asia,cn
 Xiamen University,asia,cn
 Xidian University,asia,cn
 Xinjiang University,asia,cn
-Yale Institute for Network Science and Université Laval,northamerica,us
+Yale Institute for Network Science,northamerica,us
 Yanshan University,asia,cn
 Yantai University,asia,cn
 Yarmouk University,asia,jo
@@ -1002,12 +1002,6 @@ Zhejiang Sci-Tech University,asia,cn
 Zhejiang University,asia,cn
 Zhengzhou University,asia,cn
 Zhongnan University of Economics and Law,asia,cn
-Beijing Normal University,asia,cn
-University of Tasmania,australasia,au
-Loyola University Chicago,northamerica,us
-Auckland University of Technology,australasia,nz
-Harbin Engineering University,asia,cn
-Beijing Language and Culture University,asia,cn
 Aarhus University,northamerica,us
 Arizona State University,northamerica,us
 Auburn University,northamerica,us
@@ -1175,3 +1169,9 @@ Washington State University,northamerica,us
 Washington University in St. Louis,northamerica,us
 Worcester Polytechnic Institute,northamerica,us
 Yale University,northamerica,us
+Beijing Normal University,asia,cn
+University of Tasmania,australasia,au
+Loyola University Chicago,northamerica,us
+Auckland University of Technology,australasia,nz
+Harbin Engineering University,asia,cn
+Beijing Language and Culture University,asia,cn
