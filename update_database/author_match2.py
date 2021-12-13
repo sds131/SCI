@@ -125,11 +125,16 @@ def process_raw_author(filename, full_list, unnormalize):
                 new_item = 'ISC-PIF'
             if ('Max-Planck' in item or 'Max Planck' in item):
                 new_item = 'Max Planck Institute'
+            if "Kebangsaan Malaysia" in item:
+                new_item = 'National University of Malaysia'
+            if 'Wroclaw University of Technology' in item or 'Wrocław University of Technology' in item:
+                new_item = 'Wrocław University of Science and Technology'
+            if 'Institut Barcelona Estudis' in item or 'Institut Barcelona d\'Estudis' in item:
+                new_item = 'Barcelona Institute of International Studies'
+                
             for university in full_list:
                 if university in new_item:
                     matches[name] = university
-                    if name == 'Wenwen Ding':
-                        print('debug: univ: ', university)
                     flag = 1
                     break
             if flag == 1:

@@ -47,8 +47,8 @@ supplement_list = {
     'Oregon Research Institute': 'Oregon Research Institute',
     'Institute for Service Marketing and Tourism': 'Institute for Service Marketing and Tourism',
     'FU Berlin': 'FU Berlin',
-    'DAMO Academy': 'Alibaba Group'
-    
+    'DAMO Academy': 'Alibaba Group',
+    "Kebangsaan Malaysia": 'National University of Malaysia'
     # 'China University of Petroleum': 'China University of Petroleum (Huadong)'
 }
 
@@ -77,8 +77,10 @@ exclude_list = [
     'and Corvinus University of Budapest',
     'université de caen',
     'ZPID – Leibniz Institute for Psychology Information',
-    'KTH - Royal Institute of Technology,europe'
-    'KTH – Royal Institute of Technology,europe'
+    'KTH - Royal Institute of Technology,europe',
+    'Wroclaw University of Technology',
+    'Wrocław University of Technology',
+    "Institut Barcelona d'Estudis Internacionals (IBEI)"
 ]
 
 def get_country_abbr(country):
@@ -87,8 +89,30 @@ def get_country_abbr(country):
         dict = json.load(load_f)
     abbr = []
     for i in country:
+        if 'Saudi Arabia' in i:
+            i = 'Saudi Arabia'
+        if 'UK' in i or 'Scotland' in i or 'England' in i:
+            i = 'United Kingdom'
+        if 'Russian Federation' in i:
+            i = 'Russia'
+        if 'China' in i:
+            i = 'China'
+        if 'Palestinian Authority' in i:
+            i = 'Palestine'
+        if i == 'Korea':
+            i = 'South Korea' 
+        if i == 'España':
+            i = 'Spain'
+        if i == 'UAE':
+            i = 'United Arab Emirates'
+        if i == 'Brasil':
+            i = 'Brazil'
+        if i not in dict:
+            print("ERROR: Country not in the JSON, please check ./jsons/country-abbr.json: ", i.encode('utf-8'))
+            a = dict[i].lower()
         a = dict[i].lower()
-        abbr.append(dict[i])
+        abbr.append(a)
+            
         
     return abbr
 
@@ -130,7 +154,7 @@ if __name__ == '__main__':
     try:
         temp = df['affiliation'].tolist()
     except KeyError:
-        df = pd.read_csv(filename, header=None, names=['name', 'affiliation'])
+        df = pd.read_csv(filename, header=None, names=['name', 'affiliation'], encoding='utf-8')
         temp = df['affiliation'].tolist()
     for school in temp:
         if not type(school) == str:
@@ -157,7 +181,7 @@ if __name__ == '__main__':
                     else:
                         univer_country[temp[1]] = temp_split[-1]
             if flag_school[school] == 0 and ('Univer' in every or 'univer' in every):
-                new_universities.append(every.title())
+                new_universities.append(every)
                 flag_school[school] = 1
                 univer_country[every] = temp_split[-1]
 
@@ -175,7 +199,7 @@ if __name__ == '__main__':
     try:
         temp = df['affiliation'].tolist()
     except KeyError:
-        df = pd.read_csv(filename, header=None, names=['name', 'affiliation'])
+        df = pd.read_csv(filename, header=None, names=['name', 'affiliation'], encoding='utf-8')
         temp = df['affiliation'].tolist()
     for school in temp:
         if not type(school) == str:
@@ -190,7 +214,7 @@ if __name__ == '__main__':
         # flag = 0
         for every in temp_split:
             if ('Institu' in every or 'institu' in every or 'Acade' in every or 'acade' in every) and every in count_not_university :
-                new_universities.append(every.title())
+                new_universities.append(every)
                 flag_school[school] = 1
                 univer_country[every] = temp_split[-1]
         if flag_school[school] == 0:
@@ -207,7 +231,6 @@ if __name__ == '__main__':
 
     new_universities = list(set(new_universities))
     new_universities = sorted(new_universities)
-    
     new_universities_country = [univer_country[school] for school in new_universities]
     with open('complement-university-name1.csv', 'w+', encoding='utf-8') as f:
         for i in new_universities:

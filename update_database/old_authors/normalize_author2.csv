@@ -1,5 +1,4 @@
 Kevin Crowston,Syracuse University
-Ioanna Lykourentzou,Luxembourg Institute of Science and Technology
 Peter Tolmie,University of Siegen
 Rob Procter,University of Warwick
 Mark Rouncefield,Lancaster University
@@ -12,20 +11,24 @@ Michael Mathioudakis,CNRS
 Weichen Liu,University of California - San Diego
 Sijia Xiao,Georgia Institute of Technology
 Jacob T. Browne,University of California - San Diego
+Ming Yang,Cornell University
 Steven P. Dow,University of California - San Diego
-Fred Morstatter,USC Information Sciences Institute
 Liang Wu 0006,Arizona State University
 Uraz Yavanoglu,Gazi University
 Stephen R. Corman,Arizona State University
 Huan Liu 0001,Arizona State University
+Elena Simperl,University of Southampton
 Neal Reeves,University of Southampton
 Chris Phethean,University of Southampton
 Todd Lynes,University of Southampton
 Ramine Tinati,University of Southampton
+Chuan Shi,Beijing University of Posts and Telecommunications
+Jian Liu,Beijing University of Posts and Telecommunications
 Yiding Zhang,Beijing University of Posts and Telecommunications
 Binbin Hu,Beijing University of Posts and Telecommunications
 Shenghua Liu,Chinese Academy of Sciences
 Philip S. Yu,University of Illinois at Chicago
+Yla R. Tausczik,University of Maryland - College Park
 Rosta Farzan,University of Pittsburgh
 John M. Levine,University of Pittsburgh
 Robert E. Kraut,Carnegie Mellon University
@@ -39,9 +42,14 @@ Pernille Bjørn,University of Copenhagen
 Xianqi Yu,Shandong University
 Yuqing Sun,Shandong University
 Elisa Bertino,Purdue University
+Xin Li,Shandong University
 Steve T. K. Jan,Virginia Tech
+Chun Wang,Virginia Tech
+Qing Zhang,Virginia Tech
 Gang Wang 0011,Virginia Tech
 Darshan Santani,Idiap Research Institute
+Daniel Gatica-Perez,Idiap Research Institute
+Yoram M. Kalman,Open University
 Susan Gasson,Drexel University
 Michelle Purcell,Drexel University
 Nargess Tahmasbi,Pennsylvania State University
@@ -61,7 +69,9 @@ Djellel Eddine Difallah,York University
 Alessandro Checco,University of Sheffield
 Gianluca Demartini,University of Queensland
 Philippe Cudré-Mauroux,University of Fribourg
+Tiago Santos,Graz University of Technology
 Roman Kern,Graz University of Technology
+Markus Strohmaier,RWTH Aachen
 Denis Helic,Graz University of Technology
 Jin-Hee Cho,Virginia Polytechnic Institute and State University
 John O'Donovan,University of California - Santa Barbara
@@ -73,13 +83,11 @@ Qunfang Wu,Syracuse University
 Yisi Sang,Syracuse University
 Yun Huang 0003,Syracuse University
 Lisa Posch,Graz University of Technology
-Arnim Bleier,GESIS - Leibniz Institute for the Social Sciences
-Clemens Lechner,GESIS - Leibniz Institute for the Social Sciences
 Daniel Danner,University of Applied Labour Studies
-Fabian Flöck,GESIS - Leibniz Institute for the Social Sciences
 Markus Strohmaier,RWTH Aachen
 Ahmed Mourad,RMIT University
 Falk Scholer,RMIT University
+Walid Magdy,University of Edinburgh
 Mark Sanderson,RMIT University
 Yla R. Tausczik,University of Maryland - College Park
 Xiaoyun Huang,University of Maryland - College Park
@@ -116,9 +124,11 @@ Wendy Moncur,University of Dundee
 Emily Porter,University of Washington
 P. M. Krafft,University of Oxford
 Brian Keegan,University of Colorado
+Ofer Arazy,University of Haifa
 Aron Lindberg,Stevens Institute of Technology
 Shakked Lev,University of Haifa
 Kexian Wu,Stevens Institute of Technology
+Alex Yarovoy,University of Haifa
 Horacio Saggion,Universitat Pompeu Fabra
 Emre Kiciman,Microsoft
 Amit P. Sheth,University of South Carolina
@@ -132,6 +142,7 @@ Andreas Hotho,Julius Maximilians University Würzburg
 Yunhe Feng,University of Tennessee
 Zheng Lu 0005,University of Tennessee
 Wenjun Zhou 0001,University of Tennessee
+Zhibo Wang,Wuhan University
 Qing Cao,University of Tennessee
 Joongyum Kim,KAIST
 Taesik Gong,KAIST
@@ -158,7 +169,6 @@ Paul Buitelaar,National University of Ireland
 Mohammad Al-Ramahi,Texas A&M University
 Cherie Noteboom,Dakota State University
 Tianshu Lyu,Peking University
-Lidong Bing,Alibaba Group
 Yan Zhang 0004,Peking University
 Sajedul Rahim Talukder,Edinboro University
 Bogdan Carbunar,Florida International University
@@ -169,9 +179,10 @@ Lucas Santos de Oliveira,Federal University of Minas Gerais
 Pedro O. S. Vaz de Melo,Federal University of Minas Gerais
 Marcelo S. Amaral,State University of Southwestern of Bahia
 José Antônio G. Pinho,Federal University of Bahia
+Pamela J. Wisniewski,University of Central Florida
 Karla A. Badillo-Urquiola,University of Central Florida
 Zahra Ashktorab,IBM
-Jessica Vitak,University of Maryland - College Park
+Jessica Vitak,University of Maryand
 Alex Yarovoy,University of Haifa
 Yiftach Nagar,University of Haifa
 Einat Minkov,University of Haifa

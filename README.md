@@ -29,6 +29,8 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 ### **服务器部署**
 
+#### 在本机部署
+
 在 **/ranking** 文件夹中打开一个终端，执行命令行:
 
 `python -m http.server 端口号`
@@ -36,6 +38,24 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 如： `python -m http.server 8111`
 
 然后访问即可。若在本机部署，可直接用浏览器访问 `127.0.0.1:8111`
+
+#### 在服务器部署
+
+1. 连接服务器后，首先运行命令 `ps -ef|grep py` 查看是否有进程 `python3 -m http.server 80`，若有则执行 `kill` 命令将其杀死
+
+2. 随后将新的网站代码放入 `/Scranking` 中，可以将过往的网站代码删除
+
+3. 在网站代码文件夹中打开命令行，执行 `python3 -m http.server 80 1>connection.log 2>&1 & ` 
+
+4. 此时一般会命令行会输出一行 `[1] xxxx`，表示这个进程的 `job id = 1` 和 `pid = xxxx`
+
+5. 随后执行 `disown %1`（ 1 是 `job id` ）即可，此时可以退出服务器，进程会一直在后台运行
+
+
+
+`
+
+
 
 ## dblp数据处理
 
@@ -167,7 +187,7 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 
 #### **使用说明**
 
-1、首先请确保在 `/update_database` 下有以下文件：
+1. 首先请确保在 `/update_database` 下有以下文件：
 
 * `normalize_author_xxx.csv`	
 * `unnormalize_author_xxx.csv`
@@ -178,15 +198,19 @@ Social Computing Index 和 CSRankings 相比，发生变化的是这几个文件
 * `/json/continent-info.json`
 * `/json/dict-enged-university-info.json`
 
-2、在这个文件夹中运行命令行 `make country_info.csv`
+2. 将文件`normalize_author_xxx.csv`	`unnormalize_author_xxx.csv`，改为`normalize_authori.csv`	`unnormalize_authori.csv`，`i` 是一个数字（可以任意，但是同一个期刊的要对应）
 
-3、用生成的 `country-info.csv` 替换网站源代码中的同名文件。
+3. 在这个文件夹中运行命令行 `make country-info.csv`
 
-4、将生成的 `author-affiliations.csv` 中的所有姓名追加到网站源代码的 `csrankings-0.csv` 中（可以与原来的条目有重复）
+4. 用生成的 `country-info.csv` 替换网站源代码中的同名文件。
 
-5、在网站源代码中执行 `make` 即可。随后即可部署服务器。
+5. 将生成的 `author-affiliations.csv` 中的所有姓名追加到网站源代码的 `csrankings-0.csv` 中（可以与原来的条目有重复）
 
+6. 在网站源代码中执行 `make` 即可。随后即可部署服务器。
 
+* **注意**：
+  * 如果不使用以上代码而是直接手动更新 `country-info.csv`，再次使用这个代码的时候会有各种报错！因此尽量保证用以上代码更新 `country-info.csv`！
+  * `unnormalized_authors.csv` 中的 `affiliation` 列，必须是作者机构的完整名称，包含国家信息，否则将无法做补充。
 
 
 

@@ -24,5 +24,7 @@ enged-country-info-full-new.csv: normalize_authors.csv unnormalize_authors.csv
 country-info.csv: enged-country-info-full-new.csv
 	$(PYTHON) ./filter_american_schools.py
 	mv enged-country-info-full-new.csv enged-country-info-full.csv
+	rm -rf normalize_authors.csv
+	rm -rf unnormalize_authors.csv
 
 

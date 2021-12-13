@@ -1,7 +1,7 @@
 import os
 import re
 import pandas as pd
-path = './journals/'
+path = './'
 normalize_names = []
 unnormalize_names = []
 for file in os.listdir(path): 

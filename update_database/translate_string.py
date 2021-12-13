@@ -133,8 +133,6 @@ def google_translate_list(univ_list, name):
                 break
         if flag == 1:
             cnt += 1
-            print('cnt: ', cnt)
-            # print('original: ', string)
             time.sleep(1)
             new_string = ' '.join(new_splits)
             result = translator.translate(new_string)
@@ -172,12 +170,10 @@ def google_translate_single(univ):
             break
     if flag == 1:
         cnt += 1
-        print('cnt: ', cnt)
-        # print('original: ', string)
         time.sleep(1)
         new_string = ' '.join(new_splits)
         result = translator.translate(new_string)
-        print('result: ', result.text)
+        print('translated result: ', result.text.encode('utf-8'))
         univ = result.text
         dict[string] = result.text
     return univ
