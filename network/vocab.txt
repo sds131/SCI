@@ -1,0 +1,2351 @@
+'Brazilian style science' - an analysis of the difference between Brazilian and international Computer Science departments and graduate programs using social networks analysis and bibliometrics.
+'It could turn ugly': Selective disclosure of attitudes in political discussion networks.
+'It must be me' or 'It could be them?': The impact of the social network position of bullies and victims on victims\' adjustment.
+'Think before you upload': an in-depth analysis of unavailable videos on YouTube.
+'Trust Me': Differences in expressed and perceived trust relations in an organization.
+(When) Is job-finding via personal contacts a meaningful concept for social network analysis? A comment to.
+3-HBP: A Three-Level Hidden Bayesian Link Prediction Model in Social Networks.
+<i>In users we trust: </i> towards social user interactions based Trust Assertions for the Social Semantic Web.
+<i>K</i>-anonymity for social networks containing rich structural and textual information.
+<i>k</i>-means-based algorithm for blockmodeling linked networks.
+A 3-D Security Modeling Platform for Social IoT Environments.
+A Bayesian Multiagent Trust Model for Social Networks.
+A Bayesian approach for the reliability of scientific co-authorship networks with emphasis on nodes.
+A Bisubmodular Approach to Event Detection and Prediction in Multivariate Social Graphs.
+A Blockchain-Based Reward Mechanism for Mobile Crowdsensing.
+A Blockchain-Powered Crowdsourcing Method With Privacy Preservation in Mobile Environment.
+A CPSS-Based Network Resource Optimization Mechanism for Wireless Heterogeneous Networks.
+A Collaborative Citizen Science Platform for Real-Time Volunteer Computing and Games.
+A Community Detection Method for Social Network Based on Community Embedding.
+A Comparative Study of Opinion Summarization Techniques.
+A Data-Driven Analysis of Employee Development Based on Working Expertise.
+A Distributed HOSVD Method With Its Incremental Computation for Big Data in Cyber-Physical-Social Systems.
+A Distributed Spatiotemporal Contingency Analysis for the Lebanese Power Grid.
+A Dynamic Information Dissemination Model Based on Implicit Link and Social Influence.
+A Fair Blockchain Based on Proof of Credit.
+A Fast Overlapping Community Detection Algorithm Based on Weak Cliques for Large-Scale Networks.
+A Feedback Mechanism With Bounded Confidence- Based Optimization Approach for Consensus Reaching in Multiple Attribute Large-Scale Group Decision-Making.
+A Framework for Automatic Categorization of Social Data Into Medical Domains.
+A Fuzzy Approach to Text Classification With Two-Stage Training for Ambiguous Instances.
+A General Cognitive Architecture for Agent-Based Modeling in Artificial Societies.
+A Graph-Based Socioeconomic Analysis of Steemit.
+A Graph-theoretic perspective on centrality.
+A Hybrid Approach of Bayesian Structural Time Series With LSTM to Identify the Influence of News Sentiment on Short-Term Forecasting of Stock Price.
+A Hybrid Privacy Protection Scheme in Cyber-Physical Social Networks.
+A Hybrid Probabilistic Multiobjective Evolutionary Algorithm for Commercial Recommendation Systems.
+A Large-Scale Study of the Twitter Follower Network to Characterize the Spread of Prescription Drug Abuse Tweets.
+A Librarian, a Politician, a UX Expert, and a Cyberbully Walk into a Special Issue.
+A Lightweight Blockchain-Based Model for Data Quality Assessment in Crowdsensing.
+A Lightweight Scheme Exploiting Social Networks for Data Minimization According to the GDPR.
+A Longitudinal Study of Google Play.
+A Mass-Conservation Model for Stability Analysis and Finite-Time Estimation of Spread of COVID-19.
+A Mathematical Analysis of Network Controllability Through Driver Nodes.
+A Mathematical Approach to Gauging Influence by Identifying Shifts in the Emotions of Social Media Users.
+A Message and Vision Statement From the New Editor-in-Chief.
+A Mixed-Methods Approach to Understanding Funder Trust and Due Diligence Processes in Online Crowdfunding Investment.
+A Model for Decision Making Under the Influence of an Artificial Social Network.
+A Model for Social Communication Network in Mobile Instant Messaging Systems.
+A Multimodal Author Profiling System for Tweets.
+A Nash bargaining model for simple exchange networks.
+A Network Analysis of Twitter Interactions by Members of the U.S. Congress.
+A Neural Network-Based Ensemble Approach for Spam Detection in Twitter.
+A Neural-Based Approach for Detecting the Situational Information From Twitter During Disaster.
+A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading.
+A Nonlinear Feature Fusion-Based Rating Prediction Algorithm in Heterogeneous Network.
+A Novel Hybrid Clustering Algorithm for Topic Detection on Chinese Microblogging.
+A Novel Hybrid-Jump-Based Sampling Method for Complex Social Networks.
+A Novel Intrusion Detection and Prevention Scheme for Network Coding-Enabled Mobile Small Cells.
+A Novel Scene of Viral Marketing for Complementary Products.
+A Novel Stream Clustering Framework for Spam Detection in Twitter.
+A One-Third Advice Rule Based on a Control-Theoretic Opinion Dynamics Model.
+A Participation Architecture to Support User Peripheral Participation in a Hybrid FOSS Community.
+A Partition-Based Partial Personalized Model for Points-of-Interest Recommendations.
+A Pattern Recognition Framework for Detecting Changes in Chinese Internet Management System.
+A Performance Evaluation of Machine Learning-Based Streaming Spam Tweets Detection.
+A Personalized Learning System for Parallel Intelligent Education.
+A Practical Guide for the Effective Evaluation of Twitter User Geolocation.
+A Prediction Method of Publication Productivity for Researchers.
+A Quantitative Study of Factors Influence on Evacuation in Building Fire Emergencies.
+A Random-Field-Environment-Based Multidimensional Time-Dependent Resilience Modeling of Complex Systems.
+A Regularized Convex Nonnegative Matrix Factorization Model for signed network analysis.
+A Rhombic Dodecahedron Topology for Human-Centric Banking Big Data.
+A Scalable Platform to Collect, Store, Visualize, and Analyze Big Data in Real Time.
+A Second-Order Diffusion Model for Influence Maximization in Social Networks.
+A Short-Term Prediction Model at the Early Stage of the COVID-19 Pandemic Based on Multisource Urban Data.
+A Signaling Game for Uncertain Data Delivery in Selfish Mobile Social Networks.
+A Smartphone-Based Passenger Assistant for Public Bus Commute in Developing Countries.
+A Social Computing-Based Analysis on Monogamous Marriage Puzzle of Human.
+A Social Crowdsourcing Community Case Study: Interaction Patterns, Evolution, and Factors That Affect Them.
+A Social Sensing Model for Event Detection and User Influence Discovering in Social Media Data Streams.
+A Socio-Computational Approach to Predicting Bioweapon Proliferation.
+A Socio-Contextual Approach in Automated Detection of Public Cyberbullying on Twitter.
+A Sociotechnical Approach to the Museum Congestion Management Problem.
+A Spatial Mobile Crowdsourcing Framework for Event Reporting.
+A Spatiotemporal Recurrent Neural Network for Prediction of Atmospheric PM2.5: A Case Study of Beijing.
+A Study of Friend Abuse Perception in Facebook.
+A Survey of Quantitative Models of Terror Group Behavior and an Analysis of Strategic Disclosure of Behavioral Models.
+A Survey of Sentiment Analysis from Social Media Data.
+A Survey of Social Image Colocalization.
+A Systematic Review of Predicting Elections Based on Social Media Data: Research Challenges and Future Directions.
+A Theoretically Guaranteed Approach to Efficiently Block the Influence of Misinformation in Social Networks.
+A Topic Representation Model for Online Social Networks Based on Hybrid Human-Artificial Intelligence.
+A Tutorial on Interactive Sensing in Social Networks.
+A Twitter-based approach of news media impartiality in multipartite political scenes.
+A Two-Stage Intervened Decision System With State-Dependent Random Inspection Mechanisms.
+A Two-Stage Rating Prediction Approach Based on Matrix Clustering on Implicit Information.
+A Unified Framework of Epidemic Spreading Prediction by Empirical Mode Decomposition- Based Ensemble Learning Techniques.
+A balance theory approach to group problem solving.
+A behavior genetic analysis of the tendency for youth to associate according to GPA.
+A bimodal social network analysis to recommend points of interest to tourists.
+A blockchain-based secured and trusted framework for information propagation on online social networks.
+A bootstrapping approach to social media quantification.
+A classification approach to link prediction in multiplex online ego-social networks.
+A classification of Antifa Twitter accounts based on social network mapping and linguistic analysis.
+A cohesion-based friend-recommendation system.
+A collaborative filtering framework for friends recommendation in social networks based on interaction intensity and adaptive user similarity.
+A community role approach to assess social capitalists visibility in the Twitter network.
+A community-based algorithm for deriving users' profiles from egocentrics networks: experiment on Facebook and DBLP.
+A comparative analysis of similarity measures akin to the Jaccard index in collaborative recommendations: empirical and theoretical perspective.
+A comparative study of social network models: Network evolution models and nodal attribute models.
+A comparison of email networks and off-line social networks: A study of a medium-sized bank.
+A comparison of various approaches to the exponential random graph model: A reanalysis of 102 student networks in school classes.
+A comprehensive comparison of graph theory metrics for social networks.
+A computational approach for the experimental study of EU case law: analysis and implementation.
+A computational study of homophily and diffusion of common knowledge on social networks based on a model of Facebook.
+A concept for measuring network proximity of regions in R&amp;D networks.
+A correction: The <i>β</i>-ranking and the <i>β</i>-measure for directed networks: Axiomatic characterizations.
+A cross-country study on cultural similarities based on book preferences.
+A customizable pipeline for social media text normalization.
+A data reduction approach using hypergraphs to visualize communities and brokers in social networks.
+A decision support system for rule discovery in social networks.
+A deep dive into COVID-19-related messages on WhatsApp in Pakistan.
+A deep learning approach for human behavior prediction with explanations in health social networks: social restricted Boltzmann machine (SRBM+).
+A deep learning-based social media text analysis framework for disaster resource management.
+A deviational approach to blockmodeling of valued networks.
+A fine-grained social network recommender system.
+A fixed degree sequence model for the one-mode projection of multiplex bipartite graphs.
+A flexible multiscale approach to overlapping community detection.
+A framework for improving electoral forecasting based on time-aware polling.
+A framework for mobile and context-aware applications applied to vehicular social networks.
+A framework for quantifying controversy of social network debates using attributed networks: biased random walk (BRW).
+A framework for the comparison of maximum pseudo-likelihood and maximum likelihood estimation of exponential family random graph models.
+A framework to restrict viewing of peer commentary on Web objects based on trust modeling.
+A general method of active friending in different diffusion models in social networks.
+A generalized model of relational similarity.
+A gradient-based methodology for optimizing time for influence diffusion in social networks.
+A graph database framework for covert network analysis: An application to the Islamic State network in Europe.
+A graph modification approach for k-anonymity in social networks using the genetic algorithm.
+A heuristic approach to estimate nodes' closeness rank using the properties of real world networks.
+A hybrid approach for pair-wise layer similarity in a multiplex network.
+A hybrid epidemic model for deindividuation and antinormative behavior in online social networks.
+A k-Hop Collaborate Game Model: Adaptive Strategy to Maximize Total Revenue.
+A learning method for Top-N recommendations with incomplete data.
+A level-cut heuristic-based clustering approach for social graph anonymization.
+A lightweight and multilingual framework for crisis information extraction from Twitter data.
+A longitudinal analysis on Instagram characteristics of Olympic champions.
+A mash-up application utilizing hybridized filtering techniques for recommending events at a social networking site.
+A mathematical model of dynamic social networks.
+A mathematical model of news propagation on online social network and a control strategy for rumor spreading.
+A measure of betweenness centrality based on random walks.
+A medical image retrieval scheme with relevance feedback through a medical social network.
+A medical social network for physicians' annotations posting and summarization.
+A method for computing political preference among Twitter followers.
+A method to detect communities with stability in social networks.
+A mixed membership model-based measure for subgroup integration in social networks.
+A model for collaboration networks giving rise to a power-law distribution with an exponential cutoff.
+A model for the multiplex dynamics of two-mode and one-mode networks, with an application to employment preference, friendship, and advice.
+A model of influencing factors of online social networks for informal learning in research institutes.
+A model-independent approach for efficient influence maximization in social networks.
+A multi-level anomaly detection algorithm for time-varying graph data with interactive visualization.
+A multi-way analysis of international bilateral claims.
+A multiple indicator approach to blockmodeling signed networks.
+A network analysis of an online expertise sharing community.
+A network approach for understanding opportunities and barriers to effective public participation in the management of protected areas.
+A new analysis method for simulations using node categorizations.
+A new approach for affinity relationship discovery in online forums.
+A new approach to role and position detection in networks.
+A new approximation method for the Shapley value applied to the WTC 9/11 terrorist attack.
+A new criterion function for exploratory blockmodeling for structural and regular equivalence.
+A new look at clustering coefficients with generalization to weighted and multi-faction networks.
+A new method for finding hierarchical subgroups from networks.
+A new method for organizational process model discovery through the analysis of workflows and data exchange networks.
+A new method to discretize time to identify the milestones of online social networks.
+A new scalable leader-community detection approach for community detection in social networks.
+A node activity and connectivity-based model for influence maximization in social networks.
+A note on actor network utilities and network evolution.
+A note on measures of similarity based on centrality.
+A note on structural holes theory and niche overlap.
+A note on the paper 'cost range and the stable network structures'.
+A note on using the adjusted Rand index for link prediction in networks.
+A novel approach for modeling and managing spontaneous social communities over MANETs.
+A novel approach to online social influence maximization.
+A novel framework based on bi-objective optimization and LAN<sup>2</sup>FIS for Twitter sentiment analysis.
+A novel iterated greedy algorithm for detecting communities in complex network.
+A novel sentiment analysis of social networks using supervised learning.
+A novel similarity measure for the link prediction in unipartite and bipartite networks.
+A novel two-step approach for overlapping community detection in social networks.
+A numerical evaluation of the accuracy of influence maximization algorithms.
+A p* primer: logit models for social networks.
+A penalty box approach for approximation betweenness and closeness centrality algorithms.
+A personal network approach to the study of immigrant structural assimilation and transnationalism.
+A personalized gamification method for increasing user engagement in social networks.
+A public online resource to track COVID-19 misinfodemic.
+A puzzle concerning triads in social networks: Graph constraints and the triad census.
+A quest for the structure of intra- and postoperative surgical team networks: does the small-world property evolve over time?
+A real-coded genetic algorithm for two-mode KL-means partitioning with application to homogeneity blockmodeling.
+A relationship between verbal aggression and personal network size.
+A representation for the Mexican political networks.
+A review of features for the discrimination of twitter users: application to the prediction of offline influence.
+A review on sentiment analysis and emotion detection from text.
+A scalable geometric algorithm for community detection from social networks with incremental update.
+A scalable heuristic for viral marketing under the tipping model.
+A second look at Krackhardt's graph theoretical dimensions of informal organizations.
+A self-organized approach for detecting communities in networks.
+A semantic similarity-based social information retrieval model.
+A sexual affiliation network of swingers, heterosexuals practicing risk behaviours that potentiate the spread of sexually transmitted infections: A two-mode approach.
+A sign of the times? Weak and strong polarization in the U.S. Congress, 1973-2016.
+A significant core structure inside the social network evolutionary process.
+A simulation method for social networks.
+A small world on feet of clay? A comparison of empirical small-world studies against best-practice criteria.
+A smartphone-based online social network trust evaluation system.
+A social network analysis and mining methodology for the monitoring of specific domains in the blogosphere.
+A social network approach to change detection in the interdependence structure of global stock markets.
+A social network evolution model based on seniority.
+A social network theory perspective on how social ties influence perceived employability and job insecurity: evidence from school teachers.
+A spontaneous social network based on mobile devices.
+A statistical network analysis of the HIV/AIDS epidemics in Cuba.
+A structural event approach to the analysis of group composition.
+A structured overview of 50 years of small-world research.
+A study of cluster hypergraphs and its properties.
+A study of sign adjustment in weighted signed networks.
+A subquadratic triad census algorithm for large sparse networks with small maximum degree.
+A supervised approach for intra-/inter-community interaction prediction in dynamic social networks.
+A supervised learning approach to link prediction in Twitter.
+A survey of event detection techniques in online social networks.
+A survey on detecting spam accounts on Twitter network.
+A survey on game theoretic models for community detection in social networks.
+A survey on the use of data and opinion mining in social media to political electoral outcomes prediction.
+A synthetic data generator for online social network graphs.
+A system for ranking organizations using social scale analysis.
+A systematic approach to the one-mode projection of bipartite graphs.
+A systematic evaluation of assumptions in centrality measures by empirical flow data.
+A systematic literature review of sparsity issues in recommender systems.
+A systematic mapping on automatic classification of fake news in social media.
+A systemic approach to sociometric group research: Advancing the work of Leslie Day Zeleny, 1939-1947.
+A transformer-based architecture for fake news classification.
+A trust model for multimedia social networks.
+A trust-based collaborative access control model with policy aggregation for online social networks.
+A trust-based multi-ego social network model to investigate emotion diffusion.
+A twitter recruitment intelligent system: association rule mining for smoking cessation.
+AMACS: Automated Mobile Application Content Sensing.
+AMNN: Attention-Based Multimodal Neural Network Model for Hashtag Recommendation.
+APE: A Data-Driven, Behavioral Model-Based Anti-Poaching Engine.
+Academic Team Formulation Based on Liebig's Barrel: Discovery of Anticask Effect.
+Academic communication and Internet Discussion Groups: transfer of information or creation of social contacts?
+Accessing the Role of Trust Profiles for the Economic Growth of Societies: A Stochastic Rule-Based Simulation Using the Prisoner's Dilemma Game.
+Accuracy, stability and reciprocity in informal conversational networks in rural Kenya.
+Accurate link prediction method based on path length between a pair of unlinked nodes and their degree.
+Accusation and confession discrepancies in bullying: Dual-perspective networks and individual-level attributes.
+Achieving spectral localization of network using betweenness-based edge perturbation.
+Activeness of Syrian refugee crisis: an analysis of tweets.
+Activity Archetypes in Question-and-Answer (Q8A) Websites - A Study of 50 Stack Exchange Instances.
+Activity Minimization of Misinformation Influence in Online Social Networks.
+Activity correlation spectroscopy: a novel method for inferring social relationships from activity data.
+Actor network utilities and network evolution.
+Actor non-response in valued social networks: The impact of different non-response treatments on the stability of blockmodels.
+Actor-based analysis of peer influence in A Stop Smoking In Schools Trial (ASSIST).
+Adapting the Bron-Kerbosch algorithm for enumerating maximal cliques in temporal graphs.
+Adding valued data to social network measures: Does it add to associations with adolescent substance use?
+Addressing structural and dynamic features of scientific social networks through the lens of Actor-Network Theory.
+Adjustment of issue positions based on network strategies in an election campaign: A two-mode network autoregression model with cross-nested random effects.
+Adolescent aggression: The role of peer group status motives, peer aggression, and group characteristics.
+Adopter Community Formation Accelerated by Repeaters of Product Advertisement Campaigns.
+Adult content consumption in online social networks.
+Advanced Machine Learning on Cognitive Computing for Human Behavior Analysis.
+Advanced searching framework for open online educational video lectures.
+Advances in biased net theory: definitions, derivations, and estimations.
+Advances in exponential random graph (p<sup>*</sup>) models applied to a large social network.
+Advances in exponential random graph (p<sup>*</sup>) models.
+Affinity Paths and information diffusion in social networks.
+Agent Categorization With Group Role Assignment With Constraints and Simulated Annealing.
+Agent based models and opinion dynamics as Markov chains.
+Agent-Based Modeling of Emergency Evacuations Considering Human Panic Behavior.
+Agent-based simulations of payoff distribution in economic networks.
+Algorithms for diversity and clustering in social networks through dot product graphs.
+Alleviating New User Cold-Start in User-Based Collaborative Filtering via Bipartite Network.
+Alpha-anonymization techniques for privacy preservation in social networks.
+Alternative estimation methods for identifying contagion effects in dynamic social networks: A latent-space adjusted approach.
+Alters as species: Predicting personal network size from contact diaries.
+Altruism in social networks: good guys do finish first.
+Americans are more exposed to difference than we think: Capturing hidden exposure to political and racial difference.
+Amplifying influence through coordinated behaviour in social networks.
+An Adaptive Intelligent Management System of Advertising for Social Networks: A Case Study of Facebook.
+An Agent-Based Model of Collective Decision-Making: How Information Sharing Strategies Scale With Information Overload.
+An Analysis of Taxi Driver's Route Choice Behavior Using the Trace Records.
+An Analysis of the Consequences of the General Data Protection Regulation on Social Network Research.
+An Analysis of the Internal Organization of Facebook Groups.
+An Analytical Comparison of Social Network Measures.
+An Efficient Signature Scheme Based on Mobile Edge Computing in the NDN-IoT Environment.
+An Empirical Study of Factor Identification in Smart Health-Monitoring Wearable Device.
+An Energy Function for Computing Structural Balance in Fully Signed Network.
+An Ensemble of Heterogeneous Incremental Classifiers for Assisted Reproductive Technology Outcome Prediction.
+An IVC-Based Nuclear Emergency Parallel Evacuation System.
+An Internet-of-Things Solution to Assist Independent Living and Social Connectedness in Elderly.
+An Investigation of the Portrayal of Social Media Challenges on YouTube and Twitter.
+An Operator-Based Approach for Modeling Influence Diffusion in Complex Social Networks.
+An Optimization and Auction-Based Incentive Mechanism to Maximize Social Welfare for Mobile Crowdsourcing.
+An Overview of Unsupervised Deep Feature Representation for Text Categorization.
+An Upstream-Reciprocity-Based Strategy for Academic Social Networks Using Public Goods Game.
+An adaptable scheme to enhance the sentiment classification of Telugu language.
+An agent-based approach for organizational structures and interaction protocols mining in workflow.
+An agent-based random-utility-maximization model to generate social networks with transitivity in geographic space.
+An algebraic approach to temporal network analysis based on temporal quantities.
+An algorithm and metric for network decomposition from similarity matrices: Application to positional analysis.
+An application of social network mining to scientific data: identifying networks structures and detecting partnerships in metrics and citation patterns.
+An architectural framework for developing a recommendation system to enhance vendors' capability in C2C social commerce.
+An augmented multilingual Twitter dataset for studying the COVID-19 infodemic.
+An author is known by the context she keeps: significance of network motifs in scientific collaborations.
+An effective short text conceptualization based on new short text similarity.
+An efficient and effective hop-based approach for influence maximization in social networks.
+An efficient and secure authentication for inter-roaming in wireless heterogeneous network.
+An efficient counting method for the colored triad census.
+An efficient heuristic for betweenness estimation and ordering.
+An efficient method for mining the maximal <i>α</i>-quasi-clique-community of a given node in complex networks.
+An efficient method to detect communities in social networks using DBSCAN algorithm.
+An ego network analysis of sextortionists.
+An emotional polarity analysis of consumers' airline service tweets.
+An empirical analysis of microblogging behavior in the enterprise.
+An empirical characterization of community structures in complex networks using a bivariate map of quality metrics.
+An empirical comparison of Big Graph frameworks in the context of network analysis.
+An empirical comparison of influence measurements for social network analysis.
+An empirical study of notifications' importance for online social network users.
+An empirical study of socialbot infiltration strategies in the Twitter social network.
+An entity linking model based on candidate features.
+An evaluation of sentiment analysis for mobile devices.
+An exact algorithm for a core/periphery bipartitioning problem.
+An examination of the relationship between international telecommunication networks, terrorism and global news coverage.
+An exploration of submissions and discussions in social news: mining collective intelligence of Reddit.
+An exploratory comparison of name generator content: Data from rural India.
+An extended evolutionary clustering algorithm for an adaptive recommender system.
+An incremental algorithm for updating betweenness centrality and k-betweenness centrality and its performance on realistic dynamic social network data.
+An incremental learning temporal influence model for identifying topical influencers on Twitter dataset.
+An inductive typology of egocentric networks.
+An introduction to exponential random graph (p<sup>*</sup>) models for social networks.
+An investigation into the requirements of privacy in social networks and factors contributing to users' concerns about violation of their privacy.
+An optimal method for URL design of webpage journals.
+Anagraphical relationships and crime specialization within Cosa Nostra.
+Analysis and detection of labeled cyberbullying instances in Vine, a video-based social network.
+Analysis of Adapted Films and Stories Based on Social Network.
+Analysis of Hospitalizing Behaviors Based on Big Trajectory Data.
+Analysis of collaborative learning in social network sites used in education.
+Analysis of contested reports in exchange networks based on actors' credibility.
+Analysis of human mobility patterns for opportunistic forwarding in shopping mall environments.
+Analysis of key management protocols for social networks.
+Analysis of social interaction network properties and growth on Twitter.
+Analysis of the Impact of High-Frequency Trading on Artificial Market Liquidity.
+Analysis of two-mode network data using nonnegative matrix factorization.
+Analysis of user keyword similarity in online social networks.
+Analysis, Modeling, and Representation of COVID-19 Spread: A Case Study on India.
+Analytic Models of Roll Call Voting Dynamics.
+Analytic strategies for longitudinal networks with missing data.
+Analyzing Payment-Driven Targeted Q8A Systems.
+Analyzing Social Networks, S. Borgatti, M. Everett, J. Johnson. Sage, London (2013).
+Analyzing and labeling telecom communities using structural properties.
+Analyzing event stream dynamics in two-mode networks: An exploratory analysis of private communication in a question and answer community.
+Analyzing large scale exchange networks.
+Analyzing multiplex networks using factorial methods.
+Analyzing polarization of social media users and news sites during political campaigns.
+Analyzing the Flow of Trust in the Virtual World With Semantic Web Technologies.
+Analyzing the Linguistic Structure of Question Texts to Characterize Answerability in Quora.
+Analyzing the dynamics in multilateral negotiations.
+Analyzing the relationship between relevance and extremist discourse in an alt-right network on Twitter.
+Analyzing the sentiment correlation between regular tweets and retweets.
+Anomaly detection in online social networks.
+Anomia and the sacred canopy: Testing a network theory.
+Anonymization in Online Social Networks Based on Enhanced Equi-Cardinal Clustering.
+Anonymous Authentication for Trustworthy Pervasive Social Networking.
+Another view of the 'small world'.
+Anthropologist view of social network analysis and data mining.
+AppMonitor: restricting information leakage to third-party applications.
+Application of Blockchain in Collaborative Internet-of-Things Services.
+Application of data mining methods for link prediction in social networks.
+Application of sentiment analysis in libraries to provide temporal information service: a case study on various facets of productivity.
+Applying Probabilistic Model Checking to Financial Production Risk Evaluation and Control: A Case Study of Alibaba's Yu'e Bao.
+Applying modality and equivalence concepts to pattern finding in social process-produced data.
+Applying the Clique Percolation Method to analyzing cross-market branch banking network structure: the case of Illinois.
+ArAutoSenti: automatic annotation and new tendencies for sentiment classification of Arabic messages.
+Arab Spring: from newspaper.
+Arabic sentiment analysis: studies, resources, and tools.
+Are French networks different?
+Are bridging ties really advantageous? An experimental test of their advantage in a competitive social learning context.
+Are respondents more likely to list alters with certain characteristics?: Implications for name generator data.
+Are social equivalences ever regular?: Permutation and exact tests.
+Are social networks technologically embedded?: How networks are changing today with changes in communication technology.
+Artificial neural networks applied for predicting and explaining the education level of Twitter users.
+ArvaNet: Deep Recurrent Architecture for PPG-Based Negative Mental-State Monitoring.
+Ask and you shall receive: Social network contacts' provision of help during the job search.
+Aspect-Based Sentiment Analysis: A Survey of Deep Learning Methods.
+Assessing Refugees' Integration via Spatio-Temporal Similarities of Mobility and Calling Behaviors.
+Assessing in real-time the credibility of Arabic blog posts using traditional and deep learning models.
+Assessing respondent-driven sampling: A simulation study across different networks.
+Assessing structural correlates to social capital in Facebook ego networks.
+Assessing the Contribution of Subject-matter Experts to Wikipedia.
+Assessing the bias in samples of large online networks.
+Assessing the missing data problem in criminal network analysis using forensic DNA data.
+Assessment of visibility graph similarity as a synchronization measure for chaotic, noisy and stochastic time series.
+Assimilation and differentiation: A multilevel perspective on organizational and network change.
+Association Rule-Based Breast Cancer Prevention and Control System.
+At the intersection of criminal justice involvement and sexual orientation: Dynamic networks and health among a population-based sample of young Black men who have sex with men.
+Attribute selection for improving spam classification in online social networks: a rough set theory-based approach.
+Audience structure and status multiplicity.
+Augmented Virtual Reality Meditation: Shared Dyadic Biofeedback Increases Social Presence Via Respiratory Synchrony.
+Automatic Bug Triage in Software Systems Using Graph Neighborhood Relations for Feature Augmentation.
+Automatic Concept Extraction Based on Semantic Graphs From Big Data in Smart City.
+Automatic Detection of Video Shot Boundary in Social Media Using a Hybrid Approach of HLFPN and Keypoint Matching.
+Automatic Identification of Harmful, Aggressive, Abusive, and Offensive Language on the Web: A Survey of Technical Biases Informed by Psychology Literature.
+Automatic extraction of urban outdoor perception from geolocated free texts.
+Automatic labeling of social network users Scientia.Net through the machine learning supervised application.
+Avoidance in negative ties: Inhibiting closure, reciprocity, and homophily.
+Avoidance, antipathy, and aggression: A three-wave longitudinal network study on negative networks, status, and heteromisos.
+BCOSN: A Blockchain-Based Decentralized Online Social Network.
+BEEF: Balanced English Explanations of Forecasts.
+BERT-Caps: A Transformer-Based Capsule Network for Tweet Act Classification.
+BNEM: a fast community detection algorithm using generative models.
+BTR: A Feature-Based Bayesian Task Recommendation Scheme for Crowdsourcing System.
+Basic notions for the analysis of large two-mode networks.
+Basketball lineup performance prediction using edge-centric multi-view network analysis.
+Batch Processing for Truss Maintenance in Large Dynamic Graphs.
+Bayesian analysis for partially observed network data, missing ties, attributes and actors.
+Bayesian estimation of the network autocorrelation model.
+Bayesian exponential random graph models with nodal random effects.
+Bayesian identification of bots using temporal analysis of tweet storms.
+Bayesian inference for exponential random graph models.
+Bayesian model selection for exponential random graph models.
+Beauty and social capital: Being attractive shapes social networks.
+Because they were there: Access, deliberation, and the mobilization of networks for support.
+Bees colonies for terrorist communities evolution detection.
+Behavior Change in Response to Subreddit Bans and External Events.
+Behavioral Analysis of Insider Threat: A Survey and Bootstrapped Prediction in Imbalanced Data.
+Behavioral analysis and classification of spammers distributing pornographic content in social media.
+Behavioral differences: insights, explanations and comparisons of French and US Twitter usage during elections.
+Behind the Mask: Understanding the Structural Forces That Make Social Graphs Vulnerable to Deanonymization.
+Believe it when you see it: Dyadic embeddedness and reputation effects on trust in cryptomarkets for illegal drugs.
+Betweenness computation in the single graph representation of hypergraphs.
+Betweenness to assess leaders in criminal networks: New evidence using the dual projection approach.
+Beyond Monetary Incentives: Experiments in Paid Microtask Contests.
+Beyond answers: dimensions of the advice network.
+Beyond interviewer effects in the standardized measurement of ego-centric networks.
+Bias decomposition and estimator performance in respondent-driven sampling.
+Bid-rigging networks and state-corporate crime in the construction industry.
+Big data analytics of social network marketing and personalized recommendations.
+Bipolar-valued hesitant fuzzy graph and its application.
+Birds of a feather scam together: Trustworthiness homophily in a business network.
+Block modelling in dynamic networks with non-homogeneous Poisson processes and exact ICL.
+Blockchain Enabled Industrial Internet of Things Technology.
+Blockchain and Internet of Things for Modern Business Process in Digital Economy - the State of the Art.
+Blockchain and IoT for Insurance: A Case Study and Cyberinfrastructure Solution on Fine-Grained Transportation Insurance.
+Blockchain-Based Digital Forensics Investigation Framework in the Internet of Things and Social Systems.
+Blockchain-Based Knowledge Automation for CPSS-Oriented Parallel Management.
+Blockchain-Based Trust Mechanism for IoT-Based Smart Manufacturing System.
+Blockchain-Powered Parallel Healthcare Systems Based on the ACP Approach.
+Blockchainized Internet of Minds: A New Opportunity for Cyber-Physical-Social Systems.
+Blockmodeling of multilevel networks.
+Blockmodelling and role analysis in multi-relational networks.
+Board interlocking network and the design of executive compensation packages.
+Boosting Information Spread: An Algorithmic Approach.
+Bottom-Up Modeling of Design Knowledge Evolution: Application to Circuit Design Community Characterization.
+Boundary salience: The interactive effect of organizational status distance and geographical proximity on coauthorship tie formation.
+Bowling Alone: What's the Score?
+Brand analysis framework for online marketing: ranking web pages and analyzing popularity of brands on social media.
+Breaking 'bad' links: Impact of Companies Act 2013 on the Indian Corporate Network.
+Breast Cancer Symptom Clusters Derived From Social Media and Research Study Data Using Improved K-Medoid Clustering.
+Bridge decay.
+Bridging social media via distant supervision.
+Bridging, brokerage and betweenness.
+Bridging: Locating critical connectors in a network.
+Bringing the owners back in: An analysis of a 3-mode interlock network.
+Broken ties: reciprocity and other factors affecting the termination of older adults' relationships.
+Building Personalized Trust: Discovering What Makes One Trust and Act on Facebook Posts.
+Building a soft skill taxonomy from job openings.
+Building a structural typology of personal networks: Individual differences in the cohesion of interpersonal environment.
+Building rich social network data: a schema to assist in designing, collecting and evaluating social network data.
+Building them up, breaking them down: Topology, vendor selection patterns, and a digital drug market's robustness to disruption.
+Bullshit in a network structure: the two-sided influence of self-generated signals.
+BullyBlocker: toward an interdisciplinary approach to identify cyberbullying.
+BullyNet: Unmasking Cyberbullies on Social Networks.
+Bullying and victimization among majority and minority students: The role of peers' ethnic perceptions.
+Bursty egocentric network evolution in Skype.
+C-Blondel: An Efficient Louvain-Based Dynamic Community Detection Algorithm.
+CADIVa: cooperative and adaptive decentralized identity validation model for social networks.
+CAViaR-WS-based HAN: conditional autoregressive value at risk-water sailfish-based hierarchical attention network for emotion classification in COVID-19 text review data.
+CCMR: A Classic-enriched Connotation-aware Music Retrieval System on Social Media with Visual Inputs.
+CEBD: Contact-Evidence-Driven Blackhole Detection Based on Machine Learning in OppNets.
+CHECKED: Chinese COVID-19 fake news dataset.
+CONGRESS: A Hybrid Reputation System for Coping with Rating Subjectivity.
+COOC: Visual Exploration of Co-Occurrence Mobility Patterns in Urban Scenarios.
+COVID-19 Patient Count Prediction Using LSTM.
+COVID-19 early-alert signals using human behavior alternative data.
+COVID-19 fake news diffusion across Latin America.
+COVIDSenti: A Large-Scale Benchmark Twitter Data Set for COVID-19 Sentiment Analysis.
+CS- and GA-based hybrid evolutionary sampling algorithm for large-scale social networks.
+Calculating status with negative relations.
+Calling Dunbar's numbers.
+Calling social capital: An analysis of the determinants of success on the TV quiz show 'Who Wants to Be a Millionaire?'.
+Campaign Optimization Through Behavioral Modeling and Mobile Network Analysis.
+Can Facebook likes predict the purchase probability of electricity storage systems?
+Can we analyse political discourse using Twitter? Evidence from Spanish 2019 presidential election.
+Canonical correlation analysis: Assessing links between multiplex networks.
+Capturing Edge Attributes via Network Embedding.
+Capturing context: Integrating spatial and social network analyses.
+Carrington, P.J., Scott, J., Wasserman, S., 2005. Models and Methods in Social Network Analysis. Cambridge: Cambridge University Press.
+Catching up with big fish in the big pond? Multi-level network analysis through linked design.
+Categorical attribute based centrality: E-I and G-F centrality.
+Cell-DEVS for Social Phenomena Modeling.
+Centrality Analysis in $d$ -Regular Directed Acyclic Random Networks and Its Applications in Top- $k$ Recommendations.
+Centrality and network flow.
+Centrality in directed social networks. A game theoretic approach.
+Centrality in the global network of corporate control.
+Centrality informed embedding of networks for temporal feature extraction.
+Centrality measures for disease transmission networks.
+Centrality without indices: Partial rankings and rank probabilities in networks.
+Centrality-based epidemic control in complex social networks.
+Chain reactions in adolescents' cigarette, alcohol and drug use: similarity through peer influence or the patterning of ties in peer networks?
+Change detection in noisy dynamic networks: a spectral embedding approach.
+Change we can believe in: Comparing longitudinal network models on consistency, interpretability and predictive power.
+Changes in core network size in Japan: Comparisons between the 1990s and 2010s.
+Changes in personal relationships: How social contexts affect the emergence and discontinuation of relationships.
+Changes in the social networks of prisoners: A comparison of their networks before and after imprisonment.
+Changing organizational structures of jihadist networks in the Netherlands.
+Changing times: Migrants' social network analysis and the challenges of longitudinal research.
+Channel retrieval: finding relevant broadcasters on Telegram.
+Character level embedding with deep convolutional neural network for text normalization of unstructured data for Twitter sentiment analysis.
+Characterising and evaluating dynamic online communities from live microblogging user interactions.
+Characterization of cross-posting activity for professional users across Facebook, Twitter and Google+.
+Characterizing and Countering Communal Microblogs During Disaster Events.
+Characterizing and automatically detecting crowdturfing in Fiverr and Twitter.
+Characterizing political bias and comments associated with news on Brazilian Facebook.
+Characterizing the 2016 Russian IRA influence campaign.
+Characterizing the Propagation of Situational Information in Social Media During COVID-19 Epidemic: A Case Study on Weibo.
+Characterizing the Twitter network of prominent politicians and SPLC-defined hate groups in the 2016 US presidential election.
+Characterizing the dynamics and evolution of incentivized online reviews on Amazon.
+Characterizing the language-production dynamics of social media users.
+Characterizing the nature of interactions for cooperative creation in online social networks.
+Cheater's hide and seek: Strategic cognitive network activation during ethical decision making.
+Check the phone book: Testing information and communication technology (ICT) recall aids for personal network surveys.
+Citation interactions among computer science fields: a quantitative route to the rise and fall of scientific research.
+Clearing the FOG: Fuzzy, overlapping groups for social networks.
+Close communication and 2-clubs in corporate networks: Europe 2010.
+Close communities in social networks: boroughs and 2-clubs.
+Closeness, loneliness, support: Core ties and significant ties in personal communities.
+Closure, connectivity and degree distributions: Exponential random graph (p*) models for directed social networks.
+Cloud/Edge Computing Resource Allocation and Pricing for Mobile Blockchain: An Iterative Greedy and Search Approach.
+Cluster analysis of multiplex networks: Defining composite network measures.
+Clustering in weighted networks.
+Clustering memes in social media streams.
+Clustering-Algorithm-Based Rare-Event Evolution Analysis via Social Media Data.
+Co-evolution of conventions and networks: An experimental study.
+Cognitive Analytics of Social Media Services for Edge Resource Pre-Allocation in Industrial Manufacturing.
+Collaboration strategies for publishing articles in international journals - A study of Polish scientists in economics.
+Collaborative Filtering-Based Recommendation of Online Social Voting.
+Collapse of an online social network: Burning social capital to create it?
+Collecting large personal networks in a representative sample of Dutch women.
+Collecting social contact data in the context of disease transmission: Prospective and retrospective study designs.
+Collective action and network change.
+Collegial oligarchy and networks of normative alignments in transnational institution building.
+Coloring large complex networks.
+Combat Information Overload Problem in Social Networks With Intelligent Information-Sharing and Response Mechanisms.
+Comments and Corrections.
+Comments on 'SCLPV: Secure Certificateless Public Verification for Cloud-Based Cyber-Physical-Social Systems Against Malicious Auditors'.
+Communication flows and the durability of a transnational social field.
+Communities and hierarchical structures in dynamic social networks: analysis and visualization.
+Communities in criminal networks: A case study.
+Communities validity: methodical evaluation of community mining algorithms.
+Community Detection Based on Symbiotic Organisms Search and Neighborhood Information.
+Community Detection in Complex Networks by Detecting and Expanding Core Nodes Through Extended Local Similarity of Nodes.
+Community Detection in Online Social Networks: A Differentially Private and Parsimonious Approach.
+Community Detection via Maximization of Modularity and Its Variants.
+Community Hiding by Link Perturbation in Social Networks.
+Community Topic Usage in Online Social Media.
+Community and Capital: Experiences of Women Game Streamers in Southeast Asia.
+Community detection based on strong Nash stable graph partition.
+Community detection in civil society online networks: Theoretical guide and empirical assessment.
+Community detection in large-scale social networks: state-of-the-art and future directions.
+Community detection using coordination games.
+Community detection using unsupervised machine learning techniques on COVID-19 dataset.
+Community-based location inference in social media using supervised learning approach.
+Comparative Analysis of Feature Selection Algorithms for Computational Personality Prediction From Social Media.
+Comparative analysis of queuing mechanisms: Droptail, RED and NLRED.
+Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade.
+Comparing nascent approaches for gathering alter-tie data for egocentric studies.
+Comparing temporal graphs using dynamic time warping.
+Comparing the discussion networks and voluntary association memberships of immigrants and non-immigrants in U.S. suburban gateways.
+Comparing three simultaneous measurements of a sociocognitive network.
+Comparison of sentiment lexicon development techniques for event prediction.
+Competition and Cooperation: Dynamical Interplay Diffusion Between Social Topic Multiple Messages in Multiplex Networks.
+Competition for foundation patronage and the differential effects of prestige on the grant market success of social movement organisations.
+Competitive Analysis of Bidding Behavior on Sponsored Search Advertising Markets.
+Complex contagions and the diffusion of popular Twitter hashtags in Nigeria.
+Complex networks are structurally distinguishable by domain.
+Complexity of social network anonymization.
+Complicating the Social Networks for Better Storytelling: An Empirical Study of Chinese Historical Text and Novel.
+Computational Dissemination: Toward Precision and Smart Impacts for Computational Social Systems.
+Computational Experimental Study on Social Organization Behavior Prediction Problems.
+Computational Rumor Detection Without Non-Rumor: A One-Class Classification Approach.
+Computational Social Simulation With E-CARGO: Comparison Between Collectivism and Individualism.
+Computational Social Systems in a New Period: A Fast Transition Into the Third Axial Age.
+Computational models of technology adoption at the workplace.
+Computing Team Process Measures From the Structure and Content of Broadcast Collaborative Communications.
+Computing competing cascades on signed networks.
+Computing continuous core/periphery structures for social relations data with MINRES/SVD.
+Computing core/periphery structures and permutation tests for social relations data.
+Computing small temporal modules in time logarithmic in history length.
+Concept-based event identification from social streams using evolving social graph sequences.
+Conceptualizing the use of the term financial risk by non-academics and academics using twitter messages and ScienceDirect paper abstracts.
+Conditional Coordination Games on Cyclic Social Influence Networks.
+Conditionally Independent Dyads (CID) network models: A latent variable approach to statistical social network analysis.
+Conditionally exponential random models for individual properties and network structures: Method and application.
+Conflict-Aware Participant Recruitment for Mobile Crowdsensing.
+Connecting the dots: implementing and evaluating a network intervention to foster scientific collaboration and productivity.
+Connections between A.K. Romney's analyses of endogamy and other developments in log-linear models and network analysis.
+ConsensUs: Supporting Multi-Criteria Group Decisions by Visualizing Points of Disagreement.
+Consensus and Polarization of Binary Opinions in Structurally Balanced Networks.
+Consensus, cohesion and connectivity.
+Considering clustering measures: Third ties, means, and triplets.
+Construction of well separated interaction semigroups to refine the modeling of social networks.
+Consumer referral in a small world network.
+Consumers and Curators: Browsing and Voting Patterns on Reddit.
+Contact networks in the emergency department: Effects of time, environment, patient characteristics, and staff role.
+Contacts and contexts.
+Content Retrieval Based on Vehicular Cloud in Internet of Vehicles.
+Content-Aware Galaxies: Digital Fingerprints of Discussions on Social Media.
+Context-aware tensor decomposition for relation prediction in social networks.
+Context-sensitive detection of local community structure.
+Contextual linking behavior of bloggers: leveraging text mining to enable topic-based analysis.
+Continuous Profit Maximization: A Study of Unconstrained Dr-Submodular Maximization.
+Continuous state online influence maximization in social network.
+Control loss and Fayol's gangplanks.
+Control of Message Transmission in Delay/Disruption Tolerant Network.
+Conversational Networks for Automatic Online Moderation.
+Convex Edges in Social Networks.
+Copresence networks: criminals in their environment.
+Core expansion: a new community detection algorithm based on neighborhood overlap.
+Core-periphery or decentralized? Topological shifts of specialized information on Twitter.
+Core/periphery structure models: An alternative methodological proposal.
+Corporate Communication Network and Stock Price Movements: Insights From Data Mining.
+Corporate Linkages and Financial Performance: A Complex Network Analysis of Indian Firms.
+Corporate competition: A self-organized network.
+Correction to: A computational approach for the experimental study of EU case law: analysis and implementation.
+Correction to: Characterising and evaluating dynamic online communities from live microblogging user interactions.
+Correction to: Complex networks are structurally distinguishable by domain.
+Correction to: Diachronic equivalence: an examination of the international news network.
+Corrections to 'A Social Crowdsourcing Community Case Study: Interaction Patterns, Evolution, and Factors That Affect Them'.
+Corrections to 'Fractal Intelligent Privacy Protection in Online Social Network Using Attribute-Based Encryption Schemes'.
+Corrections to 'Requirements Socio-Technical Graphs for Managing Practitioners\' Traceability Questions'.
+Correlation and dimension relevance in multidimensional networks: a systematic taxonomy.
+Correlations among centrality indices and a class of uniquely ranked graphs.
+Correlations and dynamics of consumption patterns in social-economic networks.
+Correspondence analysis of two-mode network data.
+Correspondence analysis-based network clustering and importance of degenerate solutions unification of spectral clustering and modularity maximization.
+Corrigendum to 'Generalized blockmodeling of two-mode network data' [Social Networks 26 (2004) 29-53].
+Corrigendum to 'Making friends and communicating on Facebook: Implications for social capital' [Soc. Netw. (2014) 29-41].
+Corrigendum to 'Networks and public health: A review of network epidemiology: A handbook for survey design and data collection' [Social Networks 29 (2007) 154-159].
+Corrigendum to 'The evolution of global trade and impacts on countries\' carbon trade balances' [Soc. Netw. 46 (2016) 87-100].
+Corrigendum to 'The stability of centrality measures when networks are sampled' [Social Networks 25 (2003) 283-307].
+Corrigendum to 'The structural and behavioral characteristics of the smallest-word phenomenon: minimum distance networks' [Social Networks 24 (2002) 161-182].
+Corrigendum to: 'Consensus, Cohesion and Connectivity' [Social Networks 52 (2018) 115-119].
+Cost range and the stable network structures.
+Covariate-defined latent space random effects model.
+CoveR: An Information Diffusion Aware Approach for Efficient Recommendations Under User Coverage Constraints.
+Covert social movement networks and the secrecy-efficiency trade off: The case of the UK suffragettes (1906-1914).
+Creating the thin blue line: Social network evolution within a police academy.
+Creation and Management of Social Network Honeypots for Detecting Targeted Cyber Attacks.
+Creative social media use for Covid-19 prevention in Bangladesh: a structural equation modeling approach.
+Criminal collaboration and risk: The drivers of Al Qaeda's network structure before and after 9/11.
+Critical phenomena in complex contagions.
+Cross-Cultural Studies Using Social Networks Data.
+Cross-platform comparison of framed topics in Twitter and Weibo: machine learning approaches to social media text mining.
+Crosscutting social circles and political choice: Effects of personal network composition on voting behavior in The Netherlands.
+Crowd Behavior Evolution With Emotional Contagion in Political Rallies.
+Crowdfunding digital platforms: Backer networks and their impact on project outcomes.
+Curved exponential family models for social networks.
+Customer segmentation using online platforms: isolating behavioral and demographic segments for persona creation via aggregated user data.
+Customizing content for rural mobile phones: a study to understand the user needs of rural India.
+Cyber-Physical-Social Systems: The State of the Art and Perspectives.
+Cyberthreat Analysis and Detection for Energy Theft in Social Networking of Smart Homes.
+DNN-DP: Differential Privacy Enabled Deep Neural Network Learning Framework for Sensitive Crowdsourcing Data.
+Danmaku: A New Paradigm of Social Interaction via Online Videos.
+Darks and Stripes: Effects of Clothing on Weight Perception.
+Data warehouse design approaches from social media: review and comparison.
+Data-Driven Decision-Making in COVID-19 Response: A Survey.
+Deadline-Aware Fair Scheduling for Multi-Tenant Crowd-Powered Systems.
+Decay functions.
+Decentralized Autonomous Organizations: Concept, Model, and Applications.
+Decentralized On-Demand Energy Supply for Blockchain in Internet of Things: A Microgrids Approach.
+Deception detection in Twitter.
+Deception detection: dependable or defective?
+Decision tree Thompson sampling for mining hidden populations through attributed search.
+Deep Correlation Mining Based on Hierarchical Hybrid Networks for Heterogeneous Big Data Recommendations.
+Deep Representation Learning With Full Center Loss for Credit Card Fraud Detection.
+Deep Representation Learning for Location-Based Recommendation.
+Deep learning CNN-LSTM framework for Arabic sentiment analysis using textual information shared in social networks.
+Deep learning approaches for Arabic sentiment analysis.
+Deep learning for misinformation detection on online social networks: a survey and new perspectives.
+DeepFriend: finding abnormal nodes in online social networks using dynamic deep learning.
+DeepPredict: A Zone Preference Prediction System for Online Lodging Platforms.
+Defectors' niches: prisoner's dilemma game on disordered networks.
+Defensive Modeling of Fake News Through Online Social Networks.
+Defining and evaluating Twitter influence metrics: a higher-order approach in Neo4j.
+Defining and measuring probabilistic ego networks.
+Defining and predicting troll vulnerability in online social media.
+Degree-like centrality with structural zeroes or ones: When is a neighbor not a neighbor?
+Deliberative Breakdowns in the Social Representation Process: Evidence from Reader Comments in Partisan News Sites.
+Dense core model for cohesive subgraph discovery.
+Densifying a behavioral recommender system by social networks link prediction methods.
+Deployment of Information Diffusion for Community Detection in Online Social Networks: A Comprehensive Review.
+Depression Intensity Estimation via Social Media: A Deep Learning Approach.
+Design Optimization of Food Safety Monitoring System With Social Network Analysis.
+Design and analysis of microblog-based summarization system.
+Design and development of a friendly user interface for building social network traceability system.
+Design of reciprocal recommendation systems for online dating.
+Detecting Community Depression Dynamics Due to COVID-19 Pandemic in Australia.
+Detecting Framing Changes in Topical News.
+Detecting Group Shilling Attacks in Online Recommender Systems Based on Bisecting K-Means Clustering.
+Detecting Outlier Patterns With Query-Based Artificially Generated Searching Conditions.
+Detecting Rumors Through Modeling Information Propagation Networks in a Social Media Environment.
+Detecting and Characterizing Extremist Reviewer Groups in Online Product Reviews.
+Detecting and Mitigating Points of Failure in Community Networks: A Graph-Based Approach.
+Detecting anomalies in social network data consumption.
+Detecting experts on Quora: by their activity, quality of answers, linguistic characteristics and temporal behaviors.
+Detecting interaction links in a collaborating group using manually annotated data.
+Detecting intrinsic communities in evolving networks.
+Detecting large cohesive subgroups with high clustering coefficients in social networks.
+Detecting measurement bias in respondent reports of personal networks.
+Detecting node propensity changes in the dynamic degree corrected stochastic block model.
+Detecting overlapping communities in LBSNs by fuzzy subtractive clustering.
+Detecting pages to protect in Wikipedia across multiple languages.
+Detecting partnership in location-based and online social networks.
+Detecting sociosemantic communities by applying social network analysis in tweets.
+Detecting suspicious entities in Offshore Leaks networks.
+Detecting topics and overlapping communities in question and answer sites.
+Detection of Malicious Social Bots Using Learning Automata With URL Features in Twitter Network.
+Detection of constant member and overlapping community from dynamic literary network.
+Determining groups from the clique structure in large social networks.
+Deterministic graph exploration for efficient graph sampling.
+Developing a Twitter bot that can join a discussion using state-of-the-art architectures.
+Developing a bi-objective model for a reliable mobile ad hoc network routing problem.
+Development and evaluation of multi-agent models of online social influence based on Cialdini's principles.
+Development of computer science disciplines: a social network analysis approach.
+Diachronic equivalence: an examination of the international news network.
+Did distance matter before the Internet?: Interpersonal contact and support in the 1970s.
+Different flavors of randomness: comparing random graph models with fixed degree sequences.
+Different relationships for coping with ambiguity and uncertainty in organizations.
+Differentially Private Tensor Deep Computation for Cyber-Physical-Social Systems.
+Differentiate the Game Maker in Any Soccer Match Based on Social Network Approach.
+Diffusion dynamics of influence in a social network of intellectuals.
+Diffusion of social conventions across polarized communities: an empirical study.
+Digital Currency Design for Sustainable Active Debris Removal in Space.
+Digital access, political networks and the diffusion of democracy.
+Direct and indirect negative ties and individual performance.
+Direct blockmodeling of valued and binary networks: a dichotomization-free approach.
+Disaster damage assessment from the tweets using the combination of statistical features and informative words.
+Disaster response on September 11, 2001 through the lens of statistical network analysis.
+Discount advertisement in social platform: algorithm and robust analysis.
+Discover millions of fake followers in Weibo.
+Discovering Density-Based Clustering Structures Using Neighborhood Distance Entropy Consistency.
+Discovering Latent Topics of Digital Technologies From Venture Activities Using Structural Topic Modeling.
+Discovering Transit-Oriented Development Regions of Megacities Using Heterogeneous Urban Data.
+Discovering and characterizing political elite cliques with evolutionary community detection.
+Discovering and validating influence in a dynamic online social network.
+Discovering leaders from social network by action cascade.
+Discovering patterns of customer financial behavior using social media data.
+Discovering the Hidden Structure of a Social Network: A Semi Supervised Approach.
+Discovery of anomalous behaviour in temporal networks.
+Discovery, dissemination, and information diversity in networked groups.
+Disentangling the relation between young immigrants' host country identification and their friendships with natives.
+Disjoint Community Detection in Networks Based on the Relative Association of Members.
+Disliking friends of friends in schools: How positive and negative ties can co-occur in large numbers.
+Dissecting discursive contention: A relational analysis of the Dutch debate on minority integration, 1990-2006.
+Distance and cosine measures of niche overlap.
+Distributed Algorithms for the Operator Placement Problem.
+Distributed Rumor Blocking With Multiple Positive Cascades.
+Diversified and Scalable Service Recommendation With Accuracy Guarantee.
+Diversified top-k search with relaxed graph simulation.
+Diversity in social support by role relations: A typology.
+Diversity of Idea Flows and Economic Growth.
+Do Politicians Talk about Politics? Assessing Online Communication Patterns of Brazilian Politicians.
+Do resources of network members help in help seeking? Social capital and health information search.
+Do terrorists make a difference in criminal networks? An empirical analysis on illicit drug and narco-terror networks in their prioritization between security and efficiency.
+Do transnational brokers always win? A multilevel analysis of social support.
+Docschain: Blockchain-Based IoT Solution for Verification of Degree Documents.
+Does it take <i>three</i> to dance the Tango? Organizational design, triadic structures and boundary spanning across subunits.
+Does panel conditioning affect data quality in ego-centered social network questions?
+Does proximity matter? Distance dependence of adolescent friendships.
+Does the <i>β</i>-measure make empirical sense? A vignette experiment on humans' judgment of social dominance.
+Does the online collection of ego-centered network data reduce data quality? An experimental comparison.
+Does unemployment lead to isolation? The consequences of unemployment for social networks.
+Doing Social Network Research, G. Robins. Sage, London (2015).
+Don't mention it: Why people don't share job information, when they do, and why it matters.
+Donald J. Trump's Presidency in Cyberspace: A Case Study of Social Perception and Social Influence in Digital Oligarchy Era.
+Donation Networks in Underprivileged Communities.
+Double Bounded Rough Set, Tension Measure, and Social Link Prediction.
+Double-embeddedness: Spatial and relational contexts of tie persistence and re-formation.
+Duality of departmental specializations and PhD exchange: A Weberian analysis of status in interaction using multilevel exponential random graph models (mERGM).
+Duocentered networks.
+Dyadic regression in the presence of heteroscedasticity - An assessment of alternative approaches.
+Dynamic Distributed Secure Storage Against Ransomware.
+Dynamic Optimization of Employees Work Strategies in a WeChat-Based Evaluation System.
+Dynamic Security Risk Evaluation via Hybrid Bayesian Risk Graph in Cyber-Physical Social Systems.
+Dynamic communities in evolving customer networks: an analysis using landmark and sliding windows.
+Dynamic community detection in evolving networks using locality modularity optimization.
+Dynamic exchange networks.
+Dynamic social media affiliations among UK politicians.
+Dynamic wavelet fingerprint for differentiation of tweet storm types.
+Dynamical SEIR Model With Information Entropy Using COVID-19 as a Case Study.
+Dynamical systems to define centrality in social networks.
+Dynamics of Uncertain and Conflicting Opinions in Social Networks.
+Dynamics of a Repulsive Voter Model.
+Dynamics of adolescent friendship networks and smoking behavior.
+Earlier detection of rumors in online social networks using certainty-factor-based convolutional neural networks.
+Early detection of persistent topics in social networks.
+Early social exposure and later affiliation processes within an evolving social network.
+Echo chamber detection and analysis.
+Editorial Versus Audience Gatekeeping: Analyzing News Selection and Consumption Dynamics in Online News Media.
+Editorial.
+Effect of Homegrown Mobile Applications on Africa's Development: Comparative Analysis.
+Effect of NO<sub>2</sub> on O<sub>3</sub> Using Complex Network Topology Analysis.
+Effect of estimation method, definition of ratio, and the plausible range in estimating social network size.
+Effect, Challenges, and Forecasting of COVID-19 Situation in India Using an ARMA Model.
+Effective Visibility Prediction on Online Social Network.
+Effectively clustering researchers in scientific collaboration networks: case study on ResearchGate.
+Effector Detection Problem in Social Networks.
+Effector Detection in Social Networks.
+Effects of Collective Socialization on Newcomers' Response to Feedback in Online Communities.
+Effects of competition on collective learning in advice networks.
+Effects of data quality in an animal trade network and their impact on centrality parameters.
+Effects of emotion and topic area on topic shifts in social media discussions.
+Effects of missing data in multilayer networks.
+Effects of missing data in social networks.
+Effects of support network structure and position on cancer care experience.
+Effects of tag usage on question response time - Analysis and prediction in StackOverflow.
+Effects on reliability and validity of egocentered network measurements.
+Efficiency of human activity on information spreading on Twitter.
+Efficient Bayesian inference for exponential random graph models by correcting the pseudo-posterior distribution.
+Efficient Community-Based Data Distribution Over Multicast Trees.
+Efficient Extraction of Target Users for Package Promotion in Big Social Networks.
+Efficient algorithms for incremental all pairs shortest paths, closeness and betweenness in social network analysis.
+Efficient community identification in complex networks.
+Efficient influence spread estimation for influence maximization.
+Ego centered social network and relationship quality: linking attachment security and relational models to network structure.
+Ego network betweenness.
+Ego's important discussants or significant people: an experiment in varying the wording of personal network name generators.
+Ego-centered networks and the ripple effect.
+Egocentric and sociocentric measures of network centrality.
+Egocentric contact networks in comparison: Taiwan and Hungary.
+Egocentric, sociocentric, or dyadic?: Identifying the appropriate level of analysis in the study of organizational networks.
+EigenCloud: A Cooperation and Trust-Aware Dependable Cloud File-Sharing Network.
+Eigenvector centrality and structural zeroes and ones: When is a neighbor not a neighbor?
+Eigenvector-centrality - a node-centrality?
+Eigenvector-like measures of centrality for asymmetric relations.
+Elder mistreatment and social network composition: an exploratory study.
+Elite versus mass polarization on the Brazilian impeachment proceedings of 2016.
+Embassies burning: toward a near-real-time assessment of social media using geo-temporal dynamic network analytics.
+Embedded settlement intentions: The case of Ukrainians in Madrid.
+Embeddedness as a multilevel problem: A case study in economic sociology.
+Embedding time in positions: Temporal measures of centrality for social network analysis.
+Emergent Routines in Peer-Production: Examining the Temporal Evolution of Wikipedia's Work Sequences.
+Emissions abating technology adoption in a coal trading network.
+Emoji Skin Tone Modifiers: Analyzing Variation in Usage on Social Media.
+Emoji Understanding and Applications in Social Media: Lay of the Land and Special Issue Introduction.
+Emote-Controlled: Obtaining Implicit Viewer Feedback Through Emote-Based Sentiment Analysis on Comments of Popular Twitch.tv Channels.
+Emotion detection from text and speech: a survey.
+Emotional modeling of the green purchase intention improvement using the viral marketing in the social networks.
+Empathic people have more friends: Empathic abilities predict social network size and position in social network predicts empathic efforts.
+Empirical analysis of the Portuguese governments social network.
+Empirical reference distributions for networks of different size.
+Employing online social networks to monitor and evaluate training of digital inclusion agents.
+Enabling cross-site interactions in social networks.
+Endogamy, scaling, and social cognition in social networks: special issue in honor of A. Kimball Romney.
+Endogenous control of DeGroot belief learning.
+Enemies at work: can they hinder your career?
+Energy-Efficient Location and Activity-Aware On-Demand Mobile Distributed Sensing Platform for Sensing as a Service in IoT Clouds.
+Enhanced Subspace Distribution Matching for Fast Visual Domain Adaptation.
+Enhancing data quality in real-time threat intelligence systems using machine learning.
+Enhancing information retrieval performance by using social analysis.
+Enhancing keyword correlation for event detection in social networks using SVD and k-means: Twitter case study.
+Enriching User Experience in Online Health Communities Through Thread Recommendations and Heterogeneous Information Network Mining.
+Enriching networks with edge insertion to improve community detection.
+Entity linking of tweets based on dominant entity candidates.
+Entropy as a measure of centrality in networks characterized by path-transfer flow.
+Epidemic Spreading in a Social Network With Facial Masks Wearing Individuals.
+Equicentrality and network centralization: A micro-macro linkage.
+Erratum to 'Forgetting in the recall-based elicitation of personal and social networks': [Social Networks 22 (2000) 29-43].
+Erratum to 'Revisiting asymmetric marriage rules' [Soc. Netw. 52 (2017) 261-269].
+Error correction mechanisms in social networks can reduce accuracy and encourage innovation.
+Estimating Multiple Socioeconomic Attributes via Home Location - A Case Study in China.
+Estimating degree rank in complex networks.
+Estimating micro-populations through social media analytics.
+Estimating network parameters using random walks.
+Estimating network properties from snowball sampled data.
+Estimating network structure via random sampling: Cognitive social structures and the adaptive threshold method.
+Estimating node indirect interaction duration to enhance link prediction.
+Estimating the effects of network covariates on subgroup insularity with a hierarchical mixed membership stochastic blockmodel.
+Estimating the reliability and validity of personal support measures: full information ML estimation with planned incomplete data.
+Ethics and defense agency funding: some considerations.
+Ethnic boundaries and personal choice. Assessing the influence of individual inclinations to choose intra-ethnic relationships on pupils' networks.
+Ethnic ingroup friendships in schools: Testing the by-product hypothesis in England, Germany, the Netherlands and Sweden.
+Ethnic segregation in context: Social discrimination among native Dutch pupils and their ethnic minority classmates.
+Ethnic segregation of friendship networks in school: Testing a rational-choice argument of differences in ethnic homophily between classroom- and grade-level networks.
+Evaluating heterogeneous brokerage: New conceptual and methodological approaches and their application to multi-level environmental governance networks.
+Evaluating metrics in link streams.
+Evaluating performance of link prediction in scale-free evolving networks and a Facebook community.
+Evaluating sampling biases from third-party reporting as a method for improving survey measures of sensitive behaviors.
+Evaluating the role of community detection in improving influence maximization heuristics.
+Evaluation framework for social media brand presence.
+Evaluation of social network measurement instruments.
+Evaluation of strategies to mitigate contagion spread using social network characteristics.
+Event Triggered Social Media Chatter: A New Modeling Framework.
+Event detection, tracking, and visualization in Twitter: a mention-anomaly-based approach.
+Event sequences as generators of social network evolution.
+Evolution of the Web of Social Machines: A Systematic Review and Research Challenges.
+Evolution of what? A network approach for the detection of evolutionary forces.
+Evolutions of personal networks and life events.
+Exact bounds for degree centralization.
+Examining the evolution of the Twitter elite network.
+Excavating social circles via user interests.
+Exogenous control of DeGroot belief learning.
+Experiences of Trust in Postmortem Profile Management.
+Experimental Investigation of Technical and Human Factors Related to Phishing Susceptibility.
+Explaining the power-law degree distribution in a social commerce network.
+Exploiting abused trending topics to identify spam campaigns in Twitter.
+Exploiting behaviors of communities of twitter users for link prediction.
+Exploiting social media information toward a context-aware recommendation system.
+Exploration of methodologies to improve job recommender systems on social networks.
+Exploration of the global air transport network using social network analysis.
+Exploratory Social Network Analysis with Pajek, W. de Nooy, A. Mrvar, V. Batagelj. Cambridge University Press, New York (2005).
+Exploratory blockmodeling for one-mode, unsigned, deterministic networks using integer programming and structural equivalence.
+Exploratory social network analysis of affiliation networks of Indian listed companies.
+Exploratory social-spatial network analysis of global migration structure.
+Exploring and Understanding Participants' Perceptions of Facial Emoji Likert Scales in Online Surveys: A Qualitative Study.
+Exploring characteristics of suspended users and network stability on Twitter.
+Exploring dynamic networks: hypotheses and conjectures.
+Exploring small-world network with an elite-clique: Bringing embeddedness theory into the dynamic evolution of a venture capital network.
+Exploring the Users' Preference Pattern of Application Services Between Different Mobile Phone Brands.
+Exploring the effect of reinvention on critical mass formation and the diffusion of information in a social network.
+Exploring the effect of streamed social media data variations on social network analysis.
+Exploring the marketing strategy for the promotion of a new mobile game: love and producer on sina weibo.
+Exploring the stability of communication network metrics in a dynamic nursing context.
+Exploring variation in active network size: Constraints and ego characteristics.
+Exploring visual impairment awareness campaigns on Twitter.
+Exponential random graph (<i>p</i>∗) models for affiliation networks.
+Exponential random graph model specifications for bipartite networks - A dependence hierarchy.
+Exponential random graph models for little networks.
+Exponential random graph models for multilevel networks.
+Exponential random graph models of preschool affiliative networks.
+Extended structures of mediation: Re-examining brokerage in dynamic networks.
+Extending persian sentiment lexicon with idiomatic expressions for sentiment analysis.
+External exposure, boundary-spanning, and opinion leadership in remote communities: A network experiment.
+Extortion and Cooperation in Rating Protocol Design for Competitive Crowdsourcing.
+Extracting Resource Needs and Availabilities From Microblogs for Aiding Post-Disaster Relief Operations.
+Extracting Social Network and Character Categorization From Bengali Literature.
+Extracting abstract and keywords from context for academic articles.
+Extracting ordinal temporal trail clusters in networks using symbolic time-series analysis.
+Extrapolative simulation of neighborhood networks based on population spatial distribution: Do they predict crime?
+Extreme-Scale Dynamic Exploration of a Distributed Agent-Based Model With the EMEWS Framework.
+Extroversion and neuroticism affect the right side of the distribution of network size.
+FBVA: A Flow-Based Visual Analytics Approach for Citywide Crowd Mobility.
+FCMiner: mining functional communities in social networks.
+FIFA World Cup referees' networks: a constant-size clique approach.
+FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks.
+FURS: Fast and Unique Representative Subset selection retaining large-scale community structure.
+Facebook Inspector (FbI): Towards automatic real-time detection of malicious content on Facebook.
+Facebook as a Small World: a topological hypothesis.
+Facebook feedback capacity modeling.
+Facebook wall posts: a model of user behaviors.
+Factor analysis versus multi-dimensional scaling: binary choice roll-call voting and the US Supreme Court.
+False information detection in online content and its role in decision making: a systematic literature review.
+Familial groups in social networks.
+Family comes first: Men's and women's personal networks in Tehran.
+Family separation and refugee mental health-A network perspective.
+Farm size shapes friend choice amongst rice producers in China: Some evidence for the theory of network ecology.
+Fast clustering for signed graphs based on random walk gap.
+Fast recommendation on bibliographic networks with sparse-matrix ordering and partitioning.
+Fast rumor source identification via random walks.
+FauxWard: a graph neural network approach to fauxtography detection using social media comments.
+Feature selection methods for event detection in Twitter: a text mining approach.
+Feature-Based Twitter Sentiment Analysis With Improved Negation Handling.
+Feature-Level Rating System Using Customer Reviews and Review Votes.
+Federated Control: Toward Information Security and Rights Protection.
+Federated Data: Toward New Generation of Credible and Trustable Artificial Intelligence.
+Federated Ecology: Steps Toward Confederated Intelligence.
+Federated Management: Toward Federated Services and Federated Security in Federated Ecology.
+Festschrift for Linton C. Freeman: Introduction.
+Filtering Instagram Hashtags Through Crowdtagging and the HITS Algorithm.
+Financial Advisor Recruitment: A Smart Crowdsourcing-Assisted Approach.
+Financial and emotional support in close personal ties among Central Asian migrant women in Russia.
+Finding All You Need: Web APIs Recommendation in Web of Things Through Keywords Search.
+Finding Emergent Patterns of Behaviors in Dynamic Heterogeneous Social Networks.
+Finding and testing regular equivalence.
+Finding environmentally important industry clusters: Multiway cut approach using nonnegative matrix factorization.
+Finding influencers in networks using social capital.
+Finding remarkably dense sequences of contacts in link streams.
+Finding roles in sparse economic hierarchies: Going beyond regular equivalence.
+Fine-grained document clustering via ranking and its application to social media analytics.
+Flash mob: a multidisciplinary review.
+FlexCCT: A Methodological Framework and Software for Ratings Analysis and Wisdom of the Crowd Applications.
+Focal structures analysis: identifying influential sets of individuals in a social network.
+Focused model selection for social networks.
+Fog Computing Approach for Music Cognition System Based on Machine Learning Algorithm.
+Folksonomy-based ad hoc community detection in online social networks.
+Food sharing networks in lowland Nicaragua: An application of the social relations model to count data.
+Forecasting Civil Unrest Using Social Media and Protest Participation Theory.
+Forecasting Horticultural Products Price Using ARIMA Model and Neural Network Based on a Large-Scale Data Set Collected by Web Crawler.
+Forensic analysis of phone call networks.
+Forgetting in the recall-based elicitation of personal and social networks.
+Forgetting of friends and its effects on measuring friendship networks.
+Form and relationship of the social networks of the New Testament.
+Formal and informal cross-cluster networks and the role of funding: A multi-level network analysis of the collaboration among publicly and privately funded cluster organizations and their managers.
+Forming a well-connected team of experts based on a social network graph: a novel weighting approach.
+Fractal Intelligent Privacy Protection in Online Social Network Using Attribute-Based Encryption Schemes.
+Friend or foe? Fake profile identification in online social networks.
+Friends and neighbors on the Web.
+Friends in locked places: An investigation of prison inmate network structure.
+From Intelligent Vehicles to Smart Societies: A Parallel Driving Approach.
+From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science.
+From classification to quantification in tweet sentiment analysis.
+From metaphors to mechanisms: Critical issues in networks and social movements research.
+From neighbors to school friends? How adolescents' place of residence relates to same-ethnic school friendships.
+From popularity prediction to ranking online news.
+From support to overload: Patterns of positive and negative family relationships of adults with mental illness over time.
+Functional specificity in discussion networks: The influence of general and problem-specific networks on health outcomes.
+Fundamental Limits of Data Utility: A Case Study for Data-Driven Identity Authentication.
+Fundamental principles of network formation among preschool children.
+Fusing Behavioral Projection Models for Identity Theft Detection in Online Social Networks.
+Fuzzy Clustering Based on Automated Feature Pattern-Driven Similarity Matrix Reduction.
+Fuzzy duocentric community detection model in social networks.
+Fuzzy overlapping community quality metrics.
+GA-Based Q-Attack on Community Detection.
+GANBOT: a GAN-based framework for social bot detection.
+GCNEXT: graph convolutional network with expanded balance theory for fraudulent user detection.
+GDTM: A Gaussian Dynamic Topic Model for Forwarding Prediction Under Complex Mechanisms.
+GED: the method for group evolution discovery in social networks.
+GENSI: A new graphical tool to collect ego-centered network data.
+GEVi: context-based graphical analysis of social group dynamics.
+GLMLE: graph-limit enabled fast computation for fitting exponential random graph models to large social networks.
+GROUP 2018 Special Issue Guest Editorial: Another 25 Years of GROUP.
+GUEST EDITORIAL: Special Issue on Social Sensing and Privacy Computing in Intelligent Social Systems.
+Gamers' confidants: Massively Multiplayer Online Game participation and core networks in China.
+Gender and Age Influences on Interpretation of Emoji Functions.
+Gender differences in the creation of different types of social capital: A multilevel study.
+Gender homophily from spatial behavior in a primary school: A sociometric study.
+Gender network dynamics in prosocial and aggressive behavior of early adolescents.
+Gender, rank, and social networks on an enterprise social media platform.
+Gendered by Design: A Duoethnographic Study of Personal Fitness Tracking Systems.
+Gendered double embeddedness: Finding jobs through networks in the Chinese labor market.
+General framework of opening and closing shops over a spatial network based on stochastic utility under competitive and time-bounded environment.
+Generalised blockmodelling of social and relational networks using evolutionary computing.
+Generalized Blockmodeling, P. Doreian, V. Batagelj, A. Ferligoj. Cambridge University Press, New York (2005).
+Generalized blockmodeling of two-mode network data.
+Generalized blockmodeling of valued networks.
+Generalized relationships between characteristic path length, efficiency, clustering coefficients, and density.
+Generalized two-mode cores.
+Generalizing unweighted network measures to capture the focus in interactions.
+Generic anomalous vertices detection utilizing a link prediction algorithm.
+Geodesic based centrality: Unifying the local and the global.
+Geographical variability and network structure.
+Geography of Twitter networks.
+Geospatial Structure of a Planetary-Scale Social Network.
+Getting funded. Multi-level network of physicists in Italy.
+Goal specific social capital and job satisfaction: Effects of different types of networks on instrumental and social aspects of work.
+Good and bad events: combining network-based event detection with sentiment analysis.
+Good health and the bridging of structural holes.
+Good location, terrible food: detecting feature sentiment in user-generated reviews.
+Green Computing and Carbon Footprint Management in the IT Sectors.
+Group Influence Maximization Problem in Social Networks.
+Group based trajectories of network formation and dynamics.
+Group betweenness and co-betweenness: Inter-related notions of coalition centrality.
+Group composition and network structure in school classes: a multilevel application of the p<sup>∗</sup> model.
+Group disappearance in social networks with communities.
+Guest Editorial Advanced Machine Learning on Cognitive Computing for Human Behavior Analysis.
+Guest Editorial Computational Social Systems for COVID-19 Emergency Management and Beyond.
+Guest Editorial Special Issue on Blockchain-Based Secure and Trusted Computing for IoT.
+Guest Editorial Special Issue on Parallel and Distributed Processing for Computational Social Systems.
+Guest Editorial on Advances in Tools and Techniques for Enabling Cyber-Physical-Social Systems - Part I.
+Guest Editorial on Advances in Tools and Techniques for Enabling Cyber-Physical-Social Systems - Part II.
+Guest Editorial on Social Computing, Behavioral-Cultural Modeling and Prediction.
+Guest Editorial: Special Issue on Human-Centric Cyber Social Computing.
+Guest Editorial: Special Issue on Hybrid Human-Artificial Intelligence for Social Computing.
+HOMER: A semantically enhanced knowledge management approach in the domain of homemade explosives intelligence.
+HackerScope: the dynamics of a massive hacker online ecosystem.
+Handling uncertainty in social media textual information for improving venue recommendation formulation quality in social networks.
+Happiness and Fear: Using Emotions as a Lens to Disentangle How Users Felt About the Launch of Facebook Reactions.
+Harnessing Twitter for Answering Opinion List Queries.
+Harnessing user's social influence and IoT data for personalized event recommendation in event-based social networks.
+Hashkat: large-scale simulations of online social networks.
+Hashtags and followers - An experimental study of the online social network Twitter.
+Health surveillance through social networks.
+Health-related hypothesis generation using social media data.
+Heat diffusion approach for scientific impact analysis in social media.
+Heated conversations in a warming world: affective polarization in online climate change discourse follows real-world climate anomalies.
+Heating up the debate? Measuring fragmentation and polarisation in a German climate change hyperlink network.
+HellRank: a Hellinger-based centrality measure for bipartite social networks.
+Help Me to Help You: Machine Augmented Citizen Science.
+Heterogeneous susceptibilities in social influence models.
+HiRecS: A Hierarchical Contextual Location Recommendation System.
+Hide and Seek: Outwitting Community Detection Algorithms.
+Hiding Your Face Is Not Enough: user identity linkage with image recognition.
+Hierarchical Posture Representation for Robust Action Recognition.
+Hierarchies, ties and power in organizational networks: model and analysis.
+High-resolution home location prediction from Twitter activities using consensus deep learning.
+High-throughput crowdsourcing mechanisms for complex tasks.
+Homogeneity of social networks by age and marital status: A multilevel analysis of ego-centered networks.
+Homophilic network decomposition: a community-centric analysis of online social services.
+Homophily and prestige: An assessment of their relative strength to explain link formation in the online climate change debate.
+Homophily of music listening in online social networks of China.
+How MPs ties to interest groups matter for legislative co-sponsorship.
+How Mobile App Design Overhauls Can Be Disastrous in Terms of User Perception: The Case of Snapchat.
+How Web 1.0 fails: the mismatch between hyperlinks and clickstreams.
+How many names are enough? Identifying network effects with the least set of listed contacts.
+How social exclusion distorts social network perceptions.
+How social ties transcend class boundaries? Network variability as tool for exploring occupational homophily.
+How stable is the core discussion network?
+How to Better Identify Venture Capital Network Communities: Exploration of A Semi-Supervised Community Detection Method.
+How to search a social network.
+Hubs and Authorities in the Koch Brothers Network.
+Human-Centric Cyber Social Computing Model for Hot-Event Detection and Propagation.
+Hybrid Neural Network for Sina Weibo Sentiment Analysis.
+Hybrid Predictive Ensembles: Synergies Between Human and Computational Forecasts.
+Hybrid feature selection approach to identify optimal features of profile metadata to detect social bots in Twitter.
+Hyper-edges and multidimensional centrality.
+Hypergraph index: an index for context-aware nearest neighbor query on social networks.
+I tag, you tag: the role of tagging in the formation of topic-based communities of video game channels in YouTube (2016).
+Identification and Analysis of Driver Postures for In-Vehicle Driving Activities and Secondary Tasks Recognition.
+Identification of affective valence of Twitter generated sentiments during the COVID-19 outbreak.
+Identification of leaders, lurkers, associates and spammers in a social network: context-dependent and context-independent approaches.
+Identification of medical resource tweets using Majority Voting-based Ensemble during disaster.
+Identify Connected Positive Influence Dominating Set in Social Networks Using Two-Hop Coverage.
+Identifying Covid-19 misinformation tweets and learning their spatio-temporal topic dynamics using Nonnegative Coupled Matrix Tensor Factorization.
+Identifying Framing Bias in Online News.
+Identifying Groups of Fake Reviewers Using a Semisupervised Approach.
+Identifying Users With Alternate Behaviors of Lurking and Active Participation in Multilayer Social Networks.
+Identifying and Analyzing Cryptocurrency Manipulations in Social Media.
+Identifying and validating personality traits-based homophilies for an egocentric network.
+Identifying buzz in social media: a hybrid approach using artificial bee colony and k-nearest neighbors for outlier detection.
+Identifying central nodes for information flow in social networks using compressive sensing.
+Identifying community structures in dynamic networks.
+Identifying high betweenness centrality nodes in large social networks.
+Identifying individuals associated with organized criminal networks: A social network analysis.
+Identifying multiple social network accounts belonging to the same users.
+Identifying positions from affiliation networks: Preserving the duality of people and events.
+Identifying power elites - k-cores in heterogeneous affiliation networks.
+Identifying regular blocks in valued networks: A heuristic applied to the St. Marks carbon flow data, and international trade in cereal products.
+Identifying statistically significant edges in one-mode projections.
+Identifying the Real Influentials at Nonexplicit-Relationship Online Platforms.
+Identifying the top-dogs of the blogosphere.
+Identity and Control, 2nd ed., H. White. Cambridge University Press, Cambridge (2008).
+If you do not know who knows what: Advice seeking under changing conditions of uncertainty after an acquisition.
+Image Memorability Prediction Using Depth and Motion Cues.
+Immigrant children and their parents: Is there an intergenerational interdependence of integration into social networks?
+Immunization of networks with non-overlapping community structure.
+Impact analysis of facebook in family bonding.
+Impact of Social Network Structures on Uncertain Opinion Formation.
+Impact of methods for reducing respondent burden on personal network structural measures.
+Impartiality, friendship-networks and voting behavior: Evidence from voting patterns in the Eurovision Song Contest.
+Improved TrAdaBoost and its Application to Transaction Fraud Detection.
+Improving Sentiment Polarity Detection Through Target Identification.
+Improving collaborative recommendations using vector quantization and clustering.
+Improving detection of untrustworthy online reviews using ensemble learners combined with feature selection.
+Improving e-commerce product recommendation using semantic context and sequential historical purchases.
+Improving network response times using social information.
+Improving team performance prediction in MMOGs with temporal communication networks.
+Imputation of attributes in networked data using Bayesian autocorrelation regression models.
+In search of a happy medium: How the structure of interorganizational networks influence community economic development strategies.
+In transit: Changing social networks of sub-Saharan African migrants in Turkey and Greece.
+Inadequacy of SIR model to reproduce key properties of real-world spreading cascades: experiments on a large-scale P2P system.
+Inaugural Issue Editorial.
+Incorporating Spatial, Temporal, and Social Context in Recommendations for Location-Based Social Networks.
+Incorporating pre-training in long short-term memory networks for tweet classification.
+Incorporating structural stigma into network analysis.
+Increasing Trust in Development Processes Using Robust, Data-Driven Markov Games: An Application to PRESTIGE.
+Increasing sampling efficiency for the fixed degree sequence model with phase transitions.
+Incremental clustering with vector expansion for online event detection in microblogs.
+Incremental eigenpair computation for graph Laplacian matrices: theory and applications.
+Incremental maintenance of all-pairs shortest paths in relational DBMSs.
+Incrementally updating Katz centrality in dynamic graphs.
+Individual privacy in social influence networks.
+Individual social capital: Accessibility and mobilization of resources embedded in social networks.
+Individuals' power and their social network accuracy: A situated cognition perspective.
+Induced, endogenous and exogenous centrality.
+Inequalities in social capital and their longitudinal effects on the labour market entry.
+Inequality in social capital in Chile: Assessing the importance of network size and contacts' occupational prestige on status attainment.
+Inference of demographic attributes based on mobile phone usage patterns and social network topology.
+Inferring the mental state of influencers.
+Influence Maximization From Cascade Information Traces in Complex Networks in the Absence of Network Structure.
+Influence Maximization Problem With Echo Chamber Effect in Social Network.
+Influence Propagation Model for Clique-Based Community Detection in Social Networks.
+Influence learning for cascade diffusion models: focus on partial orders of infections.
+Influence maximization in graph-based OLAP (GOLAP).
+Influence modeling of opinion switching by Twitter users in public shaming events.
+Influence of Opening Up Daycare and Day Camps on Resurgence Potential of COVID-19 Pandemic: Assessing Infectivity Potential From Youth in Ontario, Canada.
+Influence of Twitter activity on the stock price of soccer clubs.
+Influence of social relations on human mobility and sociality: a study of social ties in a cellular network.
+Influence of vaccination strategies and topology on the herd immunity of complex networks.
+Influentials, novelty, and social contagion: The viral power of average friends, close communities, and old news.
+Informal lending networks in rural Ethiopia.
+Information Diffusion Nonlinear Dynamics Modeling and Evolution Analysis in Online Social Network Based on Emergency Events.
+Information Diffusion on Social Media During Natural Disasters.
+Information Dissemination From Social Network for Extreme Weather Scenario.
+Information Granulation-Based Community Detection for Social Networks.
+Information and favoritism: The network effect on wage income in China.
+Information communities: The network structure of communication.
+Information diffusion modeling and analysis for socially interacting networks.
+Information seeking in secondary schools: A multilevel network approach.
+Information verification in social networks based on user feedback and news agencies.
+Information-Utilization-Method-Assisted Multimodal Multiobjective Optimization and Application to Credit Card Fraud Detection.
+Innovation capability: A sociometric approach.
+Integrated or isolated? The impact of public housing redevelopment on social network homophily.
+Integrating Social Practice Theory in Agent-Based Models: A Review of Theories and Agents.
+Integrating location and textual information for detecting affected people in a crisis.
+Integrating the optimal classifier set for sentiment analysis.
+Inter-ethnic friendship and negative ties in secondary school.
+Interaction networks and patterns of guild community in massively multiplayer online games.
+Interactional Moral Systems: A Model of Social Mechanisms for the Moral Regulation of Exchange Processes in Agent Societies.
+Interactive discovery of influential friends from social networks.
+Internal links and pairs as a new tool for the analysis of bipartite complex networks.
+International production and trade in a high-tech industry: A multilevel network analysis.
+Interpretation and interview context: examining the General Social Survey name generator using cognitive methods.
+Interpreting communities based on the evolution of a dynamic attributed network.
+Interviewer effects in measuring network size using a single name generator.
+Introduction to <i>ACM Transactions on Social Computing</i>.
+Introduction to multilevel social networks.
+Introduction to special issue: ethical dilemmas in social network research.
+Introduction to stochastic actor-based models for network dynamics.
+Introduction to the Special Issue on HICSS 2019.
+Introduction to the Special Issue on Negotiating Truth and Trust in Socio-Technical Systems.
+Introduction to the first issue of Social Network Analysis and Mining journal.
+Introduction to the second issue of <i>Social Network Analysis and Mining</i> journal: scientific computing for social network analysis and dynamicity.
+Introduction to the special issue on Crime and Networks.
+Introduction to the special issue on Network Dynamics (Part 2).
+Introduction to the special issue on advances in two-mode social networks.
+Introduction to the special issue on network dynamics.
+Introduction to the topical issue on semantic social networks and media applications.
+Introduction: the dynamics of personal networks.
+Investigating Link Inference in Partially Observable Networks: Friendship Ties and Interaction.
+Investigating an online social network using spatial interaction models.
+Investigating the effect of combining GRU neural networks with handcrafted features for religious hatred detection on Arabic Twitter space.
+Investigating the impact of differences in kind upon resource consumption in web-based social networks.
+Investigating the occurrence of selfie-based emotional contagion over social network.
+Investing in people: The role of social networks in the diffusion of a large-scale fraud.
+Investment communities: Behavioral attitudes and economic dynamics.
+Investments in and returns on network embeddedness: An experiment with trust games.
+Investor commitment to serial entrepreneurs: A multilayer network analysis.
+Invisible Stories That Drive Online Social Cognition.
+Involvement of node attributes in the link formation process into a telecommunication network.
+Is My Interface Beautiful? - A Computational Model-Based Approach.
+Is Virtual Citizen Science A Game?
+Is influence mightier than selection? Forging agreement in political discussion networks during a campaign.
+It's not who you know, it's how you know them: Who exchanges what with whom?
+Iterative Multi-label Multi-relational Classification Algorithm for complex social networks.
+Jaccard-Spline index of structural proximity in contact networks.
+Joint Task Difficulties Estimation and Testees Ranking for Intelligence Evaluation.
+Joint inference of user community and interest patterns in social interaction networks.
+Judgment of distributional inequality in networks.
+Keyword extraction from micro-blogs using collective weight.
+Knowledge and networks: An experimental test of how network knowledge affects coordination.
+Knowledge distillation on neural networks for evolving graphs.
+LBCF: A Link-Based Collaborative Filtering for Overfitting Problem in Recommender System.
+LORI: A Learning-to-Rank-Based Integration Method of Location Recommendation.
+Language Proficiency and Media Richness in Global Virtual Teams: Impacts on Satisfaction, Inclusion, and Task Accomplishment.
+Language agnostic meme-filtering for hashtag-based social network analysis.
+Large cultural networks and smart specialization: What is new in regional policy diagnostic analytics?
+Large-scale community detection based on a new dissimilarity measure.
+Large-scale insider trading analysis: patterns and discoveries.
+Latent space models for dynamic networks with weighted edges.
+Lattices and dimensional representations: matrix decompositions and ordering structures.
+Lay theories of networking ability: Beliefs that inhibit instrumental networking.
+Leadership network and team performance in interactive contests.
+Learning Influential Cognitive Links in Social Networks by a New Hybrid Model for Opinion Dynamics.
+Learning Network Representations With Different Order Structural Information.
+Learning Universal Network Representation via Link Prediction by Graph Convolutional Neural Network.
+Learning from noisy label proportions for classifying online social data.
+Learning in social networks: Selecting profitable choices among alternatives of uncertain profitability in various networks.
+Learning to lurker rank: an evaluation of learning-to-rank methods for lurking behavior analysis.
+Legislative cosponsorship networks in the US House and Senate.
+Leveraging Online Word of Mouth for Personalized App Recommendation.
+Leveraging Social Network Analysis for Characterizing Cohesion of Human-Managed Animals.
+Leveraging node neighborhoods and egograph topology for better bot detection in social graphs.
+Leveraging social information for personalized search.
+Leveraging the network information for evaluating answer quality in a collaborative question answering portal.
+Lifetime distribution of information diffusion on simultaneously growing networks.
+Lightweight Selective Encryption for Social Data Protection Based on EBCOT Coding.
+Like-tasted user groups to predict ratings in recommender systems.
+Limits to inferring status from friendship relations.
+Link Inference in Dynamic Heterogeneous Information Network: A Knapsack-Based Approach.
+Link Prediction Adversarial Attack Via Iterative Gradient Attack.
+Link and interaction polarity predictions in signed networks.
+Link injection for boosting information spread in social networks.
+Link prediction for interdisciplinary collaboration via co-authorship network.
+Link prediction in directed social networks.
+Link sign prediction and ranking in signed directed social networks.
+Linked Data Processing for Human-in-the-Loop in Cyber-Physical Systems.
+Linked Ego Networks: Improving estimate reliability and validity with respondent-driven sampling.
+Literary Destination Familiarity and Inbound Tourism: Evidence from Mainland China.
+Local Differential Privately Anonymizing Online Social Networks Under HRG-Based Model.
+Local, community and global centrality methods for analyzing networks.
+Localizing and quantifying infrastructure damage using class activation mapping approaches.
+Locating Identities in Time: An Examination of the Formation and Impact of Temporality on Presentations of the Self through Location-Based Social Networks.
+Location-Aware Service Recommendations With Privacy-Preservation in the Internet of Things.
+Location-Related Content Communications With Mobility Support in Vehicular Scenarios.
+Longitudinal analysis of personal networks. The case of Argentinean migrants in Spain.
+Looking South: Learning Urban Perception in Developing Cities.
+Low reciprocity rates in acquaintance networks of young adults: fact or artifact?
+Low status rejection: How status hierarchies influence negative tie formation.
+Lurking in social networks: topology-based analysis and ranking methods.
+MALT<sup>P</sup>: Parallel Prediction of Malicious Tweets.
+MFPR: A Personalized Ranking Recommendation with Multiple Feedback.
+MGA: Momentum Gradient Attack on Network.
+MLPR: Efficient influence maximization in linear threshold propagation model using linear programming.
+MODEL: Motif-Based Deep Feature Learning for Link Prediction.
+MPURank: A Social Hotspot Tracking Scheme Based on Tripartite Graph and Multimessages Iterative Driven.
+MR-IBC: MapReduce-based incremental betweenness centrality in large-scale complex networks.
+Maintaining the duality of closeness and betweenness centrality.
+Making friends and communicating on Facebook: Implications for the access to social capital.
+Making sense of tweets using sentiment analysis on closely related topics.
+Managing QoS of Internet-of-Things Services Using Blockchain.
+Managing node disappearance based on information flow in social networks.
+Mapping social dynamics on Facebook: The Brexit debate.
+Mapping social milieus and cohesion patterns between 1997 and 2014. Exploiting the potential of the occupational position generator.
+Marginal Gains to Maximize Content Spread in Social Networks.
+Market basket analysis with networks.
+Markets or networks: Households' choice of financial intermediary in Western China.
+Markov chain Monte Carlo exact inference for social networks.
+Matching of communities and frequent conceptual links.
+Matching patterns in networks with multi-dimensional attributes: a machine learning approach.
+Mathematics education semantic networks.
+Matrimonial circuits in kinship networks: Calculation, enumeration and census.
+Maximizing Activity Profit in Social Networks.
+Maximizing rumor containment in social networks with constrained time.
+Maximizing the Influence and Profit in Social Networks.
+Meaningful communities detection in medias network.
+Measurement and theory in legislative networks: The evolving topology of Congressional collaboration.
+Measurement error in network data: A re-classification.
+Measurement quality issues in dyadic models of relationships.
+Measuring 'neighborhood': Constructing network neighborhoods.
+Measuring Cities with Software-Defined Sensors.
+Measuring Motivations of Crowdworkers: The Multidimensional Crowdworker Motivation Scale.
+Measuring Time-Constrained Influence to Predict Adoption in Online Social Networks.
+Measuring UK crime gangs: a social network problem.
+Measuring centrality in film narratives using dynamic character interaction networks.
+Measuring domination in directed networks.
+Measuring ego-centered social networks on the web: Questionnaire design issues.
+Measuring knowledge and experience in two mode temporal networks.
+Measuring legislative collaboration: The Senate press events network.
+Measuring personal networks with daily contacts: a single-item survey question and the contact diary.
+Measuring segregation in social networks.
+Measuring social dynamics in a massive multiplayer online game.
+Measuring social networks cross-culturally.
+Measuring tendency towards mutuality in a social network.
+Measuring the effects of repeated and diversified influence mechanism for information adoption on Twitter.
+Measuring the impact of influence on individuals: roadmap to quantifying attitude.
+Mediatizing the network model of cultural capital: Network diversity, media use, and cultural knowledge along and across ethnic boundaries.
+Medical social networks content mining for a semantic annotation.
+Memory Augmented Hierarchical Attention Network for Next Point-of-Interest Recommendation.
+Methodological considerations in the use of name generators and interpreters.
+Mi Casa es su Casa? Examining Airbnb Hospitality Exchange Practices in a Developing Economy.
+Micro-structural foundations of network inequality: Evidence from a field experiment in professional networking.
+Micro-structure in micro-neighborhoods: A new social distance measure, and its effect on individual and aggregated perceptions of crime and disorder.
+Microblog Analysis as a Program of Work.
+Minimal and maximal characteristic path lengths in connected sociomatrices.
+Minimizing Misinformation Profit in Social Networks.
+Mining User-generated Content of Mobile Patient Portal: Dimensions of User Experience.
+Mining and generating large-scaled social networks via MapReduce.
+Mining and modeling complex leadership-followership dynamics of movement data.
+Mining brand value propositions on Twitter: exploring the link between marketer-generated content and eWOM outcomes.
+Mining dynamic social networks from public news articles for company value prediction.
+Mining half a billion topical experts across multiple social networks.
+Mining latent academic social relationships by network fusion of multi-type data.
+Mining latent relations in peer-production environments: a case study with Wikipedia article similarity and controversy.
+Mining optimal meeting points for moving users in spatio-temporal space.
+Mining social applications network from business perspective using modularity maximization for community detection.
+Mining social media to inform peatland fire and haze disaster management.
+Mining user interaction patterns in the darkweb to predict enterprise cyber incidents.
+Misleading information in Spanish: a survey.
+Missing behavior data in longitudinal network studies: the impact of treatment methods on estimated effect parameters in stochastic actor oriented models.
+Missing data in cross-sectional networks - An extensive comparison of missing data treatment methods.
+Missing data in networks: exponential random graph (p<sup>∗</sup>) models for networks with non-respondents.
+Mitigating COVID-19 Transmission in Schools With Digital Contact Tracing.
+Mitigating the Impact of Data Sampling on Social Media Analysis and Mining.
+Mixed integer programming formulations for clustering problems related to structural balance.
+Mixing Patterns in Social Trust Networks: A Social Identity Theory Perspective.
+Mixing patterns between age groups in social networks.
+Mobile Edge Aided Data Dissemination for Wireless Healthcare Systems.
+Mobilising social network support for childcare: The case of Polish migrant mothers in Dublin.
+Mobility types, transnational ties and personal networks in four highly skilled immigrant communities in Seville (Spain).
+Mobility-based SIR model for complex networks: with case study Of COVID-19.
+Model for generating artificial social networks having community structures with small-world and scale-free properties.
+Model reproduces individual, group and collective dynamics of human contact networks.
+Model-driven development of a person-centric mashup for social software.
+Modeling Behavioral Response to Vaccination Using Public Goods Game.
+Modeling Closed Captioning Subjective Quality Assessment by Deaf and Hard of Hearing Viewers.
+Modeling Direct Transmission Diseases Using Parallel Bitstring Agent-Based Models.
+Modeling Human Behavior on Social Media in Response to Significant Events.
+Modeling Market Share Dynamics Under Advertising Effort and Word-of-Mouth Interactions Between Customers.
+Modeling Reliability of Threshold Weighted Indecisive Voting Systems.
+Modeling Social Resilience in Communities.
+Modeling Temporal Activity Patterns in Dynamic Social Networks.
+Modeling User Intrinsic Characteristic on Social Media for Identity Linkage.
+Modeling Wikipedia admin elections using multidimensional behavioral social networks.
+Modeling and Analysis of Mood Dynamics in the Bipolar Spectrum.
+Modeling and OLAPing social media: the case of Twitter.
+Modeling and analysis of crime prediction and prevention.
+Modeling and evaluating information propagation in a microblogging social network.
+Modeling and predicting cascading removal phenomenon over social networks.
+Modeling attitude diffusion and agenda setting: the MAMA model.
+Modeling blogger influence in a community.
+Modeling cascade formation in Twitter amidst mentions and retweets.
+Modeling dynamic social networks using spectral embedding.
+Modeling individual topic-specific behavior and influence backbone networks in social media.
+Modeling influence diffusion to uncover influence centrality and community structure in social networks.
+Modeling influence on posting engagement in online social networks: Beyond neighborhood effects.
+Modeling memetics using edge diversity.
+Modeling of Multilayer Multicontent Latent Tree and Its Applications.
+Modeling signed social networks using spectral embedding.
+Modeling social influence through network autocorrelation: constructing the weight matrix.
+Modeling the dynamism of HIV information diffusion in multiplex networks of homeless youth.
+Modeling the impact of Python and R packages using dependency and contributor networks.
+Modeling the impact of review dynamics on utility value of a product.
+Modelling a disease-relevant contact network of people who inject drugs.
+Modelling interactions among offenders: A latent space approach for interdependent ego-networks.
+Modelling the evolution of a bipartite network - Peer referral in interlocking directorates.
+Models of core/periphery structures.
+Models, methods and network topology: Experimental design for the study of interference.
+Modern Food Foraging Patterns: Geography and Cuisine Choices of Restaurant Patrons on Yelp.
+Modified Lomax model: a heavy-tailed distribution for fitting large-scale real-world complex networks.
+Molecular model of dynamic social network based on e-mail communication.
+More or less <i>guanxi</i>: Trust is 60% network context, 10% individual difference.
+More structural holes, more risk? Network structure and risk perception among marijuana growers.
+Motif detection speed up by using equations based on the degree sequence.
+Motivational Psychology Driven AC Management Scheme: A Responsive Design Approach.
+Motivations for self-assembling into project teams.
+Movement without mobility: Adolescent status hierarchies and the contextual limits of cumulative advantage.
+Movie Recommendation System Using Sentiment Analysis From Microblogging Data.
+Multi-Modality Behavioral Influence Analysis for Personalized Recommendations in Health Social Media Environment.
+Multi-agent celebrity recommender system (MACeRS): Twitter use case.
+Multi-ego-centered communities in practice.
+Multi-objective optimization to identify key players in large social networks.
+Multi-source based movie recommendation with ratings and the side information.
+Multi-source models for civil unrest forecasting.
+MultiSpectralNet: Spectral Clustering Using Deep Neural Network for Multi-View Data.
+Multidimensional user profile construction for Web services selection: social networks case study.
+Multilevel Event Detection, Storyline Generation, and Summarization for Tweet Streams.
+Multilevel analysis of personal networks as dependent variables.
+Multilevel determinants of collaboration between organised criminal groups.
+Multilevel embeddedness: The case of the global fisheries governance complex.
+Multilevel meta network analysis with application to studying network dynamics of network interventions.
+Multilevel models for social networks: Hierarchical Bayesian approaches to exponential random graph modeling.
+Multilevel network data facilitate statistical inference for curved ERGMs with geometrically weighted terms.
+Multiobjective Particle Swarm Optimization Based on Network Embedding for Complex Network Community Detection.
+Multiobjective-Based Approach for Microblog Summarization.
+Multiperiod Asset Allocation Considering Dynamic Loss Aversion Behavior of Investors.
+Multiple imputation for missing edge data: A predictive evaluation method with application to Add Health.
+Multiple partitioning of multiplex signed networks: Application to European parliament votes.
+Multiple-Feature-Based Vehicle Supply-Demand Difference Prediction Method for Social Transportation.
+Multiplex Influence Maximization in Online Social Networks With Heterogeneous Diffusion Models.
+Multiplex networks and interest group influence reputation: An exponential random graph model.
+Multiplexity and strategic alliances: The relational embeddedness of coalitions in social movement organisational fields.
+Multiplexity, generalized exchange and cooperation in organizations: a case study.
+Multiplicative coevolution regression models for longitudinal networks and nodal attributes.
+Multiscale Evolutionary Perturbation Attack on Community Detection.
+Multivariate Data Fusion-Based Learning of Video Content and Service Distribution for Cyber Physical Social Systems.
+Mutual assent or unilateral nomination? A performance comparison of intersection and union rules for integrating self-reports of social relationships.
+My EU = Your EU? Differences in the Perception of European Issues Across Geographic Regions.
+N2VSCDNNR: A Local Recommender System Based on Node2vec and Rich Information Network.
+NETWORK IMPACT OF SOCIAL INNOVATION INITIATIVES IN MARGINALISED RURAL COMMUNITIES.
+Name disambiguation from link data in a collaboration graph using temporal and topological features.
+Name generation in interpersonal political network data: Results from a series of experiments.
+National happiness index monitoring using Twitter for bilanguages.
+Natural disaster evacuation modeling: the dichotomy of fear of crime and social influence.
+Nature-Inspired Computational Model of Population Desegregation Under Group Leaders Influence.
+Naïve learning in social networks with random communication.
+Negative ties and signed graphs research: Stimulating research on dissociative forces in social networks.
+Neighborhood and PageRank methods for pairwise link prediction.
+Neighborhood co-offending networks, structural embeddedness, and violent crime in Chicago.
+Neighborhood history as a factor shaping syringe distribution networks among drug users at a U.S. syringe exchange.
+Neighborhood isolation in Chicago: Violent crime effects on structural isolation and homophily in inter-neighborhood commuting networks.
+Neither global nor local: Heterogeneous connectivity in spatial network structures of world migration.
+Network autocorrelation models with egocentric data.
+Network centrality and social movement media coverage: A two-mode network analytic approach.
+Network centralization with the Gil Schmidt power centrality index.
+Network closure and integration in the mid-20th century American mafia.
+Network cohesion and social support.
+Network completion by leveraging similarity of nodes.
+Network contact changes in early and later postseparation years.
+Network decomposition into fixed points of degree peeling.
+Network diversity, contact diversity, and status attainment.
+Network dynamics of affiliative ties in preschool peer groups.
+Network dynamics of television use in school classes.
+Network effects on organizational decision-making: Blended social mechanisms and IPO withdrawal.
+Network exploration and exploitation: Professional network churn and scientific production.
+Network formation in the interbank money market: An application of the actor-oriented model.
+Network inference, error, and informant (in)accuracy: a Bayesian approach.
+Network integration within a prison-based therapeutic community.
+Network knowledge and the use of power.
+Network models for social selection processes.
+Network public goods with asymmetric information about cooperation preferences and network degree.
+Network recall among older adults with cognitive impairments.
+Network sampling coverage II: The effect of non-random missing data on network measurement.
+Network similarity and collusion.
+Network social capital as an outcome of social movement mobilization: Using the position generator as an indicator of social network diversity.
+Network stability in longitudinal data: A case study from rural Malawi.
+Network stability in organizational flux: The case of in-house management consulting.
+Network structure and economic prosperity in municipalities: A large-scale test of social capital theory using social media data.
+Network structure and team performance: The case of English Premier League soccer teams.
+Network structure influence on simulated network interventions for behaviour change.
+Network structure, strategy evolution, and the game of Chicken.
+Network text analysis of conceptual overlap in interviews, newspaper articles and keywords.
+Network topology and mean infection times.
+Network visualization and problem-solving support: A cognitive fit study.
+Network-aware privacy risk estimation in online social networks.
+Network-based intervention strategies to reduce violence among homeless.
+Network-building behavioral tendencies, range, and promotion speed.
+Networked SIS Epidemics With Awareness.
+Networked discontent: The anatomy of protest campaigns in social media.
+Networked experiments and modeling for producing collective identity in a group of human subjects using an iterative abduction framework.
+Networks and Public Health: A Review of Network Epidemiology: A Handbook for Survey Design and Data Collection, M. Morris (Ed.). Oxford University Press, New York (2004).
+Networks and collective action.
+Networks and geography: Modelling community network structures as the outcome of both spatial and network processes.
+Networks containing negative ties.
+Networks embedded in n-dimensional space: The impact of dimensionality change.
+Networks in the Global Village: Life in Contemporary Communites, Barry Wellman (Ed.). Westview Press, Boulder, CO (1999).
+Networks of action and events over time. A multilevel discrete-time event history model for longitudinal network data.
+Neutrality may matter: sentiment analysis in reviews of Airbnb, Booking, and Couchsurfing in Brazil and USA.
+New Blockchain-Based Architecture for Service Interoperations in Internet of Things.
+New Emoji Requests from Twitter Users: When, Where, Why, and What We Can Do About Them.
+New Retail Business Analysis and Modeling: A Taobao Case Study.
+New forms of social and professional digital relationships: the case of Facebook.
+New measures for characterizing the significance of nodes in wireless ad hoc networks via localized path-based neighborhood analysis.
+No More One Liners: Bringing Context into Emoji Recommendations.
+Node centrality in weighted networks: Generalizing degree and shortest paths.
+Noise, bias, and expertise in political communication networks.
+Non-response in social networks: The impact of different non-response treatments on the stability of blockmodels.
+Noncooperative Information Diffusion in Online Social Networks Under the Independent Cascade Model.
+Nonfungible Tokens: Constructing Value Systems in Parallel Societies.
+Nonlinear dynamic information propagation mathematic modeling and analysis based on microblog social network.
+Norm formation in social influence networks.
+Norms, status and the dynamics of advice networks: A case study.
+Notice to: Promoting where, when and what? An analysis of web logs by integrating data mining and social network techniques to guide ecommerce business promotions.
+OMLML: a helpful opinion mining method based on lexicon and machine learning in social networks.
+Obesity-related behaviors in adolescent friendship networks.
+Old friends and new acquaintances: Tie formation mechanisms in an interorganizational network generated by employee mobility.
+Omission and commission errors in network cognition and network estimation using ROC curve.
+OmniRank: learning to recommend based on omni-traversal of heterogeneous graphs.
+On Automatic Formation of Effective Therapy Groups in Social Networks.
+On Followers Search.
+On Identification of Organizational and Individual Users Based on Social Content Measurements.
+On Japan's Network Economy, James Lincoln, Michael Gerlach. Cambridge University Press (2004).
+On Structural Features, User Social Behavior, and Kinship Discrimination in Communication Social Networks.
+On Utilizing Communities Detected From Social Networks in Hashtag Recommendation.
+On detecting urgency in short crisis messages using minimal supervision and transfer learning.
+On efficient use of entropy centrality for social network analysis and community detection.
+On evaluating the effectiveness of rating similarity-based trust.
+On finding small sets that influence large networks.
+On information propagation in mobile call networks.
+On intersecting ground: the changing structure of US corporate networks.
+On knowledge-transfer characterization in dynamic attributed networks.
+On learning cluster coefficient of private networks.
+On minimizing budget and time in influence propagation over social networks.
+On planning the adoption of new video standards in social media networks: a general framework and its application to HEVC.
+On social networks of program committees - Structure and effect on paper acceptance fairness.
+On summary measures of binarized dominance data.
+On the Alignment Between Self-Declared Gender Identity and Topical Content from Wikipedia.
+On the computation of entropy production in stationary social networks.
+On the core of characteristic function games associated with exchange networks.
+On the discovery of social roles in large scale social systems.
+On the impact of text similarity functions on hashtag recommendations in microblogging environments.
+On the network you keep: analyzing persons of interest using Cliqster.
+On the prevalence of hierarchies in social networks.
+On the relation between message sentiment and its virality on social media.
+On the robustness of centrality measures under conditions of imperfect data.
+On the role of conductance, geography and topology in predicting hashtag virality.
+On the use of Multiple Correspondence Analysis to visually explore affiliation networks.
+On tractable cases of Target Set Selection.
+On variants of shortest-path betweenness centrality and their generic computation.
+One-mode projection analysis and design of covert affiliation networks.
+One-shot exchange networks and the shadow of the future.
+Online Idea Management for Civic Engagement: A Study on the Benefits of Integration with Social Networking.
+Online Public Shaming on Twitter: Detection, Analysis, and Mitigation.
+Online Reputation and Polling Systems: Data Incest, Social Learning, and Revealed Preferences.
+Online Sequencing of Non-Decomposable Macrotasks in Expert Crowdsourcing.
+Online collective identity: The case of the environmental movement.
+Online engagement factors on Facebook brand pages.
+Online social network trend discovery using frequent subgraph mining.
+Opening the black box of link formation: Social factors underlying the structure of the web.
+Opinion Dynamics With Cross-Coupling Topics: Modeling and Analysis.
+Opinion Dynamics in Social Networks: The Effect of Centralized Interaction Tuning on Emerging Behaviors.
+Opinion Formation in Online Social Networks: Exploiting Predisposition, Interaction, and Credibility.
+Opinion mining: reviewed from word to document level.
+Optimal Auction Design With Quantized Bids for Target Tracking via Crowdsensing.
+Optimal Block Withholding Strategies for Blockchain Mining Pools.
+Optimal Selection of Informed Agents for Influence Opposition.
+Optimal Spot-Checking for Improving the Evaluation Quality of Crowdsourcing: Application to Peer Grading Systems.
+Optimal connections: strength and distance in valued graphs.
+Optimal control of a delayed rumor propagation model with saturated control functions and L<sup>1</sup>-type objectives.
+Optimising influence in social networks using bounded rationality models.
+Optimization-enabled deep stacked autoencoder for occupancy detection.
+Optimizing dynamical changes of structural balance in signed network based on memetic algorithm.
+Organizational learning across multi-level networks.
+Organizational status growth and structure: An alliance network analysis.
+Other times, other values: leveraging attribute history to link user profiles across online social networks.
+Over-time measurement of triadic closure in coauthorship networks.
+Overlapping Community Detection Using Multiobjective Genetic Algorithm.
+Overlapping community detection using a community optimized graph swarm.
+Overlapping community detection with preference and locality information: a non-negative matrix factorization approach.
+Overlapping crime: Stability and specialization of co-offending relationships.
+P<sup>3</sup>: Privacy-Preserving Scheme Against Poisoning Attacks in Mobile-Edge Computing.
+PASPORT: A Secure and Private Location Proof Generation and Verification Framework.
+PIE: A Data-Driven Payoff Inference Engine for Strategic Security Applications.
+PIF: A Personalized Fine-Grained Spam Filtering Scheme With Privacy Preservation in Mobile Social Networks.
+PLinkSHRINK: a parallel overlapping community detection algorithm with Link-Graph for large networks.
+PMP-Based Set-Point Optimization and Sliding-Mode Control of Vehicular Platoons.
+POCA4SD: A Public Opinion Cellular Automata for Situation Deduction.
+PSO-ANE: Adaptive Network Embedding With Particle Swarm Optimization.
+PUT-Tag: personalized user-centric tag recommendation for social bookmarking systems.
+Pairwise trust inference by subgraph extraction.
+Pandemic Policymaking.
+Panning for gold: using variograms to select useful connections in a temporal multigraph setting.
+ParSoDA: high-level parallel programming for social data mining.
+Parallel Blockchain: An Architecture for CPSS-Based Smart Societies.
+Parallel Crime Scene Analysis Based on ACP Approach.
+Parallel Ecology for Intelligent and Smart Cyber-Physical-Social Systems.
+Parallel Economics: A New Supply-Demand Philosophy via Parallel Organizations and Parallel Management.
+Parallel Emergency: Social Renormalization via Monads and Computational Social Systems.
+Parallel Healthcare: Robotic Medical and Health Process Automation for Secured and Smart Social Healthcares.
+Parallel Intelligence: Belief and Prescription for Edge Emergence and Cloud Convergence in CPSS.
+Parallel Societies: A Computing Perspective of Social Digital Twins and Virtual-Real Interactions.
+Parallel collective factorization for modeling large heterogeneous networks.
+Particle Subswarms Collaborative Clustering.
+Partitioning large signed two-mode networks: Problems and prospects.
+Partitioning signed networks using relocation heuristics, tabu search, and variable neighborhood search.
+Partitioning signed social networks.
+Partner naming and forgetting: Recall of network members.
+Partner-specific behavior in social networks: Coordination among actors with heterogeneous preferences.
+Pathways to happiness: From personality to social networks and perceived support.
+Patterns of co-membership: Techniques for identifying subgraph composition.
+Pedestrian Choice Modeling and Simulation of Staged Evacuation Strategies in Daya Bay Nuclear Power Plant.
+Pedestrian Evacuation With Herding Behavior in the View-Limited Condition.
+Peer influence groups: identifying dense clusters in large networks.
+Peer influence, friend selection, and gender: How network processes shape adolescent smoking, drinking, and delinquency.
+Peer, school, and country variations in adolescents' health behaviour: A multilevel analysis of binary response variables in six European cities.
+Penalized component hub models.
+Perceiving the political landscape: ego biases in cognitive political networks.
+Perception Effect in Evolutionary Vaccination Game Under Prospect-Theoretic Approach.
+Percolation Threshold for Competitive Influence in Random Networks.
+Performance of procedures for identifying influentials in a social network: prediction of time and memory usage as a function of network properties.
+Peripheries of cohesive subsets.
+Permeability, Interoperability, and Velocity: Entangled Dimensions of Infrastructural Grind at the Intersection of Blockchain and Shipping.
+Permutation and randomization tests for network analysis.
+Persistence of close personal ties over a 12-year period.
+PersoNet: Friend Recommendation System Based on Big-Five Personality Traits and Hybrid Filtering.
+Person Reidentification Based on Pose-Invariant Feature and B-KNN Reranking.
+Personal network integration: transitivity and homophily in strong-tie relations.
+Personal networks in Saudi Arabia: The role of ascribed and achieved characteristics.
+Personal networks typologies: A structural approach.
+Personal social networks and health among aging adults in Agincourt, South Africa: A multidimensional approach.
+Personal support networks of immigrants to Spain: A multilevel analysis.
+Personality disorder in social networks: Network position as a marker of interpersonal dysfunction.
+Personality-Aware Product Recommendation System Based on User Interests Mining and Metapath Discovery.
+Personalized Recommendation for Online Social Networks Information: Personal Preferences and Location-Based Community Trends.
+Perspective-taking and memory capacity predict social network size.
+Phase Transition in Group Emotion.
+Player Behavior Modeling for Enhancing Role-Playing Game Engagement.
+Player-centric networks in <i>League of Legends</i>.
+Political networks.
+Popularity breeds contempt: The evolution of reputational dislike relations and friendships in high school.
+Popularity structure in friendship networks.
+Popularity trajectories and substance use in early adolescence.
+Positive Emotions, Instrumental Resources, and Organizational Network Evolution: Theorizing via Simulation Research.
+Positive and negative tie perceptual accuracy: Pollyanna principle vs. negative asymmetry explanations.
+Positive influence dominating sets in power-law graphs.
+Power and the perception of social networks.
+Power in mixed exchange networks: a rational choice model.
+Power in politically charged networks.
+Power laws and fragility in flow networks.
+Power-law distributions of attributes in community detection.
+Predictability of evolving contacts and triadic closure in human face-to-face proximity networks.
+Predicting <i>interval time</i> for reciprocal link creation using survival analysis.
+Predicting Stance Polarity and Intensity in Cyber Argumentation With Deep Bidirectional Transformers.
+Predicting Tie Strength of Chinese Guanxi by Using Big Data of Social Networks.
+Predicting charitable donations using social media.
+Predicting delay discounting from heterogeneous social media data.
+Predicting personality with social behavior: a comparative study.
+Predicting political preference of Twitter users.
+Predicting the number of customer transactions using stacked LSTM recurrent neural networks.
+Predicting the trajectory of the evolving international cyber regime: Simulating the growth of a social network.
+Prediction of Land Suitability for Crop Cultivation Based on Soil and Environmental Characteristics Using Modified Recursive Feature Elimination Technique With Various Classifiers.
+Prediction of Solar Activity Using Hybrid Artificial Bee Colony With Neighborhood Rough Sets.
+Predictors and outcomes of social network compositions: A compositional structural equation modeling approach.
+Predictors of short-term decay of cell phone contacts in a large scale communication network.
+Prestige in social dilemmas: A network analytic approach to cooperation among Bogotá's art organizations.
+Price Competition of Spreaders in Profit-Maximizing Sponsored Viral Marketing.
+Principles relating social regard to size and density of personal networks, with applications to stigma.
+Prismatic effects of negative ties.
+Privacy preserving collaborative filtering for KNN attack resisting.
+Privacy-Preserving Global Structural Balance Computation in Signed Networks.
+Probabilistic analysis of communities and inner roles in networks: Bayesian generative models and approximate inference.
+Probabilistic graphical models in modern social network analysis.
+Probabilistic reasoning system for social influence analysis in online social networks.
+Procrastination on social media: predictors of types, triggers and acceptance of countermeasures.
+Procure, persist, perish: communication tie dynamics in a disrupted task environment.
+Producing public goods in networks: Some effects of social comparison and endogenous network change.
+Profile generation from web sources: an information extraction system.
+Profile-Free and Real-Time Task Recommendation in Mobile Crowdsensing.
+Profiling Web users using big data.
+Profiling phishing activity based on hyperlinks extracted from phishing emails.
+Progressive domain adaptation for detecting hate speech on social media with small training set and its application to COVID-19 concerned posts.
+Promoting social media analytics in capital raising: a design science-based approach.
+Promoting where, when and what? An analysis of web logs by integrating data mining and social network techniques to guide ecommerce business promotions.
+Propagation From Deceptive News Sources Who Shares, How Much, How Evenly, and How Quickly?
+Proposing stochastic probability-based math model and algorithms utilizing social networking and academic data for good fit students prediction.
+Protecting the Dawid-Skene algorithm against low-competence raters and collusion attacks with gold-selection strategies.
+Providing Appropriate Social Support to Prevention of Depression for Highly Anxious Sufferers.
+Pruning trust-distrust network via reliability and risk estimates for quality recommendations.
+Psychological predispositions and network structure: The relationship between individual predispositions, structural holes and network closure.
+Public Opinion Analysis on Novel Coronavirus Pneumonia and Interaction With Event Evolution in Real World.
+QoE-Guaranteed and Power-Efficient Network Operation for Cloud Radio Access Network With Power Over Fiber.
+Quality of Experience Under a Prospect Theoretic Perspective: A Cultural Heritage Space Use Case.
+Quality of Experience-based museum touring: a human in the loop approach.
+Quality of life: a social network's perspective.
+Quality-Aware Sparse Data Collection in MEC-Enhanced Mobile Crowdsensing Systems.
+Quantifying Controversy on Social Media.
+Quantifying Nonrandomness in Evolving Networks.
+Quantifying topological robustness of networks under sustained targeted attacks.
+Quantitative Modeling and Analysis of Argumentation Polarization in Cyber Argumentation.
+Quantum mechanical model of information sharing in social networks.
+Question-order effects in social network name generators.
+Questions on ethics for research in the virtually connected world.
+Racial identity and education in social networks.
+Raising network resources while raising children? Access to social capital by parenthood status, gender, and marital status.
+Rand-FaSE: fast approximate subgraph census.
+Random alliance networks.
+Random errors in egocentric networks.
+Randomness Index for complex network analysis.
+Randomness and Structure in Collaboration Networks: A Random Matrix Analysis.
+Ranking Nodes in Signed Social Networks.
+Ranking and grouping social media requests for emergency services using serviceability model.
+Ranking of Importance Measures of Tweet Communities: Application to Keyword Extraction From COVID-19 Tweets in Japan.
+Ranking patterns in college football's BCS selection system: How conference ties, conference tiers, and the design of BCS payouts affect voter decisions.
+Ranking terrorists in networks: A sensitivity analysis of Al Qaeda's 9/11 attack.
+Re-evaluating the Community Question from a German perspective.
+ReMEMBeR: Ranking Metric Embedding-Based Multicontextual Behavior Profiling for Online Banking Fraud Detection.
+Real-time trending topics detection and description from Twitter content.
+Reasons for Failures of CRM Implementations.
+Recent Development in Pedestrian and Evacuation Dynamics: Bibliographic Analyses, Collaboration Patterns, and Future Directions.
+Recent developments in exponential random graph (p*) models for social networks.
+Reciprocal versus parasocial relationships in online social networks.
+Reciprocation under status ambiguity: How dominance motives and spread of status value shape gift exchange.
+Reciprocity and the structural determinants of the international sanctions network.
+Reciprocity, transitivity, and the mysterious three-cycle.
+Recommendation information diffusion in social networks considering user influence and semantics.
+Recommendation of microblog users based on hierarchical interest profiles.
+Recommender System-Based Diffusion Inferring for Open Social Networks.
+Recommender systems based on collaborative filtering and resource allocation.
+Reconsidering 'community liberated': How class and the national context shape personal support networks.
+Reconstructing Granovetter's network theory.
+Reconstructing news spread networks and studying its dynamics.
+Reducing large graphs to small supergraphs: a unified approach.
+Reducing seed noise in personalized PageRank.
+Referrals and information flow in networks increase discrimination: A laboratory experiment.
+Refining the clustering coefficient for analysis of social and neural network data.
+Reflections on 'Brokerage and Closure'.
+Regular equivalence and dynamic logic.
+Reinforced structural holes.
+Relational collaboration among spatial multipoint competitors.
+Relational constitution of social support in migrants' transnational personal communities.
+Relational event models for social learning in MOOCs.
+Relational instability at the network core: Support dynamics in developmental networks.
+Relations, residuals, regular interiors, and relative regular equivalence.
+Relationship patterns in the 19th century: The friendship network in a German boys' school class from 1880 to 1881 revisited.
+Reliability and validity of egocentered network data collected via web: A meta-analysis of multilevel multitrait multimethod studies.
+Reliability of measures of centrality and prominence.
+Remote assessment of countries' cyber weapon capabilities.
+Remote assessment of countries' nuclear, biological, and cyber capabilities: joint motivation and latent capability approach.
+Reply trees in Twitter: data analysis and branching process models.
+Representation and Matching of Team Managers: An Experimental Research.
+Representation and analysis of spatiotemporal encounters published in online social networks.
+Representing degree distributions, clustering, and homophily in social networks with latent cluster random effects models.
+Reputation modelling in Citizen Science for environmental acoustic data analysis.
+Requirements Socio-Technical Graphs for Managing Practitioners' Traceability Questions.
+Research note: The consequences of different methods for handling missing network data in stochastic actor based models.
+Research on the Selection Strategies of Blockchain Mining Pools.
+Residential mobility and the spatial dispersion of personal networks: Effects on social support.
+Resilience and coevolution of preferential interdependent networks.
+Resilience of the World Wide Web: a longitudinal two-mode network analysis.
+Resistance distance, closeness, and betweenness.
+Resource Allocation Scheme for Community-Based Fog Computing Based on Reputation Mechanism.
+Resource characteristics in social exchange networks: Implications for positional advantage.
+Respondent mood and the instability of survey network measurements.
+Retention in Online Blogging: A Case Study of the Blogster Community.
+Revenue maximization in social networks through discounting.
+Review of Peter Monge and Nosh Contractor's book on Theories of Network Organization.
+Review of social media analytics process and Big Data pipeline.
+Review of the effects of Five Factor Model personality traits on network structures and perceptions of structure.
+Revisiting asymmetric marriage rules.
+Revisiting clientelism: A network analysis of problem-solving networks in Argentina.
+Robust features of trust in social networks.
+Robustness of social and web graphs to node removal.
+Role analysis using the ego-ERGM: A look at environmental interest group coalitions.
+Role detection in online forums based on growth models for trees.
+Rumor Identification in Microblogging Systems Based on Users' Behavior.
+Rumour prevention in social networks with layer 2 blockchains.
+SAMI: an algorithm for solving the missing node problem using structure and attribute information.
+SCLPV: Secure Certificateless Public Verification for Cloud-Based Cyber-Physical-Social Systems Against Malicious Auditors.
+SCTSC: A Semicentralized Traffic Signal Control Mode With Attribute-Based Blockchain in IoVs.
+SHE: Sentiment Hashtag Embedding Through Multitask Learning.
+SODAR: Nonobtrusive Off-Line Social Structure Reconstruction Through Passive Wireless Sensing.
+SPADE: a social-spam analytics and detection framework.
+SPCSS: Social Network Based Privacy-Preserving Criminal Suspects Sensing.
+SSRM: structural social role mining for dynamic social networks.
+STCS Lexicon: Spectral-Clustering-Based Topic-Specific Chinese Sentiment Lexicon Construction for Social Networks.
+STUN: querying spatio-temporal uncertain (social) networks.
+Safeguard: User Reauthentication on Smartphones via Behavioral Biometrics.
+Sampling algorithms for weighted networks.
+Sampling dark networks to locate people of interest.
+Scalable Energy-Efficient Distributed Data Analytics for Crowdsensing Applications in Mobile Environments.
+Scalable Lattice Influence Maximization.
+Scalable Prediction of Global Online Media News Virality.
+Scalable Tensor-Train-Based Tensor Computations for Cyber-Physical-Social Big Data.
+Scalable graph clustering with parallel approximate PageRank.
+Scaling and statistical models for affiliation networks: patterns of participation among Soviet politicians during the Brezhnev era.
+Scenario-Based Insider Threat Detection From Cyber Activities.
+Second-level degree-based entity resolution in online social networks.
+Secondhand social capital: Boundary spanning, secondhand closure, and individual performance.
+Secure Data Deduplication With Reliable Key Management for Dynamic Updates in CPSS.
+Secure Tensor Decomposition for Heterogeneous Multimedia Data in Cloud Computing.
+Security and Trust in Blockchains: Architecture, Key Technologies, and Open Issues.
+Security aspects in modern service component-oriented application logic for social e-commerce systems.
+Seed Investment Bounds for Viral Marketing Under Generalized Diffusion and Selection Guidance.
+Seeing and being seen: Predictors of accurate perceptions about classmates' relationships.
+Seeing similarity in the face of difference: enabling comparison of online production systems.
+Selecting transfer entropy thresholds for influence network prediction.
+Selection and influence processes in academic achievement - More pronounced for girls?
+Selection in scientific networks.
+Semantic Social Network Analysis by Cross-Domain Tensor Factorization.
+Semantic Stability and Implicit Consensus in Social Tagging Streams.
+Semantic medical image retrieval in a medical social network.
+Semantic social networks analysis - Towards a sociophysical knowledge analysis.
+Semantically interconnected social networks.
+Semi-Supervised Spam Detection in Twitter Stream.
+Semi-supervised policy recommendation for online social networks.
+Sensing Users' Emotional Intelligence in Social Networks.
+Sensing, Understanding, and Shaping Social Behavior.
+Sentiment Analysis of Lockdown in India During COVID-19: A Case Study on Twitter.
+Sentiment analysis on the impact of coronavirus in social life using the BERT model.
+Sentiment/subjectivity analysis survey for languages other than English.
+Sentinel: A Codesigned Platform for Semantic Enrichment of Social Media Streams.
+Serverless Blockchain-Enabled Architecture for IoT Societal Applications.
+Service Bridge: Transboundary Impact Evaluation Method of Internet.
+Sex and network recall accuracy.
+Sharding distributed social databases using social network analysis.
+Shared contexts and triadic closure in core discussion networks.
+Shared friendship networks and the life course: an analysis of survey data on married and cohabiting couples.
+SharkFin: Spatio-temporal mining of software adoption and penetration.
+Short- and long-term stability in organizational networks: Temporal structures of project teams.
+ShortWalk: an approach to network embedding on directed graphs.
+Sign prediction in social networks based on users reputation and optimism.
+Signs of Heritage - An Agent-Based Model of the Dynamics of Heritage Categories.
+Similarity in friendship networks: Selection or influence? The effect of constraining contexts and non-visible individual attributes.
+Simple methods for simulating sociomatrices with given marginal totals.
+Simultaneous-direct blockmodeling for multiple relations in Pajek.
+Size Matters: A Comparative Analysis of Community Detection Algorithms.
+Small networks and high isolation? A reexamination of American discussion networks.
+Small world networks and clustered small world networks with random connectivity.
+Smart city next-gen social networks system based on software reconstruction model and cognitive computing.
+Smoothing Adversarial Training for GNN.
+Snowball sampling for estimating exponential random graph models for large networks.
+SocInf: Membership Inference Attacks on Social Media Health Data With Machine Learning.
+Sociability in Virtual Reality: Evaluations of Three Iterative Application Versions along a Design Science Research Process.
+Social BI to understand the debate on vaccines on the Web and social media: unraveling the anti-, free, and pro-vax communities in Italy.
+Social Computing Unhinged.
+Social Computing: From Crowdsourcing to Crowd Intelligence by Cyber Movement Organizations.
+Social Discovery: Exploring the Correlation Among Three-Dimensional Social Relationships.
+Social Education: Opportunities and Challenges in Cyber-Physical-Social Space.
+Social Energy: Emerging Token Economy for Energy Production and Consumption.
+Social Flocks: Simulating Crowds to Discover the Connection Between Spatial-Temporal Movements of People and Social Structure.
+Social Group Recommendation With TrAdaBoost.
+Social Influence Makes Self-Interested Crowds Smarter: An Optimal Control Perspective.
+Social Intelligence: The Way We Interact, The Way We Go.
+Social Manufacturing: A Paradigm Shift for Smart Prosumers in the Era of Societies 5.0.
+Social Media Ethics: A Rawlsian Approach to Hypertargeting and Psychometrics in Political and Commercial Campaigns.
+Social Network Analysis With Data Fusion.
+Social Network Analysis of Cricket Community Using a Composite Distributed Framework: From Implementation Viewpoint.
+Social Recommendation With Large-Scale Group Decision-Making for Cyber-Enabled Online Service.
+Social Relevance Feedback Based on Multimedia Content Power.
+Social Signal-Driven Knowledge Automation: A Focus on Social Transportation.
+Social Transportation: Social Signal and Technology for Transportation Engineering.
+Social and geographic contexts of adolescent substance use: The moderating effects of age and gender.
+Social and semantic coevolution in knowledge networks.
+Social and spatial networks: Kinship distance and dwelling unit proximity in rural Thailand.
+Social capital and economic integration of migrants in urban China.
+Social capital and homophily both matter for labor market outcomes - evidence from replication and extension.
+Social capital and intimate partnership in later life: A gendered perspective on 60+ year-old Israelis.
+Social capital in Singapore: Gender differences, ethnic hierarchies, and their intersection.
+Social capital of entrepreneurs in a developing country: The effect of gender on access to and requests for resources.
+Social capitalists on Twitter: detection, evolution and behavioral analysis.
+Social complex contagion in music listenership: A natural experiment with 1.3 million participants.
+Social context and network formation: An experimental study.
+Social context, spatial structure and social network structure.
+Social contexts and personal relationships: The effect of meeting opportunities on similarity for relationships of different strength.
+Social creativity as a function of agent cognition and network properties: A computer model.
+Social exchange: relations and networks.
+Social fabric and fear of crime: Considering spatial location and time of day.
+Social impact assessment of scientist from mainstream news and weblogs.
+Social influence and discourse similarity networks in workgroups.
+Social learning about levels of perinatal and infant mortality in Niakhar, Senegal.
+Social media analysis and summarization for opinion mining: a business case study.
+Social media and political communication: a social media analytics framework.
+Social media for polling and predicting United States election outcome.
+Social media knows what road it is: quantifying road characteristics with geo-tagged posts.
+Social media usage and firm performance: the mediating role of social capital.
+Social network ad allocation and optimization: a geometric mapping-based approach.
+Social network analysis of Australian poly-drug trafficking networks: How do drug traffickers manage multiple illicit drugs?
+Social network analysis using deep learning: applications and schemes.
+Social network analysis with respondent-driven sampling data: A study of racial integration on campus.
+Social network analysis: developments, advances, and prospects.
+Social network and content analysis of the North American Carbon Program as a scientific community of practice.
+Social network attack simulation with honeytokens.
+Social network engineering and race in a police academy: A longitudinal analysis.
+Social network mining of requester communities in crowdsourcing markets.
+Social network node influence maximization method combined with degree discount and local node optimization.
+Social network profiling for cultural heritage: combining data from direct and indirect approaches.
+Social network research and human subjects protection: Towards more effective infectious disease control.
+Social network structure and the trade-off between social utility and economic performance.
+Social network user lifetime.
+Social networkers: Measuring and examining individual differences in propensity to connect with others.
+Social networking mood recognition algorithm for conflict detection and management of Indian educational institutions.
+Social networks among auction bidders: The role of key bidders and structural properties on auction prices.
+Social networks and cultural practices: A case study of young avid screen users in France.
+Social networks and getting a home: Do contacts matter?
+Social networks and labour market outcomes in a meritocracy.
+Social networks and loss of capital.
+Social networks and online environments: when science and practice co-evolve.
+Social networks and spatial configuration - How office layouts drive social interaction.
+Social networks and the emergence of health inequalities following a medical advance: Examining prenatal H1N1 vaccination decisions.
+Social networks and the wages of job seekers: the case of China.
+Social networks of visually impaired and blind adolescents. Structure and effect on well-being.
+Social opinion mining for supporting buyers' complex decision making: exploratory user study and algorithm comparison.
+Social positions and simulation relations.
+Social recommendation: a review.
+Social selection models for multilevel networks.
+Social structure and support networks in Beijing and Hong Kong.
+Social support networks in urban Shanghai.
+Social system as complex networks.
+Social ties and checkin sites: connections and latent structures in location-based social networks.
+Social ties, homophily and extraversion-introversion to generate complex networks.
+Social-collaborative determinants of content quality in online knowledge production systems: comparing Wikipedia and Stack Overflow.
+Societies 5.0: A New Paradigm for Computational Social Systems Research.
+Socio-Aware Recommendations Under Complex User Constraints.
+Socio-material network analysis: A mixed method study of five European artistic collectives.
+Sociocultural Models of Nuclear Deterrence.
+Software Architecture Social Debt: Managing the Incommunicability Factor.
+Solidarity as a byproduct of professional collaboration: Social support and trust in a coworking space.
+Solving Last-Mile Logistics Problem in Spatiotemporal Crowdsourcing via Role Awareness With Adaptive Clustering.
+Solving submodular text processing problems using influence graphs.
+Some analyses of Erdős collaboration graph.
+Some days are better than others: Examining time-specific variation in the structuring of interorganizational relations.
+Some dynamics of social balance processes: bringing Heider back into balance theory.
+Some unique properties of eigenvector centrality.
+Spark's GraphX-based link prediction for social communication using triangle counting.
+Sparse Nonnegative Matrix Factorization for Multiple-Local-Community Detection.
+Spatial arrangement of social and economic networks among villages in Nang Rong District, Thailand.
+Spatial effects on individual social capital: Differentiating the constraints of local occupational structures.
+Spatiotemporal social (STS) data model: correlating social networks and spatiotemporal data.
+Specification Patterns of Service-Based Applications Using Blockchain Technology.
+Spectral clustering for link prediction in social networks with positive and negative links.
+Spectral counting of triangles via element-wise sparsification and triangle-based link recommendation.
+Spectral embedding of directed networks.
+Spectral evolution with approximated eigenvalue trajectories for link prediction.
+Spectral goodness of fit for network models.
+Spine segments in small world networks.
+Spiraling Facebook: an alternative Metropolis-Hastings random walk using a spiral proposal distribution.
+Sports-fanaticism formalism for sentiment analysis in Arabic text.
+Stability and dynamics of communities on online question-answer sites.
+Stability of Consensus Node Orderings Under Imperfect Network Data.
+Stability of network centrality measures: a numerical study.
+Stable exponential random graph models with non-parametric components for large dense networks.
+Start-up firms' networks for innovation and export: facilitated and constrained by entrepreneurs' networking in private and public spheres.
+State power and elite autonomy in a networked civil society: The board interlocking of Chinese non-profits.
+Statistical adjustment of network degree in respondent-driven sampling estimators: Venue attendance as a proxy for network size among young MSM.
+Statistical analysis of network data - an application to diffusion of innovation.
+Statistical estimation of co-offending youth networks.
+Statistical mechanics approach for collaborative business social network reconstruction.
+Statistical modelling of the group structure of social networks.
+Statistical power of the social network autocorrelation model.
+Staying connected under fire: Effects of individual roles and organizational specialization on the robustness of emergency-phase communication networks.
+Steganalysis of Digital Images Using Deep Fractal Network.
+Stepping back from the trees to see the forest: a network approach to valuing intelligence.
+Stimulation of reflection and discussion in museum visits through the use of social media.
+Stochastic weighted graphs: Flexible model specification and simulation.
+Stop-Phish: an intelligent phishing detection method using feature selection ensemble.
+Strategic players for identifying optimal social network intervention subjects.
+Stream graphs and link streams for the modeling of interactions over time.
+Striations in PageRank-ordered matrices.
+Strong ties promote the evolution of cooperation in dynamic networks.
+Structural balance across the strait: A behavioral experiment on the transitions of positive and negative intergroup relationships in mainland China and Taiwan.
+Structural balance in signed networks: Separating the probability to interact from the tendency to fight.
+Structural effects of network sampling coverage I: Nodes missing at random.
+Structural holes and bridging in two-mode networks.
+Structural holes and managerial performance: Identifying the underlying mechanisms.
+Structural properties of work groups and their consequences for performance.
+Structure and bias in the network autocorrelation model.
+Structure and causality in the world system.
+Structure and formation of top networks in international trade, 2001-2010.
+Structure and prominence in Twitter networks centered on contentious politics.
+Structure and time evolution of an Internet dating community.
+Structure of Crowdsourcing Community Networks.
+Structure, culture and Simmelian ties in entrepreneurial firms.
+Structure-preserving sparsification methods for social networks.
+Structuring Mobility Transition With an Adaptive Graph Representation.
+Study on centrality measures in social networks: a survey.
+Studying leaders &amp; their concerns using online social media during the times of crisis - A COVID case study.
+Studying segregation in Estonia using call data records.
+Studying the attributes of users in Twitter considering their emotional states.
+Substantive implications of unobserved heterogeneity: Testing the frailty approach to exponential random graph models.
+Success story of the SNAM Journal: fast progress into a well-established and reputable venue.
+Successes and challenges of Arabic sentiment analysis research: a literature review.
+Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.
+Summable and nonsummable data-driven models for community detection in feature-rich networks.
+Summarizing Situational Tweets in Crisis Scenarios: An Extractive-Abstractive Approach.
+Supervised methods for multi-relational link prediction.
+Supervised temporal link prediction in large-scale real-world networks.
+Supporting geospatial privacy-preserving data mining of social media.
+Sustainable Collaborator Recommendation Based on Conference Closure.
+Syntactically Coherent Text Augmentation for Sequence Classification.
+Synthesis of COVID-19 chest X-rays using unpaired image-to-image translation.
+Synthetic Social Media Data Generation.
+TAQE: Tweet Retrieval-Based Infrastructure Damage Assessment During Disasters.
+Target Tracking Applied to Extraction of Multiple Evolving Threats From a Stream of Surveillance Data.
+Tastes, ties, and time: A new social network dataset using Facebook.com.
+Team diversity, polarization, and productivity in online peer production.
+Team efficiency and network structure: The case of professional League of Legends.
+Technology Futures From Passive Crowdsourcing.
+Telegram group quality measurement by user behavior analysis.
+Temporal Causality Analysis of Sentiment Change in a Cancer Survivor Network.
+Temporal Dynamics of Information Diffusion in Twitter: Modeling and Experimentation.
+Temporal Matrix Factorization for Tracking Concept Drift in Individual User Preferences.
+Temporal Sequence of Retweets Help to Detect Influential Nodes in Social Networks.
+Temporal and Geospatial Gradients of Fear and Anger in Social Media Responses to Terrorism.
+Temporal dynamics of communities in social bookmarking systems.
+Temporal influence over the Last.fm social network.
+Test for triadic closure and triadic protection in temporal relational event data.
+Testing centralization in random graphs.
+Text documents streams with improved incremental similarity.
+The 'unfriending' problem: The consequences of homophily in friendship retention for causal estimates of social influence.
+The Affective Evolution of Social Norms in Social Networks.
+The Development of Connective Action during Social Movements on Social Media.
+The Development of Social Network Analysis in the Spanish-Speaking World: A Spanish Chronicle, version 2b, J.L. Molina (2006).
+The Development of Social Network Analysis: A Study in the Sociology of Science, Linton C. Freeman. Empirical Press, Vancouver, BC (2004).
+The Emergence and Stability of Groups in Social Networks.
+The Evolution of Turing Award Collaboration Network: Bibliometric-Level and Network-Level Metrics.
+The Family of Assortativity Coefficients in Signed Social Networks.
+The Impact of Group Size on the Discovery of Hidden Profiles in Online Discussion Groups.
+The Internet in Everyday Life, Barry Wellman, Caroline A. Haythornthwaite (Eds.). Blackwell Publishing, Oxford, UK (2002).
+The Invasion of the Physicists.
+The Pandemic Holiday Blip in New York City.
+The Reserve Price of Ad Impressions in Multi-Channel Real-Time Bidding Markets.
+The Resource Generator: social capital quantification with concrete items.
+The Sexual Organization of the City, E.O. Laumann, S. Ellingson, J. Mahay, A. Paik, Y. Youm (Eds.). University of Chicago Press (2004).
+The VL control measure for symmetric networks.
+The accuracy of small world chains in social networks.
+The acquisition of perceived descriptive norms as social category learning in social networks.
+The affective antecedents of cognitive social network activation.
+The analysis of multiple ties in longitudinal egocentric network data: A case study on bidirectional relationships between trust and drug use.
+The application of social network mining to cattle movement analysis: introducing the predictive trend mining framework.
+The authority of Supreme Court precedent.
+The backbone of bipartite projections: Inferring relationships from co-authorship, co-sponsorship, co-attendance and other co-behaviors.
+The causal effect of social capital on income: A new analytic strategy.
+The chance of influence: A natural experiment on the role of social capital in faculty recruitment.
+The co-evolution of gossip and friendship in workplace social networks.
+The coevolution of trade agreements and investment treaties: Some evidence from network analysis.
+The complexity of social networks: theoretical and empirical findings.
+The composition of social support networks of URM graduate students at predominantly white institutions.
+The configuration of a status based model of economic actors: The case of Spanish government debt market.
+The consumer litigation industry: Chasing dragon kings in lawyer-client networks.
+The contagion effects of repeated activation in social networks.
+The contagion of democracy through international networks.
+The dependence of bonds in the formation models of DEA-based networks.
+The determinants of heroin flows in Europe: A latent space approach.
+The development of adolescents' friendships and antipathies: A longitudinal multivariate network test of balance theory.
+The development of social network analysis in the French-speaking world.
+The devil is in the details: Differences in air traffic networks by scale, species, and season.
+The difference between optimal and germane communities.
+The distant core: social solidarity, social distance and interpersonal ties in core-periphery structures.
+The dual network structure of organizational problem solving: A case study on open source software development.
+The dual-projection approach for two-mode networks.
+The duality of firms and directors in board interlock networks: A relational event modeling approach.
+The dynamics of personal networks at the time of entry into adult life.
+The dynamics of polarized beliefs in networks governed by viral diffusion and media influence.
+The dynamics of the university impact on YouTube: a comparative analysis.
+The effect of density on the level of bias in the network autocorrelation model.
+The effect of interventions on Twitter in four target groups using different measures of influence.
+The effect of social affinity and predictive horizon on churn prediction using diffusion modeling.
+The effects of specific occupations in position generator measures of social capital.
+The efficacy of tables versus graphs in disrupting dark networks: An experimental study.
+The efficiency/security trade-off in criminal networks.
+The embeddedness of organizational performance: Multiple Membership Multiple Classification Models for the analysis of multilevel networks.
+The embeddedness of social relations in inter-firm competitive structures.
+The emergence of employer information networks in an experimental labor market.
+The emergence of properties of the Japanese production network: How do listed firms choose their partners?
+The evolution and formation of amicus curiae networks.
+The evolution of global trade and impacts on countries' carbon trade imbalances.
+The evolution of the board interlock network following Sarbanes-Oxley.
+The free encyclopedia that anyone can dispute: An analysis of the micro-structural dynamics of positive and negative relations in the production of contentious Wikipedia articles.
+The game of contacts: Estimating the social visibility of groups.
+The generalized influence blocking maximization problem.
+The impact of negotiated exchange on trust and trustworthiness.
+The impact of political party/candidate on the election results from a sentiment analysis perspective using #AnambraDecides2017 tweets.
+The impact of social networks on health care.
+The independent's edge in an illegal drug distribution setting: Levitt and Venkatesh revisited.
+The influence of friends on adolescents' behavior problems at school: The role of ego, alter and dyadic characteristics.
+The influence of network structure and prosocial cultural norms on charitable giving: A multilevel analysis of Movember's fundraising campaigns in 24 countries.
+The influence of network structures of Wikipedia discussion pages on the efficiency of WikiProjects.
+The influence of parents' social capital on their children's transition to vocational training in Germany.
+The influence of secrecy on the communication structure of covert networks.
+The influence of social status and network structure on consensus building in collaboration networks.
+The influence of structural balance and homophily/heterophobia on the adjustment of random complete signed networks.
+The interaction of size and density with graph-level indices.
+The interactive effects of political skill and future time perspective on career and community networking behavior.
+The interplay between formal project memberships and informal advice seeking in knowledge-intensive firms: A multilevel network approach.
+The local and global structure of knowledge production in an emergent research field: An exponential random graph analysis.
+The machinery of the weight-based fusion model for community detection in node-attributed social networks.
+The maximum imputation framework for neighborhood-based collaborative filtering.
+The mechanism of collapse of the Friendster network: What can we learn from the core structure of Friendster?
+The microstructures of network recall: How social networks are encoded and represented in human memory.
+The missing link: Social network analysis in migration and transnationalism.
+The motivational foundation of social networks.
+The nature, cause and consequence of COVID-19 panic among social media users in India.
+The network autocorrelation model using two-mode data: Affiliation exposure and potential bias in the autocorrelation parameter.
+The network dynamics of co-offending careers.
+The network is personal: Introduction to a special issue of Social Networks.
+The network of global migration 1990-2013: Using ERGMs to test theories of migration between countries.
+The networks and success of female entrepreneurs in China.
+The next steps in the study of missing individuals in networks: a comment on Smith et al. (2017).
+The opacity problem in social contagion.
+The political party as a network of cleavages: Disclosing the inner structure of Italian political parties in the seventies.
+The political position generator - A new instrument for measuring political ties in China.
+The potential of online social networking data for augmenting the study of high-risk personal networks among young men who have sex with men at-risk for HIV.
+The rationality of social structure: Cooperation in social dilemmas through investments in and returns on social capital.
+The reconstruction of Arab women role in media: a critical discourse analysis.
+The regionalization of intergovernmental organization networks: A non-linear process.
+The relational element in Charles Tilly's recent (and not so recent) work.
+The role of reciprocation in social network formation, with an application to LiveJournal.
+The role of social capital in the job-related regional mobility decisions of unemployed individuals.
+The ruler's game of musical chairs: Shuffling during the reign of Ethiopia's last emperor.
+The school class as a social network and contextual effects on childhood and adult health: Findings from the Aberdeen Children of the 1950s cohort study.
+The sign of affection: Balance-theoretic models and incomplete signed digraphs.
+The social brain of social media - a physiological boundary to the number of online relations.
+The social distributional hypothesis: a pragmatic proxy for homophily in online social networks.
+The social networks of academic performance in a student context of poverty in Mexico.
+The social role of social media: the case of Chennai rains-2015.
+The spread of media content through blogs.
+The stability of centrality measures when networks are sampled.
+The stability of exchange networks.
+The strength of family ties: A meta-analysis and meta-regression of self-reported social support and mortality.
+The structural and behavioral characteristics of the smallest-world phenomenon: minimum distance networks.
+The structure and vulnerability of a drug trafficking collaboration network.
+The structure of educational research: The role of multivocality in promoting cohesion in an article interlock network.
+The structure of norms and relations in patronage systems.
+The structure of online social networks mirrors those in the offline world.
+The tie effect on information dissemination: the spread of a commercial rumor in Hong Kong.
+The ties that bind? Social networks of nursing staff and staff's behaviour towards residents with dementia.
+The unified model of social influence and its application in influence maximization.
+The use of different data sources in the analysis of co-authorship networks and scientific performance.
+The use of sparsest cuts to reveal the hierarchical community structure of social networks.
+The way bullying works: How new ties facilitate the mutual reinforcement of status and bullying in elementary schools.
+The weakness of tie strength.
+The β-ranking and the β-measure for directed networks: Axiomatic characterizations.
+Theoretical and computational characterizations of interaction mechanisms on Facebook dynamics using a common knowledge model.
+Theories of network exchange: Anomalies, desirable properties, and critical networks.
+Thread Structure Learning on Online Health Forums With Partially Labeled Data.
+Time as a limited resource: Communication strategy in mobile phone networks.
+Time-Constrained Adaptive Influence Maximization.
+Time-Evolving Social Network Generator Based on Modularity: TESNG-M.
+Time-aware analysis and ranking of lurkers in social networks.
+Timing Matters: Influence Maximization in Social Networks Through Scheduled Seeding.
+To tell the truth: Measuring concordance in multiply reported network data.
+Too Much Investment in Social Capital?
+Topic dynamics in Weibo: a comprehensive study.
+Topic modeling and sentiment analysis of global climate change tweets.
+Topics extraction in incremental short texts based on LSTM.
+Topo2Vec: A Novel Node Embedding Generation Based on Network Topology for Link Prediction.
+Topologies of strategically formed social networks based on a generic value function - Allocation rule model.
+Toward Artificial Emotional Intelligence for Cooperative Social Human-Machine Interaction.
+Toward General Robustness Evaluation of Incentive Mechanism Against Bounded Rationality.
+Toward Next Generation of Blockchain Using Improvized Bitcoin-NG.
+Toward a new approach to author profiling based on the extraction of statistical features.
+Toward early and order-of-magnitude cascade prediction in social networks.
+Toward ethical guidelines for network research in organizations.
+Toward local family relationship discovery in location-based social network.
+Toward maximizing the visibility of content in social media brand pages: a temporal analysis.
+Toward query-friendly compression of rapid graph streams.
+Toward understanding online sentiment expression: an interdisciplinary approach with subgroup comparison and visualization.
+Towards Arabic aspect-based sentiment analysis: a transfer learning-based approach.
+Towards establishing the effect of self-similarity on influence maximization in online social networks.
+Towards intelligent control of influence diffusion in social networks.
+Towards more targeted recommendations in folksonomies.
+Toxic ties: corporate networks of market control in the European chemical industry, 1960-2000.
+Tracing temporal communities and event prediction in dynamic social networks.
+Tracking Changes in Resilience and Level of Coordination in Terrorist Networks.
+Tracking local communities in streaming graphs with a dynamic algorithm.
+Tracking phantastic objects: A computer algorithmic investigation of narrative evolution in unstructured data sources.
+Trading favors - Examining the temporal dynamics of reciprocity in congressional collaborations using relational event models.
+Training a text classifier with a single word using Twitter Lists and domain adaptation.
+Transaction Fraud Detection Based on Total Order Relation and Behavior Diversity.
+Transfer Model Collaborating Metric Learning and Dictionary Learning for Cross-Domain Facial Expression Recognition.
+Transitions of women's substance use recovery networks and 12-month sobriety outcomes.
+Transnational entrepreneurial activities: A qualitative network study of self-employed migrants from the former Soviet Union in Germany.
+Treatment of non-response in longitudinal network studies.
+Trends in science networks: understanding structures and statistics of scientific networks.
+Triadic balance in the brain: Seeking brain evidence for Heider's structural balance theory.
+Triadic closure in two-mode networks: Redefining the global and local clustering coefficients.
+Triadic configurations in limited choice sociometric networks: Empirical and theoretical results.
+Tribal regimes in academia: a comparative analysis of market structure across disciplines.
+Trust and embedded markets: A multi-method investigation of consumer transactions.
+Trust and partner selection in social networks: An experimentally grounded model.
+Trust in triads: An experimental study.
+Trust in triads: Experience effects.
+Trust prediction from user-item ratings.
+Truthful Incentive Mechanisms for Geographical Position Conflicting Mobile Crowdsensing Systems.
+Tweet Summarization of News Articles: An Objective Ordering-Based Perspective.
+Tweet contextualization: combining sentence extraction, sentence aggregation and sentence reordering to enhance informativeness and readability.
+Tweet, but verify: epistemic study of information verification on Twitter.
+Tweeting the terror: modelling the social media reaction to the Woolwich terrorist attack.
+Tweets can tell: activity recognition using hybrid gated recurrent neural networks.
+Twitter sentiment classification for measuring public health concerns.
+Twitter users change word usage according to conversation-partner social identity.
+Two interpretations of reports of knowledge of subpopulation sizes.
+Two steps to obfuscation.
+Two-Level Attention Model of Representation Learning for Fraud Detection.
+Two-Path Deep Semisupervised Learning for Timely Fake News Detection.
+Two-Phase Multidocument Summarization Through Content-Attention-Based Subtopic Detection.
+Two-mode brokerage in policy networks.
+Type-2 Fuzzy Comprehension Evaluation for Tourist Attractive Competency.
+Types of stable network structures based on exhaustive search.
+Uncertainty-based False Information Propagation in Social Networks.
+Uncovering deception in social media.
+Uncovering the Online Social Structure Surrounding COVID-19.
+Uncovering the role of emotional abilities in leadership emergence. A longitudinal analysis of leadership networks.
+Understanding Large Temporal Networks and Spatial Networks. Wiley Series in Computational and Quantitative Social Science, V. Batagelj, P. Doreian, A. Ferligoj, N. Kejžar (Eds.) (2014).
+Understanding Shifting Triadic Relationships in the Al-Qaeda/ISIS Faction Ecosystem.
+Understanding Social Roles in an Online Community of Volatile Practice: A Study of User Experience Practitioners on Reddit.
+Understanding actor loyalty to event-based groups in affiliation networks.
+Understanding and Predicting Question Subjectivity in Social Question and Answering.
+Understanding and forecasting lifecycle events in information cascades.
+Understanding archetypes of fake news via fine-grained classification.
+Understanding expert finding systems: domains and techniques.
+Understanding massive artistic cooperation: the case of Nico Nico Douga.
+Understanding organ transplantation in the USA using geographical social networks.
+Understanding the Impact of Geographical Distance on Online Discussions.
+Understanding the Lifestyle of Older Population: Mobile Crowdsensing Approach.
+Understanding the User Behavior of Foursquare: A Data-Driven Study on a Global Scale.
+Uniters or dividers? Voluntary organizations and social capital acquisition.
+Univariate and multivariate models of positive and negative networks: Liking, disliking, and bully-victim relationships.
+Universal evolution patterns of degree assortativity in social networks.
+Unpacking Burt's constraint measure.
+Unpacking reputational power: Intended and unintended determinants of the assessment of actors' power.
+Unpacking social divisions of labor in markets: Generalized blockmodeling and the network boom in stock photography.
+Unsupervised graph-based pattern extraction for multilingual emotion classification.
+Unveiling mobility complexity through complex network analysis.
+Upward contacts in everyday life: Benefits of reaching hierarchical relations in ego-centered networks.
+Use of bot and content flags to limit the spread of misinformation among social networks: a behavior and attitude survey.
+Use of the scale-up methods in injury prevention research: An empirical assessment to the case of choking in children.
+User Behavior Prediction of Social Hotspots Based on Multimessage Interaction and Neural Network.
+User Rating Classification via Deep Belief Network Learning and Sentiment Analysis.
+User characterization for online social networks.
+User interactions and behaviors in a large-scale online emotional support service.
+User profiling of the Twitter Social Network during the impeachment of Brazilian President.
+User similarities on social networks.
+Users key locations in online social networks: identification and applications.
+Using Social Behavior of Beetles to Establish a Computational Model for Operational Management.
+Using Twitter Bios to Measure Changes in Self-Identity: Are Americans Defining Themselves More Politically Over Time?
+Using Twitter to learn about the autism community.
+Using centrality modeling in network surveys.
+Using clustering coefficient to construct weighted networks for supervised link prediction.
+Using coherencies to examine network evolution and co-evolution.
+Using complex networks to identify patterns in specialty mathematical language: a new approach.
+Using deep learning methods for discovering associations between drugs and side effects based on topic modeling in social network.
+Using dynamic community detection to identify trends in user-generated content.
+Using geolocated tweets for characterization of Twitter in Portugal and the Portuguese administrative regions.
+Using medication administration and double-check data to infer social network influence in intensive care units.
+Using modern methods for missing data analysis with the social relations model: A bridge to social network analysis.
+Using network motifs to characterize temporal network evolution leading to diffusion inhibition.
+Using network science to assess particle swarm optimizers.
+Using targeted betweenness centrality to identify bridges to neglected users in the Twitter conversation on veteran suicide.
+Using weak ties to understand the resource usage and sharing patterns of a professional learning community.
+Utility and dynamic social networks.
+Utilizing computational trust to identify rumor spreaders on Twitter.
+Utilizing microblogs for optimized real-time resource allocation in post-disaster scenarios.
+Utilizing the average node degree to assess the temporal growth rate of Twitter.
+VIP-club phenomenon: Emergence of elites and masterminds in social networks.
+Validating Tantra Framework using entropy.
+Validation of tie corroboration and reported alter characteristics among a sample of young men who have sex with men.
+Variations in network boundary and type: A study of adolescent peer influences.
+Verification of lack of emergent behavior in extending a social network of agents.
+Visual Narratives and Collective Memory across Peer-Produced Accounts of Contested Sociopolitical Events.
+Visual knowledge representation of conceptual semantic networks.
+Visualization methods for longitudinal social networks and stochastic actor-oriented modeling.
+Visualization of trends in subscriber attributes of communities on mobile telecommunications networks.
+Visualization techniques for categorical analysis of social networks with multiple edge sets.
+Vulnerability of clustering under node failure in complex networks.
+WELFake: Word Embedding Over Linguistic Features for Fake News Detection.
+Walrasian Equilibrium-Based Multiobjective Optimization for Task Allocation in Mobile Crowdsourcing.
+Weak ties and contact initiation in everyday life: Exploring contextual variations from contact diaries.
+Weak ties and the core discussion network: Why people regularly discuss important matters with unimportant alters.
+Weak ties, strong ties, and job mobility in urban China: 1978-2008.
+Weakly supervised cyberbullying detection with participant-vocabulary consistency.
+Weaving the fabric of science: Dynamic network models of science's unfolding structure.
+Web of Credit: Adaptive Personalized Trust Network Inference From Online Rating Data.
+Web sessions clustering using hybrid sequence alignment measure (HSAM).
+Weight matrices for social influence analysis: An investigation of measurement errors and their effect on model identification and estimation quality.
+Weighted line graphs for overlapping community discovery.
+What Contributes to a Crowdfunding Campaign's Success? Evidence and Analyses from GoFundMe Data.
+What are friends for? Elective communities of single people.
+What drives participatory policy processes: Grassroot activities, scientific knowledge or donor money? - A comparative policy network approach.
+What effects topological changes in dynamic graphs? - Elucidating relationships between vertex attributes and the graph structure.
+What makes a network go round? Exploring the structure of a strong component with exponential random graph models.
+What makes the Kula go round?: A simulation model of the spontaneous emergence of a ceremonial exchange system.
+What types of brokerage bridge the research-practice gap? The case of public school educators.
+What's in Twitter, I know what parties are popular and who you are supporting now!
+What\'s in the 'old boys' network? Accessing social capital in gendered and racialized networks.
+When experience counts most: effects of experiential similarity on men's and women's receipt of support during bereavement.
+When is brokerage negatively associated with economic benefits? Ethnic diversity, competition, and common-pool resources.
+When is ignorance bliss? Disclosing true information and cascades of norm violation in networks.
+When networks speak volumes: Variation in the size of broader acquaintanceship networks.
+Where Are WeChat Users: A Geolocation Method Based on User Missequence State Analysis.
+Where do intra-organizational advice relations come from? The role of informal status and social capital in social exchange.
+Where do social relations come from?: A study of personal networks in the Toulouse area of France.
+Where has this tweet come from? Fast and fine-grained geolocalization of non-geotagged tweets.
+Who Spread That Rumor: Finding the Source of Information in Large Online Social Networks With Probabilistically Varying Internode Relationship Strengths.
+Who are the objects of positive and negative gossip at work?: A social network perspective on workplace gossip.
+Who benefits from network analysis: ethics of social network research.
+Who is bullying whom in ethnically diverse primary schools? Exploring links between bullying, ethnicity, and ethnic diversity in Dutch primary schools.
+Who is dropped and why? Methodological and substantive accounts for network loss.
+Who is fighting with whom? How ethnic origin shapes friendship, dislike, and physical violence relations in German secondary schools.
+Who speaks up to whom? A relational approach to employee voice.
+Who takes the lead? Social network analysis as a pioneering tool to investigate shared leadership within sports teams.
+Why Did Mr. Trump Oppose Globalization? An E-CARGO Approach.
+Why Waldo befriended the dummy? k-Anonymization of social networks with pseudo-nodes.
+Why and how to deceive: game results with sociological evidence.
+Why does everybody hate me? Balance, status, and homophily: The triumvirate of signed tie formation.
+Why some people do not use Facebook?
+WiONE: One-Shot Learning for Environment-Robust Device-Free User Authentication via Commodity Wi-Fi in Man-Machine System.
+Women's participation in the labor force: the role of social networks.
+Word Adoption in Online Communities.
+Word embeddings and deep learning for location prediction: tracking Coronavirus from British and American tweets.
+Workload characterization of a location-based social network.
+World War III analysis using signed social networks.
+X-Mark: a benchmark for node-attributed community discovery algorithms.
+You are who remembers you. Detecting leadership through accuracy of recall.
+YouTube of porn: longitudinal measurement, analysis, and characterization of a large porn streaming service.
+Youth co-offending networks: An investigation of social and spatial effects.
+eWOM for public institutions: application to the case of the Portuguese Army.
+k-Context Technique: A Method for Identifying Dense Subgraphs in a Heterogeneous Information Network.
+t-PINE: tensor-based predictable and interpretable node embeddings.
